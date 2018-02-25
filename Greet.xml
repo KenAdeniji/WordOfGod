@@ -1,0 +1,283 @@
+<?xml version="1.0" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='Greet.xslt'?>
+<Greet>
+  <Greet>
+    <UniqueId>db59113c-0ac9-48be-821e-a2f3fb2fa9a9</UniqueId>
+    <SequenceOrderId>1</SequenceOrderId>
+    <Dated>2003-07-01T00:00:00.0000000-07:00</Dated>
+    <Sign>1</Sign>
+    <ScriptureReference>1 Samuel 25:5</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=1+Samuel+25%3A5&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Sender>David</Sender>
+    <Ambassador>Ten young men</Ambassador>
+    <AmbassadorPopulation>10</AmbassadorPopulation>
+    <Recipient>Nabal</Recipient>
+    <Audience>Carmel</Audience>
+    <Saying>Greet him in my name: And say to him that lives in prosperity, Peace be both to you, and peace be to your house, and peace be unto all that you have. And now I have heard that you have shearers: now your shepherds which were with us, we hurt them not, neither was there ought missing unto them, all the while they were in Carmel. Ask the young men, and they will show you. Wherefore let the young men find favor in your eyes: for we come in a good day: give, I pray you, whatsoever comes to your hand unto your servants, and to your son David.</Saying>
+    <Classification>Love</Classification>
+  </Greet>
+  <Greet>
+    <UniqueId>04e4ce59-ea49-42c4-8b17-da4745884272</UniqueId>
+    <SequenceOrderId>2</SequenceOrderId>
+    <Dated>2003-07-01T00:00:00.0000000-07:00</Dated>
+    <Sign>2</Sign>
+    <ScriptureReference>Matthew 23:7, Luke 11:43, Luke 20:46</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Matthew+23%3A7%2C+Luke+11%3A43%2C+Luke+20%3A46&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Sender />
+    <Recipient>Scribes and the Pharisees</Recipient>
+    <Audience>Uppermost rooms at feasts, and the chief seats in the synagogues, and markets.</Audience>
+    <Saying>Greetings in the markets, and to be called of men, Rabbi, Rabbi</Saying>
+    <Classification>Love</Classification>
+  </Greet>
+  <Greet>
+    <UniqueId>60a8010e-09f4-48cb-bd2a-f998fb9a89c1</UniqueId>
+    <SequenceOrderId>3</SequenceOrderId>
+    <Dated>2003-07-01T00:00:00.0000000-07:00</Dated>
+    <Sign>3</Sign>
+    <ScriptureReference>Acts 15:23</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Acts+15%3A23&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Sender>Church</Sender>
+    <Ambassador>Chosen men of their own company to Antioch with Paul and Barnabas; namely, Judas surnamed Barsabas and Silas, chief men among the brethren</Ambassador>
+    <AmbassadorPopulation>4</AmbassadorPopulation>
+    <Recipient>Antioch</Recipient>
+    <Audience>Gentiles in Antioch and Syria and Cilicia. Forasmuch as we have heard, that certain which went out from us have troubled you with words, subverting your souls, saying, Ye must be circumcised, and keep the law: to whom we gave no such commandment: It seemed good unto us, being assembled with one accord, to send chosen men unto you with our beloved Barnabas and Paul,</Audience>
+    <Saying>The apostles and elders and brethren send greeting unto the brethren which are of the Gentiles in Antioch and Syria and Cilicia. </Saying>
+    <Classification>Circumcision</Classification>
+  </Greet>
+  <Greet>
+    <UniqueId>5201308c-a56a-46d3-b426-61803abf6c86</UniqueId>
+    <SequenceOrderId>4</SequenceOrderId>
+    <Dated>2003-07-01T00:00:00.0000000-07:00</Dated>
+    <Sign>4</Sign>
+    <ScriptureReference>Acts 23:26</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Acts+23%3A26&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Sender>Claudius Lysias</Sender>
+    <Ambassador />
+    <Recipient>Most excellent governor Felix</Recipient>
+    <Audience>Rome</Audience>
+    <Saying>Greeting</Saying>
+    <Classification>Rome</Classification>
+  </Greet>
+  <Greet>
+    <UniqueId>f5647f89-c8d4-452c-ae94-6cf09fea47f3</UniqueId>
+    <SequenceOrderId>5</SequenceOrderId>
+    <Dated>2003-07-01T00:00:00.0000000-07:00</Dated>
+    <Sign>5</Sign>
+    <ScriptureReference>Romans 16:3</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Romans+16%3A3&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Sender>Paul</Sender>
+    <Recipient>Priscilla and Aquila</Recipient>
+    <Audience>Rome</Audience>
+    <Saying>Greet Priscilla and Aquila my helpers in Christ Jesus.</Saying>
+    <Classification>Help</Classification>
+  </Greet>
+  <Greet>
+    <UniqueId>8afba038-61b8-4b5f-ac8c-959e3892afcb</UniqueId>
+    <SequenceOrderId>6</SequenceOrderId>
+    <Dated>2003-07-01T00:00:00.0000000-07:00</Dated>
+    <Sign>6</Sign>
+    <ScriptureReference>Romans 16:5</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Romans+16%3A5&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Sender>Paul</Sender>
+    <Recipient>Church</Recipient>
+    <Audience />
+    <Saying>Likewise greet the church that is in their house. </Saying>
+    <Classification>Help</Classification>
+  </Greet>
+  <Greet>
+    <UniqueId>8f68f776-41a7-4f4b-811a-71a39f3e42af</UniqueId>
+    <SequenceOrderId>7</SequenceOrderId>
+    <Dated>2003-07-01T00:00:00.0000000-07:00</Dated>
+    <Sign>7</Sign>
+    <ScriptureReference>Romans 16:6</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Romans+16%3A6&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Sender>Paul</Sender>
+    <Recipient>Mary</Recipient>
+    <Audience>Church</Audience>
+    <Saying>Greet Mary, who bestowed much labour on us.</Saying>
+    <Classification>Labor</Classification>
+  </Greet>
+  <Greet>
+    <UniqueId>0c05d0e6-05b1-4d2b-9ac6-2e5e0ac494f3</UniqueId>
+    <SequenceOrderId>8</SequenceOrderId>
+    <Dated>2003-07-01T00:00:00.0000000-07:00</Dated>
+    <Sign>8</Sign>
+    <ScriptureReference>Romans 16:8</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Romans+16%3A8&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Sender>Paul</Sender>
+    <Recipient>Amplias</Recipient>
+    <Audience>Church</Audience>
+    <Saying>Greet Amplias my beloved in the Lord. 
+
+ Greet Amplias my beloved in the Lord. 
+
+ Greet Amplias my beloved in the Lord. 
+
+ Greet Amplias my beloved in the Lord. 
+
+Greet Amplias my beloved in the Lord. 
+Greet Amplias my beloved in the Lord. 
+
+Greet Amplias my beloved in the LORD.
+
+</Saying>
+    <Classification>Love</Classification>
+  </Greet>
+  <Greet>
+    <UniqueId>7fa8bdca-1aa1-4471-8395-bab1ed945493</UniqueId>
+    <SequenceOrderId>9</SequenceOrderId>
+    <Dated>2003-07-01T00:00:00.0000000-07:00</Dated>
+    <Sign>9</Sign>
+    <ScriptureReference>Romans 16:11</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Romans+16%3A11&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Sender>Paul</Sender>
+    <Recipient>Household of Narcissus</Recipient>
+    <Audience>Church</Audience>
+    <Saying>Greet them that be of the household of Narcissus, which are in the Lord.</Saying>
+    <Classification>Household</Classification>
+  </Greet>
+  <Greet>
+    <UniqueId>0510bb12-f4dd-47e2-bac6-12122be300c0</UniqueId>
+    <SequenceOrderId>10</SequenceOrderId>
+    <Dated>2003-07-01T00:00:00.0000000-07:00</Dated>
+    <Sign>10</Sign>
+    <ScriptureReference>1 Corinthians 16:20</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=1+Corinthians+16%3A20&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Sender>Paul</Sender>
+    <Recipient>Church of God which is at Corinth</Recipient>
+    <Audience />
+    <Saying>All the brethren greet you. Greet ye one another with an holy kiss.</Saying>
+    <Classification>Holy kiss</Classification>
+  </Greet>
+  <Greet>
+    <UniqueId>0fd35fbd-1713-4930-b18a-7196a46e78b1</UniqueId>
+    <SequenceOrderId>11</SequenceOrderId>
+    <Dated>2003-07-01T00:00:00.0000000-07:00</Dated>
+    <Sign>11</Sign>
+    <ScriptureReference>2 Corinthians 13:12</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=2+Corinthians+13%3A12&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Sender>Paul</Sender>
+    <Recipient>Church of God which is at Corinth</Recipient>
+    <Audience />
+    <Saying>Greet one another with an holy kiss.</Saying>
+    <Classification>Holy kiss</Classification>
+  </Greet>
+  <Greet>
+    <UniqueId>7471d4f7-1783-4786-acde-2e3c1ad047ae</UniqueId>
+    <SequenceOrderId>12</SequenceOrderId>
+    <Dated>2003-07-01T00:00:00.0000000-07:00</Dated>
+    <Sign>12</Sign>
+    <ScriptureReference>Philippians 4:21</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Philippians+4%3A21&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Sender>Paul and Timotheus, the servants of Jesus Christ</Sender>
+    <Recipient>All the saints in Christ Jesus which are at Philippi, with the bishops and deacons</Recipient>
+    <Audience />
+    <Saying>The brethren which are with me greet you.</Saying>
+    <Classification>Saint</Classification>
+  </Greet>
+  <Greet>
+    <UniqueId>7cf861ae-3823-45b1-a74b-99cbdef83cf5</UniqueId>
+    <SequenceOrderId>13</SequenceOrderId>
+    <Dated>2003-07-01T00:00:00.0000000-07:00</Dated>
+    <Sign>13</Sign>
+    <ScriptureReference>Colossians 4:14</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Colossians+4%3A14&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Sender>Luke the beloved physician, and Demas</Sender>
+    <Ambassador>Paul</Ambassador>
+    <Recipient>Tthe saints and faithful brethren in Christ which are at Colosse</Recipient>
+    <Audience />
+    <Saying>Luke, the beloved physician, and Demas, greet you.</Saying>
+    <Classification>Intercessor</Classification>
+  </Greet>
+  <Greet>
+    <UniqueId>a3a6f085-5186-407d-a71d-043363b2b2b1</UniqueId>
+    <SequenceOrderId>14</SequenceOrderId>
+    <Dated>2003-07-01T00:00:00.0000000-07:00</Dated>
+    <Sign>14</Sign>
+    <ScriptureReference>1 Thessalonians 5:26</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=1+Thessalonians+5%3A26&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Sender>Paul, and Silvanus, and Timotheus</Sender>
+    <Recipient>Church of the Thessalonians</Recipient>
+    <Audience />
+    <Saying>Greet all the brethren with an holy kiss.</Saying>
+    <Classification>Holy kiss</Classification>
+  </Greet>
+  <Greet>
+    <UniqueId>6a64577b-0c20-4c37-bec8-54f404c83f2e</UniqueId>
+    <SequenceOrderId>15</SequenceOrderId>
+    <Dated>2003-07-01T00:00:00.0000000-07:00</Dated>
+    <Sign>15</Sign>
+    <ScriptureReference>2 Timothy 4:21</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=2+Timothy+4%3A21&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Sender>Eubulus</Sender>
+    <Ambassador>Paul</Ambassador>
+    <Recipient>Timothy</Recipient>
+    <Audience />
+    <Saying>Eubulus greets you</Saying>
+    <Classification>Intercessor</Classification>
+  </Greet>
+  <Greet>
+    <UniqueId>46f5743f-6d01-42aa-90a8-b61144390ba8</UniqueId>
+    <SequenceOrderId>16</SequenceOrderId>
+    <Dated>2003-07-01T00:00:00.0000000-07:00</Dated>
+    <Sign>16</Sign>
+    <ScriptureReference>Titus 3:15</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Titus+3%3A15&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Sender>Paul</Sender>
+    <Ambassador />
+    <Recipient>Titus</Recipient>
+    <Audience />
+    <Saying>Greet them that love us in the faith. </Saying>
+    <Classification>Intercessor</Classification>
+  </Greet>
+  <Greet>
+    <UniqueId>48319b79-2708-4302-b070-8beb12f9897d</UniqueId>
+    <SequenceOrderId>17</SequenceOrderId>
+    <Dated>2003-07-01T00:00:00.0000000-07:00</Dated>
+    <Sign>17</Sign>
+    <ScriptureReference>James 1:1</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=James+1%3A1&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Sender>James</Sender>
+    <Recipient>Twelve tribes which are scattered abroad</Recipient>
+    <Saying>Greeting</Saying>
+    <Classification>Faith</Classification>
+  </Greet>
+  <Greet>
+    <UniqueId>692c51bd-c0aa-4117-b66b-fb234cb352dd</UniqueId>
+    <SequenceOrderId>18</SequenceOrderId>
+    <Dated>2003-07-01T00:00:00.0000000-07:00</Dated>
+    <Sign>18</Sign>
+    <ScriptureReference>1 Peter 5:14</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=1+Peter+5%3A14&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Sender>Peter</Sender>
+    <Recipient>Strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia</Recipient>
+    <Saying>Greet you one another with a kiss of charity.</Saying>
+    <Classification>Kiss of charity</Classification>
+  </Greet>
+  <Greet>
+    <UniqueId>e9c5c1e3-8132-40f1-aad1-92ff33949831</UniqueId>
+    <SequenceOrderId>19</SequenceOrderId>
+    <Dated>2003-07-01T00:00:00.0000000-07:00</Dated>
+    <Sign>19</Sign>
+    <ScriptureReference>2 John 1:13</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=2+John+1%3A13&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Sender>The children of your elect sister</Sender>
+    <Ambassador>John</Ambassador>
+    <Recipient>Elect lady and her children.</Recipient>
+    <Saying>The children of your elect sister greet the elect lady and her children.</Saying>
+    <Classification>Children</Classification>
+  </Greet>
+  <Greet>
+    <UniqueId>cdd7870a-60ea-46ca-98f2-ccce4e7656a8</UniqueId>
+    <SequenceOrderId>20</SequenceOrderId>
+    <Dated>2003-07-01T00:00:00.0000000-07:00</Dated>
+    <Sign>20</Sign>
+    <ScriptureReference>3 John 1:14</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=3+John+1%3A14&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Sender>John</Sender>
+    <Ambassador>Gaius</Ambassador>
+    <Recipient>Friends</Recipient>
+    <Saying>Greet the friends by name. </Saying>
+    <Classification>Love</Classification>
+  </Greet>
+</Greet>

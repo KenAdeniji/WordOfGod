@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="Generation" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="Generation" msdata:IsDataSet="true">
+    <xs:complexType>
+      <xs:choice maxOccurs="unbounded">
+        <xs:element name="Generation">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="UniqueId" msdata:DataType="System.Guid, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" type="xs:string" minOccurs="0" />
+              <xs:element name="SequenceOrderId" type="xs:int" minOccurs="0" />
+              <xs:element name="Dated" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Sign" type="xs:int" minOccurs="0" />
+              <xs:element name="ScriptureReference" type="xs:string" minOccurs="0" />
+              <xs:element name="ScriptureReferenceURI" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

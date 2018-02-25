@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+
+	<title>Google Maps JavaScript API Example: simple</title>
+	<script src="http://maps.google.com/maps?file=api&v=1&key=ABQIAAAAu0gWQ35ZYRI9defACI4EshQ6ddSitG4gy5eF7s6VVr069Zsn0BSWccYXcdP5f1fYxQO2EfEdzMRQ5g"
+			type="text/javascript">
+	</script>
+
+	<script type="text/javascript">
+	//<![CDATA[
+
+	function onLoad() {
+	  // The basics.
+	  //
+	  // Creates a map and centers it on Palo Alto.
+	  
+	  if (GBrowserIsCompatible()) {
+		var map = new GMap(document.getElementById("map"));
+		map.centerAndZoom(new GPoint(-122.1419, 37.4419), 4);
+	  }
+	}
+
+	//]]>
+	</script>
+  </head>
+  <body onload="onLoad()">
+
+	<div id="map" style="width: 500px; height: 300px"></div>
+  </body>
+</html>

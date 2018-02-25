@@ -1,0 +1,2 @@
+@Echo Off
+NMake GutenbergRogetThesaurusOfEnglishWordsAndPhrases.mak

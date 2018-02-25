@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='Hour.xslt'?>
+<Hour>
+  <Hour>
+    <UniqueId>3fc79408-7fe4-4d53-a730-433825e0369f</UniqueId>
+    <Dated>2002-09-09T00:00:00.0000000-07:00</Dated>
+    <Title>First watch, evening, between 6 and 9pm.</Title>
+    <ScriptureReference />
+    <ScriptureReferenceURI />
+    <Sign>0</Sign>
+    <Commentary />
+  </Hour>
+  <Hour>
+    <UniqueId>277e652b-a24e-493d-8490-7ad915004320</UniqueId>
+    <Dated>2002-09-09T00:00:00.0000000-07:00</Dated>
+    <Title>Second Watch, midnight, between 9 p.m. and midnight.</Title>
+    <ScriptureReference />
+    <ScriptureReferenceURI />
+    <Sign>3</Sign>
+    <Commentary />
+  </Hour>
+  <Hour>
+    <UniqueId>93842cd6-609a-4713-8089-3e0f6cb05e18</UniqueId>
+    <Dated>2002-09-09T00:00:00.0000000-07:00</Dated>
+    <Title>Third Watch, cock-crow, between midnight and 3 a.m.</Title>
+    <ScriptureReference>Acts 23:23</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Acts+23%3A23&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Sign>6</Sign>
+    <Commentary />
+  </Hour>
+  <Hour>
+    <UniqueId>6bf9e2e3-ac40-47e5-8ef5-efbedef87f57</UniqueId>
+    <Dated>2002-09-09T00:00:00.0000000-07:00</Dated>
+    <Title>Fourth Watch, morning, between 3 and 6 a.m.</Title>
+    <ScriptureReference />
+    <ScriptureReferenceURI />
+    <Sign>9</Sign>
+    <Commentary />
+  </Hour>
+  <Hour>
+    <UniqueId>f3c23348-366c-4006-8aeb-29aa32e8b6f3</UniqueId>
+    <Dated>2002-09-09T00:00:00.0000000-07:00</Dated>
+    <Title>Third hour, between 6 and 9 a.m.</Title>
+    <ScriptureReference>Acts 2:15</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Acts+2%3A15&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Sign>12</Sign>
+    <Commentary />
+  </Hour>
+  <Hour>
+    <UniqueId>9836965c-3843-42b2-a2f4-37c45ca14b09</UniqueId>
+    <Dated>2002-09-09T00:00:00.0000000-07:00</Dated>
+    <Title>Sixth hour, between 9 a.m. and noon.</Title>
+    <ScriptureReference>Matthew 27:45, Mark 15:33 </ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Matthew+27%3A45%2C+Mark+15%3A33&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Sign>15</Sign>
+    <Commentary />
+  </Hour>
+  <Hour>
+    <UniqueId>c9ec8d61-7cd0-4f7d-b55b-1ef923d22152</UniqueId>
+    <Dated>2002-09-09T00:00:00.0000000-07:00</Dated>
+    <Title>Seventh hour, 10 a.m.</Title>
+    <ScriptureReference>John 4:52 </ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=John+4%3A52&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Sign>16</Sign>
+    <Commentary />
+  </Hour>
+  <Hour>
+    <UniqueId>6d3a1e26-df02-4281-8063-f19d9391bad7</UniqueId>
+    <Dated>2002-09-09T00:00:00.0000000-07:00</Dated>
+    <Title>Ninth hour, between noon and 3 p.m.</Title>
+    <ScriptureReference>Genesis 43:16, Genesis 43:25, Deuteronomy 28:29, Judges 19:8, 2 Samuel 4:5, 1 Kings 18:26, 1 Kings 18:27, 1 Kings 18:29, 1 Kings 20:16, 2 Kings 4:20, Nehemiah 8:3, Job 5:14, Job 11:17, Psalms 37:6, Psalms 55:17, Psalms 91:6, Song of Solomon 1:7, Isaiah 16:3, Isaiah 58:10, Isaiah 59:10, Jeremiah 6:4, Jeremiah 15:8, Jeremiah 20:16, Amos 8:9, Zephaniah 2:4, Matthew 20:5, Matthew 27:45, Matthew 27:46, Mark 15:33, Mark 15:34, Luke 23:44, Acts 3:1, Acts 10:3, Acts 10:30, Acts 22:6, Acts 26:13</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Genesis+43%3A16%2C+Genesis+43%3A25%2C+Deuteronomy+28%3A29%2C+Judges+19%3A8%2C+2+Samuel+4%3A5%2C+1+Kings+18%3A26%2C+1+Kings+18%3A27%2C+1+Kings+18%3A29%2C+1+Kings+20%3A16%2C+2+Kings+4%3A20%2C+Nehemiah+8%3A3%2C+Job+5%3A14%2C+Job+11%3A17%2C+Psalms+37%3A6%2C+Psalms+55%3A17%2C+Psalms+91%3A6%2C+Song+of+Solomon+1%3A7%2C+Isaiah+16%3A3%2C+Isaiah+58%3A10%2C+Isaiah+59%3A10%2C+Jeremiah+6%3A4%2C+Jeremiah+15%3A8%2C+Jeremiah+20%3A16%2C+Amos+8%3A9%2C+Zephaniah+2%3A4%2C+Matthew+20%3A5%2C+Matthew+27%3A45%2C+Matthew+27%3A46%2C+Mark+15%3A33%2C+Mark+15%3A34%2C+Luke+23%3A44%2C+Acts+3%3A1%2C+Acts+10%3A3%2C+Acts+10%3A30%2C+Acts+22%3A6%2C+Acts+26%3A13&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Sign>18</Sign>
+    <Commentary>Noon, Midday: 27 verses (Genesis 43:16, Genesis 43:25, Deuteronomy 28:29, Judges 19:8, 2 Samuel 4:5, 1 Kings 18:26, 1 Kings 18:27, 1 Kings 18:29, 1 Kings 20:16, 2 Kings 4:20, Nehemiah 8:3, Job 5:14, Job 11:17, Psalms 37:6, Psalms 55:17, Psalms 91:6, Song of Solomon 1:7, Isaiah 16:3, Isaiah 58:10, Isaiah 59:10, Jeremiah 6:4, Jeremiah 15:8, Jeremiah 20:16, Amos 8:9, Zephaniah 2:4, Acts 22:6, Acts 26:13).</Commentary>
+  </Hour>
+  <Hour>
+    <UniqueId>72bcde02-8b8f-48e3-8614-6956ce15d9f3</UniqueId>
+    <Dated>2002-09-09T00:00:00.0000000-07:00</Dated>
+    <Title>Twelfth hour, between 3 and 6 p.m.</Title>
+    <ScriptureReference />
+    <ScriptureReferenceURI />
+    <Sign>21</Sign>
+    <Commentary />
+  </Hour>
+</Hour>
