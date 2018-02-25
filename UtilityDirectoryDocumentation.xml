@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UtilityDirectory</name>
+    </assembly>
+    <members>
+        <member name="T:WordEngineering.UtilityDirectory">
+            <summary>UtilityDirectory.</summary>
+        </member>
+        <member name="F:WordEngineering.UtilityDirectory.ArgumentIndexDirectory">
+            <summary>The argument index for the directory.</summary>
+        </member>
+        <member name="F:WordEngineering.UtilityDirectory.ArgumentIndexFileSearchPattern">
+            <summary>The argument index for the file search pattern.</summary>
+        </member>
+        <member name="M:WordEngineering.UtilityDirectory.Main(System.String[])">
+            <summary>The entry point for the application.</summary>
+            <param name="argv">Command-line arguments.</param>
+        </member>
+        <member name="M:WordEngineering.UtilityDirectory.Dir(System.String,System.String,System.Collections.ArrayList@,System.Collections.ArrayList@)">
+            <summary>
+             Process all files in the directory passed in, and recurse on any directories 
+             that are found to process the files they contain
+             ms-help://MS.NETFrameworkSDK/cpref/html/frlrfSystemIODirectoryClassGetDirectoriesTopic1.htm
+             BibleFoundationPopulateEaston.cs public static void ProcessDirectory().
+            </summary>
+            <param name="directorynameSource">The source directory name.</param>
+            <param name="fileSearchPattern">The file search pattern.</param>
+            <param name="arrayListDirectoryname">The list of directory name(s).</param>
+            <param name="arrayListFilename">The list of filename(s).</param>
+        </member>
+        <member name="M:WordEngineering.UtilityDirectory.WebServerFullPath(System.String@)">
+            <summary>The web server full path for a given filename.</summary>
+            <param name="filename">The filename.</param>
+        </member>
+    </members>
+</doc>

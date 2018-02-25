@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UtilityDateTimeXml</name>
+    </assembly>
+    <members>
+        <member name="T:WordEngineering.UtilityDateTimeXml">
+            <summary>UtilityDateTimeXml.</summary>
+        </member>
+        <member name="F:WordEngineering.UtilityDateTimeXml.CommandLineArgumentDateTimeStart">
+            <summary>The command-line argument for the start datetime.</summary>
+        </member>
+        <member name="F:WordEngineering.UtilityDateTimeXml.CommandLineArgumentDateTimeEnd">
+            <summary>The command-line argument for the end datetime.</summary>
+        </member>
+        <member name="M:WordEngineering.UtilityDateTimeXml.Main(System.String[])">
+            <summary>The entry point for the application.</summary>
+            <param name="argv">
+             The first argument is the start datetime in the XML DateTime Format (xs:dateTime), for example, 2003-03-28T19:49:00.0000000-08:00.
+             The second argument is the start datetime in the XML DateTime Format (xs:dateTime), for example, 2003-04-17T10:24:00.0000000-08:00.
+            </param>
+        </member>
+        <member name="M:WordEngineering.UtilityDateTimeXml.TimeSpan(System.String,System.String,System.TimeSpan@,System.String@)">
+            <summary>The Timespan.</summary>
+            <param name="stringStart">The start datetime in the XML DateTime Format (xs:dateTime), for example, 2003-03-28T19:49:00.0000000-08:00.</param>
+            <param name="stringEnd">The end datetime in the XML DateTime Format (xs:dateTime), for example, 2003-03-28T19:49:00.0000000-08:00.</param>
+            <param name="timeSpan">The timespan.</param>
+            <param name="exceptionMessage">The exception message.</param>
+        </member>
+        <member name="M:WordEngineering.UtilityDateTimeXml.TimeSpan(System.DateTime,System.DateTime,System.TimeSpan@,System.String@)">
+            <summary>The Timespan.</summary>
+            <param name="dateTimeStart">The start datetime.</param>
+            <param name="dateTimeEnd">The end datetime.</param>
+            <param name="timeSpan">The timespan.</param>
+            <param name="exceptionMessage">The exception message.</param>  
+        </member>
+    </members>
+</doc>
