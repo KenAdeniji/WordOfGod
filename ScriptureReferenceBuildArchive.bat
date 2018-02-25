@@ -1,0 +1,4 @@
+@Echo Off
+csc /doc:ScriptureReferenceDocumentation.xml /main:WordEngineering.ScriptureReference /out:ScriptureReference.exe /target:exe BibleBookTitle.cs ScriptureReference.cs ScriptureReferenceSubset.cs ScriptureReferenceText.cs UtilityDatabase.cs
+csc /out:bin\ScriptureReference.dll /target:library BibleBookTitle.cs ScriptureReference.cs ScriptureReferenceSubset.cs ScriptureReferenceText.cs UtilityDatabase.cs
+csc /out:bin\ScriptureReferenceTextRetrievalPage.aspx.cs.dll /target:library ScriptureReferenceTextRetrievalPage.aspx.cs BibleBookTitle.cs ScriptureReference.cs ScriptureReferenceSubset.cs ScriptureReferenceText.cs UtilityDatabase.cs

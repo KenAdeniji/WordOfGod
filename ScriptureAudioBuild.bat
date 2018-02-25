@@ -1,0 +1,1 @@
+NMake ScriptureAudio.mak
