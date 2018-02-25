@@ -1,0 +1,927 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AlphabetSequencePage.aspx.cs</name>
+    </assembly>
+    <members>
+        <member name="T:WordEngineering.AlphabetSequencePage">
+            <summary>AlphabetSequencePage.</summary>
+        </member>
+        <member name="F:WordEngineering.AlphabetSequencePage.databaseConnectionString">
+            <summary>The database connection string.</summary>
+        </member>
+        <member name="F:WordEngineering.AlphabetSequencePage.exceptionMessage">
+            <summary>The exception message.</summary>
+        </member>
+        <member name="F:WordEngineering.AlphabetSequencePage.filenameConfigurationXml">
+            <summary>The XML Configuration file name.</summary>  
+        </member>
+        <member name="F:WordEngineering.AlphabetSequencePage.serverMapPath">
+            <summary>The server map path.</summary>
+        </member>
+        <member name="F:WordEngineering.AlphabetSequencePage.ButtonQuery">
+            <summary>The query button.</summary>
+        </member>
+        <member name="F:WordEngineering.AlphabetSequencePage.LabelAlphabetSequence">
+            <summary>The Alphabet Sequence label.</summary>
+        </member>
+        <member name="F:WordEngineering.AlphabetSequencePage.LabelExceptionMessage">
+            <summary>The exception message label.</summary>
+        </member>
+        <member name="F:WordEngineering.AlphabetSequencePage.LabelWord">
+            <summary>The word label.</summary>  
+        </member>
+        <member name="F:WordEngineering.AlphabetSequencePage.TextBoxWord">
+            <summary>The word textbox.</summary>
+        </member>
+        <member name="F:WordEngineering.AlphabetSequencePage.TextBoxAlphabetSequence">
+            <summary>The alphabet sequence textbox.</summary>
+        </member>
+        <member name="F:WordEngineering.AlphabetSequencePage.TextBoxScriptureReference">
+            <summary>The scripture reference textbox.</summary>
+        </member>
+        <member name="F:WordEngineering.AlphabetSequencePage.TextBoxVerseForward">
+            <summary>The verse forward textbox.</summary>
+        </member>
+        <member name="F:WordEngineering.AlphabetSequencePage.TextBoxChapterForward">
+            <summary>The chapter forward textbox.</summary>
+        </member>
+        <member name="F:WordEngineering.AlphabetSequencePage.TextBoxChapterBackward">
+            <summary>The chapter backward textbox.</summary>  
+        </member>
+        <member name="F:WordEngineering.AlphabetSequencePage.TextBoxVerseBackward">
+            <summary>The verse backward textbox.</summary>    
+        </member>
+        <member name="F:WordEngineering.AlphabetSequencePage.TextBoxScriptureReferenceCrosswalkURIHtml">
+            <summary>The scripture reference for the Crosswalk URI HTML textbox.</summary>
+        </member>
+        <member name="F:WordEngineering.AlphabetSequencePage.TextBoxScriptureReferenceCrosswalkURIXml">
+            <summary>The scripture reference for the Crosswalk URI XML textbox.</summary>  
+        </member>
+        <member name="F:WordEngineering.AlphabetSequencePage.RepeaterAlphabetSequence">
+            <summary>The alphabet sequence repeater.</summary>  
+        </member>
+        <member name="M:WordEngineering.AlphabetSequencePage.Page_Load(System.Object,System.EventArgs)">
+            <summary>Page_Load</summary>
+        </member>
+        <member name="M:WordEngineering.AlphabetSequencePage.ButtonQuery_Click(System.Object,System.EventArgs)">
+            <summary>ButtonQuery_Click</summary>
+        </member>
+        <member name="M:WordEngineering.AlphabetSequencePage.ButtonDatabaseQueryChapterMaximum_Click(System.Object,System.EventArgs)">
+            <summary>ButtonDatabaseQueryChapterMaximum_Click</summary>
+        </member>
+        <member name="T:WordEngineering.AlphabetSequence">
+            <summary>Alphabet Sequence.</summary>
+            <remarks>Alphabet Sequence.</remarks>
+        </member>
+        <member name="F:WordEngineering.AlphabetSequence.SQLSelectAlphabetSequence">
+            <summary>The SQL select for the alphabet sequence.</summary>
+        </member>
+        <member name="F:WordEngineering.AlphabetSequence.SQLSelectChapterMaximum">
+            <summary>The SQL select for the maximum chapter</summary>
+        </member>
+        <member name="F:WordEngineering.AlphabetSequence.DatabaseConnectionString">
+            <summary>The database connection string.</summary>
+        </member>
+        <member name="F:WordEngineering.AlphabetSequence.FilenameConfigurationXml">
+            <summary>The configuration XML filename.</summary>
+        </member>
+        <member name="M:WordEngineering.AlphabetSequence.Main(System.String[])">
+            <summary>The entry point for the application.</summary>
+            <param name="argv">A list of arguments</param>
+        </member>
+        <member name="M:WordEngineering.AlphabetSequence.DatabaseQuery(System.String@,System.String@,System.String,System.Int32@,WordEngineering.ScriptureReferenceAlphabetSequence[]@)">
+            <summary>The database query.</summary>
+            <param name="databaseConnectionString">The database connection string.</param>
+            <param name="exceptionMessage">The exception message.</param>
+            <param name="word">The word.</param>
+            <param name="alphabetSequence">The alphabet sequence.</param>
+            <param name="scriptureReferenceAlphabetSequence">The scripture reference alphabet sequence.</param>  
+        </member>
+        <member name="M:WordEngineering.AlphabetSequence.DatabaseQuery(System.String@,System.String@,System.String[],System.Int32[]@,WordEngineering.ScriptureReferenceAlphabetSequence[]@)">
+            <summary>The database query.</summary>
+            <param name="databaseConnectionString">The database connection string.</param>
+            <param name="exceptionMessage">The exception message.</param>
+            <param name="word">The word.</param>
+            <param name="alphabetSequence">The alphabet sequence.</param>
+            <param name="scriptureReferenceAlphabetSequence">The scripture reference alphabet sequence.</param>  
+        </member>
+        <member name="M:WordEngineering.AlphabetSequence.QueryAlphabetSequence(System.String)">
+            <summary>The alphabet sequence query.</summary>
+            <param name="word">The word.</param>
+        </member>
+        <member name="M:WordEngineering.AlphabetSequence.QueryChapterMaximum(System.String@,System.String@)">
+            <summary>The database query for the maximum chapter.</summary>
+            <param name="databaseConnectionString">The database connection string.</param>
+            <param name="exceptionMessage">The exception message.</param>
+        </member>
+        <member name="M:WordEngineering.AlphabetSequence.ConfigurationXml">
+            <summary>Read the XML Configuration file.</summary>
+        </member>
+        <member name="M:WordEngineering.AlphabetSequence.ConfigurationXml(System.String,System.String@,System.String@)">
+            <summary>Read the XML Configuration file.</summary>
+            <param name="filenameConfigurationXml">The XML Configuration file.</param>
+            <param name="exceptionMessage">The exception message.</param>
+            <param name="databaseConnectionString">The database connection string.</param>  
+        </member>
+        <member name="T:WordEngineering.BibleBookTitle">
+            <summary>BibleBookTitle will identify the various bible books titles, these will include Genesis, Exodus, Leviticus</summary>
+            <remarks>Genesis, Exodus, Leviticus ... 3 John, Jude, Revelation.</remarks>
+        </member>
+        <member name="F:WordEngineering.BibleBookTitle.CollectionDataView">
+            <summary>The collection data view.</summary>
+        </member>
+        <member name="M:WordEngineering.BibleBookTitle.Main(System.String[])">
+            <summary>The entry point for the application. List the titles of the books in the bible.</summary>
+            <param name="argv">A list of command line arguments</param>
+        </member>
+        <member name="M:WordEngineering.BibleBookTitle.BookTitle(System.Int32)">
+            <summary>Determine the bible book's title given the bible book's id.</summary>
+            <param name="bibleBookId">The bible book's id 1..66.</param>
+            <code>
+             <example>
+              System.Console.WriteLine("Bible Title 66: {0}", BibleBookTitle.BookTitle(66));
+             </example>  
+            </code>  
+        </member>
+        <member name="M:WordEngineering.BibleBookTitle.IndexOf(System.String)">
+            <summary>Determine the bible book's id given the bible book's title.</summary>
+            <param name="bibleBookSearch">The bible book's title.</param>
+            <code>
+             <example>
+               string         bibleBookTitleGenesis    = "Genesis";
+               string         bibleBookTitleRevelation = "Revelation";  
+               string         bibleBookTitleNull       = null;  
+               int            bibleBookIdGenesis       = BibleBookTitle.IndexOf(bibleBookTitleGenesis);
+               int            bibleBookIdRevelation    = BibleBookTitle.IndexOf(bibleBookTitleRevelation);
+               int            bibleBookIdNull          = BibleBookTitle.IndexOf(bibleBookTitleNull);
+               System.Console.WriteLine("Bible Book Title: {0} Id: {1}", bibleBookTitleGenesis, bibleBookIdGenesis);
+               System.Console.WriteLine("Bible Book Title: {0} Id: {1}", bibleBookTitleRevelation, bibleBookIdRevelation);  
+              System.Console.WriteLine("Bible Book Title: {0} Id: {1}", bibleBookTitleNull, bibleBookIdNull);    
+             </example>  
+            </code>  
+        </member>
+        <member name="M:WordEngineering.BibleBookTitle.CreateDataSource">
+            <summary>Create Data Source.</summary>
+        </member>
+        <member name="M:WordEngineering.BibleBookTitle.RetrieveDataSource">
+            <summary>Retrieve Data Source.</summary>
+        </member>
+        <member name="M:WordEngineering.BibleBookTitle.#cctor">
+            <summary>Static</summary>   
+        </member>
+        <member name="F:WordEngineering.BibleBookTitle.BibleBooks">
+            <summary>The bible book's titles.</summary>   
+        </member>
+        <member name="P:WordEngineering.BibleBookTitle.Item(System.String)">
+            <summary>Determine the bible book's id given the bible book's title.</summary>
+            <param name="bibleBookSearch">The bible book's title.</param>
+            <code>
+             <example>
+              BibleBookTitle bibleBookTitle           = new BibleBookTitle();
+              string         bibleBookTitleGenesis    = "Genesis";
+              string         bibleBookTitleRevelation = "Revelation";  
+              string         bibleBookTitleNull       = null;  
+              int            bibleBookIdGenesis       = bibleBookTitle[bibleBookTitleGenesis];
+              int            bibleBookIdRevelation    = (int) ((new BibleBookTitle()[bibleBookTitleRevelation]));
+              int            bibleBookIdNull          = (int) ((new BibleBookTitle()[bibleBookTitleNull]));
+              System.Console.WriteLine("Bible Book Title: {0} Id: {1}", bibleBookTitleGenesis, bibleBookIdGenesis);
+              System.Console.WriteLine("Bible Book Title: {0} Id: {1}", bibleBookTitleRevelation, bibleBookIdRevelation);  
+              System.Console.WriteLine("Bible Book Title: {0} Id: {1}", bibleBookTitleNull, bibleBookIdNull);    
+             </example>  
+            </code>  
+        </member>
+        <member name="P:WordEngineering.BibleBookTitle.Item(System.Int32)">
+            <summary>Determine the bible book's title given the bible book's id.</summary>
+            <param name="i">The bible book's id.</param>
+            <code>
+             <example>
+              BibleBookTitle bibleBookTitle           = new BibleBookTitle();
+              int            bibleBookIdGenesis       = 1;
+              int            bibleBookIdRevelation    = 66;
+              int            bibleBookIdMinus1        = -1;
+              string         bibleBookTitleGenesis    = bibleBookTitle[bibleBookIdGenesis];
+              string         bibleBookTitleRevelation = (string) ((new BibleBookTitle()[bibleBookIdRevelation]));
+              string         bibleBookTitleMinus1     = (string) ((new BibleBookTitle()[bibleBookIdMinus1]));
+              System.Console.WriteLine("Bible Book Title: {0} Id: {1}", bibleBookTitleGenesis, bibleBookIdGenesis);
+              System.Console.WriteLine("Bible Book Title: {0} Id: {1}", bibleBookTitleRevelation, bibleBookIdRevelation);  
+              System.Console.WriteLine("Bible Book Title: {0} Id: {1}", bibleBookTitleMinus1, bibleBookIdMinus1);    
+             </example>  
+            </code>  
+        </member>
+        <member name="T:WordEngineering.ScriptureReference">
+            <summary>Scripture reference.</summary>
+            <remarks>Scripture reference.</remarks>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.Comma">
+            <summary>The comma constant.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.CharacterDefault">
+            <summary>The default character.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ScriptureReferenceContextBook">
+            <summary>The scripture reference context is the book.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ScriptureReferenceContextChapter">
+            <summary>The scripture reference context is chapter.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ScriptureReferenceContextDefault">
+            <summary>The scripture reference context is the default.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ScriptureReferenceContextVerse">
+            <summary>The scripture reference context is the verse.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ScriptureReferencePrePostDefault">
+            <summary>The scripture reference pre-post is the default.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ScriptureReferencePrePostSet">
+            <summary>The scripture reference pre-post is set.</summary>  
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ResultSetOrdinalResultSet">
+            <summary>The database ordinal for the result set.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ResultSetOrdinalBookId">
+            <summary>The database ordinal for the book Id.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ResultSetOrdinalChapterId">
+            <summary>The database ordinal for the chapter Id.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ResultSetOrdinalVerseId">
+            <summary>The database ordinal for the verse Id.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ResultSetOrdinalVerseText">
+            <summary>The database ordinal for the verse text.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.SonInLawBookChapter">
+            <summary>The scripture reference for only the bible book and chapter.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.SonInLawBookChapterVerse">
+            <summary>The scripture reference for only the bible book, chapter, and verse.</summary>  
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.SonInLawBookChapterVerseVerse">
+            <summary>The scripture reference for only the bible book, chapter, verses.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.SonInLawBookChapterVerseChapterVerse">
+            <summary>The scripture reference for the bible book, chapters, verses.</summary>      
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.DatabaseConnectionString">
+            <summary>The database connection string.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ScriptureReferenceSQLSelectBookId">
+            <summary>The database column for the book's Id.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ScriptureReferenceSQLSelectBookTitle">
+            <summary>The database column for the book's title.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ScriptureReferenceSQLSelectChapterId">
+            <summary>The database column for the chapter Id.</summary>  
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ScriptureReferenceSQLSelectVerseId">
+            <summary>The database column for the verse Id.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ScriptureReferenceSQLSelectVerseText">
+            <summary>The database column for the verse text.</summary>  
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ScriptureReferenceSQLSelectSource">
+            <summary>The database column for the SQL Select Source.</summary>    
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ScriptureReferenceSQLSelectStoredProcedure">
+            <summary>The database column for the SQL Select stored procedure.</summary>      
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ScriptureReferenceSQLSelectParameter">
+            <summary>The database column for the SQL Select stored procedure's parameter.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ScriptureReferenceSQLSelectResultSet">
+            <summary>The database column for the SQL Select result set.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ScriptureReferenceSQLSelectUnion">
+            <summary>The database column for the SQL Select UNION keyword.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ScriptureReferenceSQLSelectWhere">
+            <summary>The database column for the SQL Select WHERE keyword.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ScriptureReferenceSQLSelectOrder">
+            <summary>The database column for the SQL Select ORDER keyword.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ScriptureReferenceURICrosswalkPreHtml">
+            <summary>The scripture reference URI Crosswalk Prefix for HTML.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ScriptureReferenceURICrosswalkPreXml">
+            <summary>The scripture reference URI Crosswalk Prefix for XML.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ScriptureReferenceURICrosswalkPostHtml">
+            <summary>The scripture reference URI Crosswalk postfix for HTML.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ScriptureReferenceURICrosswalkPostXml">
+            <summary>The scripture reference URI Crosswalk postfix for XML.</summary>  
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ScriptureReferenceURICrosswalkVerse">
+            <summary>The scripture reference URI Crosswalk Verse.</summary>  
+        </member>
+        <member name="F:WordEngineering.ScriptureReference.ScriptureReferenceURICrosswalkContenateSubset">
+            <summary>The scripture reference URI Crosswalk Subset.</summary>    
+        </member>
+        <member name="M:WordEngineering.ScriptureReference.Main(System.String[])">
+            <summary>The entry point for the application.</summary>
+            <param name="scriptureReference">A list of scripture reference arguments</param>
+        </member>
+        <member name="M:WordEngineering.ScriptureReference.ScriptureReferenceDefault(System.Char@,System.Char@,System.Char@)">
+            <summary>Set the scripture reference default values.</summary>
+            <param name="scriptureReferenceContextBookChapterVerse">The default for the context.</param>
+            <param name="scriptureReferenceCurrentCharacter">The default for the current character.</param>  
+            <param name="scriptureReferencePrePost">The default for the pre-post</param>    
+        </member>
+        <member name="M:WordEngineering.ScriptureReference.ScriptureReferenceNext(System.Text.StringBuilder@,System.Text.StringBuilder@,System.Text.StringBuilder@,System.Text.StringBuilder@,System.Text.StringBuilder@,System.Text.StringBuilder@,System.Text.StringBuilder@,System.Text.StringBuilder@,System.Text.StringBuilder@,System.Char@,WordEngineering.ScriptureReferenceSubset[]@,System.Int32@)">
+            <summary>The next scripture reference subset.</summary>
+            <param name="scriptureReferenceBook">The scripture reference book.</param>
+            <param name="scriptureReferenceChapter">The scripture reference chapter.</param>  
+            <param name="scriptureReferenceVerse">The scripture reference verse.</param>    
+            <param name="scriptureReferenceBookPre">The scripture reference book pre.</param>
+            <param name="scriptureReferenceChapterPre">The scripture reference chapter pre.</param>  
+            <param name="scriptureReferenceVersePre">The scripture reference verse pre.</param>    
+            <param name="scriptureReferenceBookPost">The scripture reference book post.</param>
+            <param name="scriptureReferenceChapterPost">The scripture reference chapter post.</param>
+            <param name="scriptureReferenceVersePost">The scripture reference verse post.</param>
+            <param name="scriptureReferencePrePost">The scripture reference pre post.</param>  
+            <param name="scriptureReferenceSubset">The scripture reference subset.</param>
+            <param name="scriptureReferenceSubsetIndex">The scripture reference subset index.</param>
+        </member>
+        <member name="M:WordEngineering.ScriptureReference.ScriptureReferencePrint(System.String[])">
+            <summary>Print</summary>
+            <param name="scriptureReferenceArgs">The scripture reference arguments.</param>
+        </member>
+        <member name="M:WordEngineering.ScriptureReference.ScriptureReferenceProcess(System.String[]@,WordEngineering.ScriptureReferenceSubset[]@)">
+            <summary>Process</summary>
+            <param name="scriptureReferenceArgs">The scripture reference arguments.</param>
+            <param name="scriptureReferenceSubset">The scripture reference subsets.</param>  
+        </member>
+        <member name="M:WordEngineering.ScriptureReference.ScriptureReferenceInitialize(System.Text.StringBuilder@,System.Text.StringBuilder@,System.Text.StringBuilder@)">
+            <summary>Initialize</summary>
+            <param name="scriptureReferenceBook">The book.</param>
+            <param name="scriptureReferenceChapter">The chapter.</param>  
+            <param name="scriptureReferenceVerse">The verse.</param>    
+        </member>
+        <member name="M:WordEngineering.ScriptureReference.ScriptureReferenceSet(System.Text.StringBuilder,System.Text.StringBuilder,System.Text.StringBuilder,System.Text.StringBuilder@,System.Text.StringBuilder@,System.Text.StringBuilder@)">
+            <summary>Set</summary>
+            <param name="scriptureReferenceBook">The book.</param>
+            <param name="scriptureReferenceChapter">The chapter.</param>  
+            <param name="scriptureReferenceVerse">The verse.</param>    
+            <param name="scriptureReferenceBookSet">The book reference.</param>
+            <param name="scriptureReferenceChapterSet">The chapter reference.</param>  
+            <param name="scriptureReferenceVerseSet">The verse reference.</param>    
+        </member>
+        <member name="M:WordEngineering.ScriptureReference.ScriptureReferenceResultSet(System.String[])">
+            <summary>ResultSet</summary>
+            <param name="scriptureReferenceArgs">The scripture reference.</param>
+        </member>
+        <member name="M:WordEngineering.ScriptureReference.ScriptureReferencePrint(System.Text.StringBuilder,System.Text.StringBuilder,System.Text.StringBuilder,System.Text.StringBuilder,System.Text.StringBuilder,System.Text.StringBuilder)">
+            <summary>Print</summary>
+            <param name="scriptureReferenceBookPre">The scripture reference book pre.</param>
+            <param name="scriptureReferenceChapterPre">The scripture reference chapter pre.</param>  
+            <param name="scriptureReferenceVersePre">The scripture reference verse pre.</param>    
+            <param name="scriptureReferenceBookPost">The scripture reference book post.</param>
+            <param name="scriptureReferenceChapterPost">The scripture reference chapter post.</param>  
+            <param name="scriptureReferenceVersePost">The scripture reference verse post.</param>    
+        </member>
+        <member name="M:WordEngineering.ScriptureReference.ScriptureReferenceURICrosswalk(System.String[])">
+            <summary>URICrosswalk</summary>
+            <param name="scriptureReference">The scripture reference.</param>
+        </member>
+        <member name="M:WordEngineering.ScriptureReference.ScriptureReferenceURICrosswalkHtml(System.String[])">
+            <summary>URICrosswalkHTML</summary>
+            <param name="scriptureReference">The scripture reference for HTML.</param>
+        </member>
+        <member name="M:WordEngineering.ScriptureReference.ScriptureReferenceURICrosswalkXml(System.String[])">
+            <summary>URICrosswalkXML</summary>
+            <param name="scriptureReference">The scripture reference for XML.</param>
+        </member>
+        <member name="M:WordEngineering.ScriptureReference.ScriptureReferenceSubsetURICrosswalk(WordEngineering.ScriptureReferenceSubset[]@,System.Text.StringBuilder@,System.Text.StringBuilder@)">
+            <summary>Scripture Reference Subset for the URI Crosswalk</summary>
+            <param name="scriptureReferenceSubset">The scripture reference subset.</param>
+            <param name="scriptureReferenceURICrosswalkHtml">The scripture reference URI Crosswalk for HTML.</param>  
+            <param name="scriptureReferenceURICrosswalkXml">The scripture reference URI Crosswalk for XML.</param>    
+        </member>
+        <member name="M:WordEngineering.ScriptureReference.ScriptureReferenceText(System.String[],System.String)">
+            <summary>Scripture Reference Text Subset</summary>
+            <param name="scriptureReference">The scripture reference.</param>
+            <param name="exceptionMessage">The exception message.</param>  
+        </member>
+        <member name="M:WordEngineering.ScriptureReference.ScriptureReferenceTextRetrieval(System.String[],System.String@,WordEngineering.ScriptureReferenceSubset[]@,System.Text.StringBuilder[]@,System.Text.StringBuilder@,System.Data.DataSet@,System.Collections.ArrayList@,System.Text.StringBuilder@,WordEngineering.ScriptureReferenceTextSubset[]@)">
+            <summary>Scripture Reference Text Subset Retrieval</summary>
+            <param name="scriptureReference">The scripture reference.</param>
+            <param name="exceptionMessage">The exception message.</param>  
+            <param name="scriptureReferenceSubset">The scripture reference subset.</param>
+            <param name="scriptureReferenceSQLSelectSubset">The SQL Select subset.</param>
+            <param name="scriptureReferenceSQLSelect">The SQL Select.</param>  
+            <param name="scriptureReferenceDataSet">The Dataset.</param>
+            <param name="arrayListScriptureReferenceText">The Reference Text.</param>  
+            <param name="scriptureReferenceText">The Scripture Reference Text.</param>    
+            <param name="scriptureReferenceTextSubset">The Scripture Reference Text Subset.</param>      
+        </member>
+        <member name="M:WordEngineering.ScriptureReference.ScriptureReferenceTextSubset(System.String[],WordEngineering.ScriptureReferenceSubset[]@,System.Text.StringBuilder[]@,System.Text.StringBuilder@)">
+            <summary>Scripture Reference Text Subset</summary>
+            <param name="scriptureReference">The scripture reference.</param>
+            <param name="scriptureReferenceSubset">The scripture reference subset.</param>
+            <param name="scriptureReferenceSQLSelectSubset">The scripture reference SQL Select subset.</param>  
+            <param name="scriptureReferenceSQLSelect">The scripture reference SQL Select.</param>    
+        </member>
+        <member name="T:WordEngineering.ScriptureReferenceAlphabetSequence">
+            <summary>Scripture Reference Alphabet Sequence.</summary>
+            <remarks>Scripture Reference Alphabet Sequence.</remarks>
+        </member>
+        <member name="M:WordEngineering.ScriptureReferenceAlphabetSequence.#ctor(System.String,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>The class constructor.</summary>
+        </member>
+        <member name="M:WordEngineering.ScriptureReferenceAlphabetSequence.#ctor(System.String,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Text.StringBuilder,System.Text.StringBuilder)">
+            <summary>The class constructor.</summary>  
+        </member>
+        <member name="M:WordEngineering.ScriptureReferenceAlphabetSequence.ToString">
+            <summary>The string representation.</summary>
+        </member>
+        <member name="P:WordEngineering.ScriptureReferenceAlphabetSequence.AlphabetSequence">
+            <summary>AlphabetSequence property</summary>
+            <value>The alphabet sequence.</value>
+        </member>
+        <member name="P:WordEngineering.ScriptureReferenceAlphabetSequence.ChapterBackward">
+            <summary>Chapter Backward property</summary>
+            <value>The chapter backward.</value>
+        </member>
+        <member name="P:WordEngineering.ScriptureReferenceAlphabetSequence.ChapterForward">
+            <summary>Chapter Forward property</summary>
+            <value>The chapter forward.</value>
+        </member>
+        <member name="P:WordEngineering.ScriptureReferenceAlphabetSequence.ScriptureReferenceVerseForward">
+            <summary>Scripture Reference Verse Forward property</summary>
+            <value>The scripture reference verse forward.</value>
+        </member>
+        <member name="P:WordEngineering.ScriptureReferenceAlphabetSequence.ScriptureReferenceChapterForward">
+            <summary>Scripture Reference Chapter Forward property</summary>
+            <value>The scripture reference chapter forward.</value>
+        </member>
+        <member name="P:WordEngineering.ScriptureReferenceAlphabetSequence.ScriptureReferenceChapterBackward">
+            <summary>Scripture Reference Chapter Backward property</summary>
+            <value>The scripture reference chapter backward.</value>
+        </member>
+        <member name="P:WordEngineering.ScriptureReferenceAlphabetSequence.ScriptureReferenceVerseBackward">
+            <summary>Scripture Reference Verse Forward property</summary>
+            <value>The scripture reference verse forward.</value>
+        </member>
+        <member name="P:WordEngineering.ScriptureReferenceAlphabetSequence.ScriptureReferenceCurrent">
+            <summary>Scripture Reference Current</summary>
+            <value>The scripture reference current.</value>
+        </member>
+        <member name="P:WordEngineering.ScriptureReferenceAlphabetSequence.ScriptureReferenceURICrosswalkHtml">
+            <summary>Scripture Reference URI Crosswalk Html property</summary>
+            <value>The scripture reference URI Crosswalk Html.</value>
+        </member>
+        <member name="P:WordEngineering.ScriptureReferenceAlphabetSequence.ScriptureReferenceURICrosswalkXml">
+            <summary>Scripture Reference URI Crosswalk Xml property</summary>
+            <value>The scripture reference URI Crosswalk Xml.</value>
+        </member>
+        <member name="P:WordEngineering.ScriptureReferenceAlphabetSequence.VerseBackward">
+            <summary>Scripture Reference Verse Backward property</summary>
+            <value>The scripture reference verse backward.</value>
+        </member>
+        <member name="P:WordEngineering.ScriptureReferenceAlphabetSequence.VerseForward">
+            <summary>Verse Forward property</summary>
+            <value>The verse forward.</value>
+        </member>
+        <member name="P:WordEngineering.ScriptureReferenceAlphabetSequence.Word">
+            <summary>Word property</summary>
+            <value>The word.</value>
+        </member>
+        <member name="T:WordEngineering.ScriptureReferenceSubset">
+            <summary>Scripture Reference Subset.</summary>
+            <remarks>Scripture Reference Subset.</remarks>
+        </member>
+        <member name="F:WordEngineering.ScriptureReferenceSubset.ScriptureReferenceURICrosswalkVerse">
+            <summary>The scripture reference URI crosswalk verse.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReferenceSubset.SonInLawBookChapter">
+            <summary>The scripture reference only contains the book and chapter reference.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReferenceSubset.SonInLawBookChapterVerse">
+            <summary>The scripture reference only contains the book, chapter and verse reference.</summary>  
+        </member>
+        <member name="F:WordEngineering.ScriptureReferenceSubset.SonInLawBookChapterVerseVerse">
+            <summary>The scripture reference only contains the book, chapter and verses reference.</summary>  
+        </member>
+        <member name="F:WordEngineering.ScriptureReferenceSubset.SonInLawBookChapterVerseChapterVerse">
+            <summary>The scripture reference contains the book, chapters and verses reference.</summary>    
+        </member>
+        <member name="F:WordEngineering.ScriptureReferenceSubset.ScriptureReferenceSQLSelectBookId">
+            <summary>The scripture reference SQL Select book Id.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReferenceSubset.ScriptureReferenceSQLSelectBookTitle">
+            <summary>The scripture reference SQL Select book title.</summary>  
+        </member>
+        <member name="F:WordEngineering.ScriptureReferenceSubset.ScriptureReferenceSQLSelectChapterId">
+            <summary>The scripture reference SQL Select chapter id.</summary>    
+        </member>
+        <member name="F:WordEngineering.ScriptureReferenceSubset.ScriptureReferenceSQLSelectVerseId">
+            <summary>The scripture reference SQL Select verse id.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReferenceSubset.ScriptureReferenceSQLSelectVerseText">
+            <summary>The scripture reference SQL Select verse text.</summary>  
+        </member>
+        <member name="F:WordEngineering.ScriptureReferenceSubset.sonInLaw">
+            <summary>The sonInLaw.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReferenceSubset.scriptureReferenceBookPre">
+            <summary>The scripture reference book pre.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReferenceSubset.scriptureReferenceChapterPre">
+            <summary>The scripture reference chapter pre.</summary>
+        </member>
+        <member name="F:WordEngineering.ScriptureReferenceSubset.scriptureReferenceVersePre">
+            <summary>The scripture reference verse pre.</summary>  
+        </member>
+        <member name="F:WordEngineering.ScriptureReferenceSubset.scriptureReferenceBookPost">
+            <summary>The scripture reference book post.</summary>  
+        </member>
+        <member name="F:WordEngineering.ScriptureReferenceSubset.scriptureReferenceChapterPost">
+            <summary>The scripture reference chapter post.</summary>  
+        </member>
+        <member name="F:WordEngineering.ScriptureReferenceSubset.scriptureReferenceVersePost">
+            <summary>The scripture reference verse post.</summary>    
+        </member>
+        <member name="M:WordEngineering.ScriptureReferenceSubset.#ctor">
+            <summary>The class constructor.</summary>
+        </member>
+        <member name="M:WordEngineering.ScriptureReferenceSubset.#ctor(System.Text.StringBuilder,System.Text.StringBuilder,System.Text.StringBuilder,System.Text.StringBuilder,System.Text.StringBuilder,System.Text.StringBuilder)">
+            <summary>The class constructor.</summary>
+        </member>
+        <member name="M:WordEngineering.ScriptureReferenceSubset.ScriptureReferenceSubsetInitialize(System.Text.StringBuilder,System.Text.StringBuilder,System.Text.StringBuilder,System.Text.StringBuilder,System.Text.StringBuilder,System.Text.StringBuilder)">
+            <summary>Initialize.</summary>
+            <param name="scriptureReferenceBookPre">First book.</param>
+            <param name="scriptureReferenceChapterPre">First chapter.</param>
+            <param name="scriptureReferenceVersePre">First verse.</param>
+            <param name="scriptureReferenceBookPost">Last book.</param>
+            <param name="scriptureReferenceChapterPost">Last chapter.</param>
+            <param name="scriptureReferenceVersePost">Last verse.</param>
+        </member>
+        <member name="M:WordEngineering.ScriptureReferenceSubset.ToString">
+            <summary>ToString</summary>
+        </member>
+        <member name="M:WordEngineering.ScriptureReferenceSubset.ScriptureReferenceSubsetPrint">
+            <summary>Print</summary>
+        </member>
+        <member name="M:WordEngineering.ScriptureReferenceSubset.ScriptureReferenceSubsetURICrosswalk(System.Text.StringBuilder@,System.Text.StringBuilder@)">
+            <summary>URI Crosswalk.</summary>
+            <param name="scriptureReferenceSubsetURICrosswalkHtml">HTML.</param>
+            <param name="scriptureReferenceSubsetURICrosswalkXml">XML.</param>  
+        </member>
+        <member name="M:WordEngineering.ScriptureReferenceSubset.SQLSelectStatement(System.Text.StringBuilder@)">
+            <summary>SQL Select Statement.</summary>
+            <param name="sqlSelect">SQL Select Statement.</param>
+        </member>
+        <member name="P:WordEngineering.ScriptureReferenceSubset.ChapterPre">
+            <summary>ChapterPre property. 200302130839.</summary>
+            <value>The first chapter.</value>
+        </member>
+        <member name="P:WordEngineering.ScriptureReferenceSubset.VersePre">
+            <summary>VersePre property.</summary>
+            <value>The first verse.</value>
+        </member>
+        <member name="P:WordEngineering.ScriptureReferenceSubset.ChapterPost">
+            <summary>ChapterPost property.</summary>
+            <value>The last chapter.</value>
+        </member>
+        <member name="P:WordEngineering.ScriptureReferenceSubset.VersePost">
+            <summary>VersePost property.</summary>
+            <value>The last verse.</value>
+        </member>
+        <member name="P:WordEngineering.ScriptureReferenceSubset.SonInLaw">
+            <summary>SonInLaw property.</summary>
+            <value>Chapter 1; chapter and verse 2; chapter verses 3; chapters and verses 4.</value>
+        </member>
+        <member name="T:WordEngineering.ScriptureReferenceText">
+            <summary>Scripture Reference Text.</summary>
+            <remarks>Scripture Reference Text</remarks>
+        </member>
+        <member name="M:WordEngineering.ScriptureReferenceText.#ctor(System.Int32,System.Int32,System.Int32,System.Int32,System.String)">
+            <summary>The class constructor.</summary>
+        </member>
+        <member name="P:WordEngineering.ScriptureReferenceText.DatabaseColumnBookId">
+            <summary>Book Id.</summary>
+            <value>1..66</value>
+        </member>
+        <member name="P:WordEngineering.ScriptureReferenceText.DatabaseColumnBookTitle">
+            <summary>Book Title.</summary>
+            <value>Genesis..Revelation</value>
+        </member>
+        <member name="P:WordEngineering.ScriptureReferenceText.DatabaseColumnChapterId">
+            <summary>Book Chapter.</summary>
+            <value>1..150</value>
+        </member>
+        <member name="P:WordEngineering.ScriptureReferenceText.DatabaseColumnResultSet">
+            <summary>Scripture Reference Count.</summary>
+            <value>1..</value>
+        </member>
+        <member name="P:WordEngineering.ScriptureReferenceText.DatabaseColumnVerseId">
+            <summary>Book Verse.</summary>
+            <value>1..176</value>
+        </member>
+        <member name="P:WordEngineering.ScriptureReferenceText.DatabaseColumnVerseText">
+            <summary>Verse Text.</summary>
+            <value>In the beginning...</value>
+        </member>
+        <member name="T:WordEngineering.ScriptureReferenceTextSubset">
+            <summary>Scripture Reference Text Subset.</summary>
+            <remarks>Scripture Reference Text Subset.</remarks>
+        </member>
+        <member name="M:WordEngineering.ScriptureReferenceTextSubset.#ctor">
+            <summary>The class constructor.</summary>
+        </member>
+        <member name="M:WordEngineering.ScriptureReferenceTextSubset.#ctor(WordEngineering.ScriptureReferenceSubset)">
+            <summary>The class constructor.</summary>
+        </member>
+        <member name="M:WordEngineering.ScriptureReferenceTextSubset.#ctor(WordEngineering.ScriptureReferenceSubset,System.Text.StringBuilder)">
+            <summary>The class constructor.</summary>
+        </member>
+        <member name="M:WordEngineering.ScriptureReferenceTextSubset.Append(System.String)">
+            <summary>Append.</summary>
+            <param name="verseText">Append the scriptural verse text.</param>
+        </member>
+        <member name="M:WordEngineering.ScriptureReferenceTextSubset.ToString">
+            <summary>ToString</summary>
+        </member>
+        <member name="P:WordEngineering.ScriptureReferenceTextSubset.ScriptureReference">
+            <summary>ScriptureReference property.</summary>
+            <value>Genesis 1.</value>
+        </member>
+        <member name="P:WordEngineering.ScriptureReferenceTextSubset.ScriptureText">
+            <summary>ScriptureText property.</summary>
+            <value>In the beginning...</value>
+        </member>
+        <member name="T:WordEngineering.UtilityEventLog">
+            <summary>The Event Log Utility.</summary>
+            <remarks>Event Log.</remarks>
+        </member>
+        <member name="F:WordEngineering.UtilityEventLog.EventLogName">
+            <summary>The name of the event log.</summary>
+        </member>
+        <member name="F:WordEngineering.UtilityEventLog.EventLogMachineName">
+            <summary>The machine name.</summary>  
+        </member>
+        <member name="F:WordEngineering.UtilityEventLog.EventLogSource">
+            <summary>The event source.</summary>  
+        </member>
+        <member name="M:WordEngineering.UtilityEventLog.Main(System.String[])">
+            <summary>The entry point for the application.</summary>
+            <param name="argv">A list of command line arguments</param>
+        </member>
+        <member name="M:WordEngineering.UtilityEventLog.WriteEntry(System.String,System.String,System.String,System.String,System.Diagnostics.EventLogEntryType)">
+            <summary>Write entry.</summary>
+            <param name="log">The event log name.</param>
+            <param name="machineName">The name of the event log.</param>
+            <param name="source">The name of the event source.</param>  
+            <param name="messageText">The message text.</param>
+            <param name="eventLogEntryType">The event log entry type, for example, Error, FailureAudit, Information, SuccessAudit, Warning.</param>  
+        </member>
+        <member name="M:WordEngineering.UtilityEventLog.WriteEntryOleDbErrorCollection(System.Data.OleDb.OleDbException)">
+            <summary>Write the OleDb Error Collection.</summary>
+            <param name="exception">The OLEDBException.</param>    
+            <code>
+             <example>
+              string          databaseConnectionString = "Provider=SQLOLEDB;Data Source=localhost;Initial Catalog=WordEngineering;Integrated Security=SSPI;";
+              string          exceptionMessage         = null;
+              OleDbConnection oleDbConnection          = null;
+              try
+              {
+               oleDbConnection = new OleDbConnection(databaseConnectionString);
+               oleDbConnection.Open();
+              }//try
+              catch (OleDbException exception)
+              {
+               exceptionMessage = WriteEntryOleDbErrorCollection(exception);
+               System.Console.WriteLine("OLEDbException: {0}", exceptionMessage);
+              }
+             </example>  
+            </code>  
+        </member>
+        <member name="M:WordEngineering.UtilityEventLog.WriteEntryOleDbErrorCollection(System.String,System.String,System.String,System.Data.OleDb.OleDbException)">
+            <summary>Write the OleDb Error Collection.</summary>
+            <param name="log">The event log name, for example, Application, Security, System, DNS Server.</param>
+            <param name="machineName">The machine name, for example, . for this particular machine name.</param>  
+            <param name="source">The source of the event, for example, SQLServerAgent.</param>  
+            <param name="exception">The OLEDBException.</param>    
+            <code>
+             <example>
+              string          databaseConnectionString = "Provider=SQLOLEDB;Data Source=localhost;Initial Catalog=WordEngineering;Integrated Security=SSPI;";
+              string          exceptionMessage         = null;
+              OleDbConnection oleDbConnection          = null;
+              try
+              {
+               oleDbConnection = new OleDbConnection(databaseConnectionString);
+               oleDbConnection.Open();
+              }//try
+              catch (OleDbException exception)
+              {
+               exceptionMessage = WriteEntryOleDbErrorCollection( "Application", ".", "WordEngineering", exception );
+               System.Console.WriteLine("OLEDbException: {0}", exceptionMessage);
+              }
+             </example>  
+            </code>  
+        </member>
+        <member name="T:WordEngineering.UtilityDatabase">
+            <summary>Utility Database will manage database connections.</summary>
+            <remarks>
+             The methods will include DatabaseConnectionInitialize(), DatabaseConnectionHouseKeeping().
+            </remarks>
+        </member>
+        <member name="M:WordEngineering.UtilityDatabase.Main(System.String[])">
+            <summary>The entry point for the application.</summary>
+            <param name="argv">A list of command line arguments</param>
+        </member>
+        <member name="M:WordEngineering.UtilityDatabase.DatabaseConnectionInitialize(System.String,System.String@)">
+            <summary>Initializes a new instance of the OleDbConnection class.</summary>
+            <code>
+             <example>
+              string          databaseConnectionString = "Provider=SQLOLEDB;Data Source=localhost;Initial Catalog=WordEngineering;Integrated Security=SSPI;";
+              string          exceptionMessage         = null;
+              OleDbConnection oleDbConnection          = null;
+              oleDbConnection = UtilityDatabase.DatabaseConnectionInitialize( databaseConnectionString, ref exceptionMessage );
+             </example>  
+            </code>  
+        </member>
+        <member name="M:WordEngineering.UtilityDatabase.DatabaseConnectionHouseKeeping(System.Data.OleDb.OleDbConnection,System.String@)">
+            <summary>Closes the connection to the data source. This is the preferred method of closing any open connection.</summary>
+            <code>
+             <example>
+              string          databaseConnectionString = "Provider=SQLOLEDB;Data Source=localhost;Initial Catalog=WordEngineering;Integrated Security=SSPI;";
+              string          exceptionMessage         = null;
+              OleDbConnection oleDbConnection          = null;
+              oleDbConnection = UtilityDatabase.DatabaseConnectionInitialize( databaseConnectionString, ref exceptionMessage );
+              UtilityDatabase.DatabaseConnectionHouseKeeping( oleDbConnection, ref exceptionMessage );
+             </example>  
+            </code>  
+        </member>
+        <member name="M:WordEngineering.UtilityDatabase.DisplayOleDbErrorCollection(System.Data.OleDb.OleDbException)">
+            <summary>Gets a collection of one or more OleDbError objects that give detailed information about exceptions generated by the .NET Framework Data Provider for OLE DB.</summary>
+            <code>
+             <example>
+              string          databaseConnectionString = "Provider=SQLOLEDB;Data Source=localhost;Initial Catalog=WordEngineering;Integrated Security=SSPI;";
+              string          exceptionMessage         = null;
+              OleDbConnection oleDbConnection          = null;
+              try
+              {
+               oleDbConnection = new OleDbConnection(databaseConnectionString);
+               oleDbConnection.Open();
+              }//try
+              catch (OleDbException exception)
+              {
+               exceptionMessage = DisplayOleDbErrorCollection( exception );
+               System.Console.WriteLine("OLEDbException: {0}", exceptionMessage);
+              }
+             </example>  
+            </code>  
+        </member>
+        <member name="M:WordEngineering.UtilityDatabase.DatabaseQuery(System.String,System.String@,System.String)">
+            <summary>Executes the query, and returns the first column of the first row in the resultset returned by the query. Extra columns or rows are ignored.</summary>
+            <code>
+             <example>
+              string          databaseConnectionString = "Provider=SQLOLEDB;Data Source=localhost;Initial Catalog=WordEngineering;Integrated Security=SSPI;";
+              string          exceptionMessage         = null;
+              string          commandText              = "SELECT 'Language: ' + @@LANGUAGE + CHAR(13) + CHAR(10) + 'Server Name: ' + @@ServerName + CHAR(13) + CHAR(10) + 'Service Name: ' + @@ServiceName + CHAR(13) + CHAR(10) + 'Version: ' + @@Version";
+              object          commandReturn            = null;
+              commandReturn  = UtilityDatabase.DatabaseQuery( databaseConnectionString, ref exceptionMessage, commandText );
+              System.Console.WriteLine("Query: {0}\n{1}", commandText, commandReturn);
+             </example>  
+            </code>  
+        </member>
+        <member name="M:WordEngineering.UtilityDatabase.DatabaseQuery(System.String,System.String@,System.String,System.Data.CommandType)">
+            <summary>Executes the query, and returns the first column of the first row in the resultset returned by the query. Extra columns or rows are ignored.</summary>
+            <code>
+             <example>
+              string          databaseConnectionString = "Provider=SQLOLEDB;Data Source=localhost;Initial Catalog=WordEngineering;Integrated Security=SSPI;";
+              string          exceptionMessage         = null;
+              string          commandText              = "master..xp_msver";
+              object          commandReturn            = null;
+              commandReturn  = UtilityDatabase.DatabaseQuery( databaseConnectionString, ref exceptionMessage, commandText, CommandType.StoredProcedure );
+              System.Console.WriteLine("Query: {0}\n{1}", commandText, commandReturn);
+             </example>  
+            </code>  
+        </member>
+        <member name="M:WordEngineering.UtilityDatabase.DatabaseQuery(System.String,System.String@,System.Data.DataSet@,System.String,System.String,System.Data.CommandType)">
+            <summary>Executes the query, and returns the first column of the first row in the resultset returned by the query. Extra columns or rows are ignored.</summary>
+            <param name="databaseConnectionString">The database connection string, "Provider=SQLOLEDB;Data Source=localhost;Initial Catalog=master;Integrated Security=SSPI;"</param>
+            <param name="exceptionMessage">The exception message.</param>
+            <param name="dataSet">The data set.</param>
+            <param name="dataTableName">The data table name.</param>
+            <param name="commandText">The command text.</param>
+            <param name="commandType">The command type.</param>
+            <code>
+             <example>
+              string      databaseConnectionString = "Provider=SQLOLEDB;Data Source=localhost;Initial Catalog=master;Integrated Security=SSPI;";
+              string      exceptionMessage         = null;
+              string      commandText              = "master..xp_msver";
+              CommandType commandType              = "CommandType.StoredProcedure";  
+              DataSet     dataSet                  = null;
+              string      dataTableName            = "dataTableName"; 
+              UtilityDatabase.DatabaseQuery
+              ( 
+                   databaseConnectionString, 
+               ref exceptionMessage, 
+                   dataSet, 
+                   dataTableName,
+                   commandText, 
+                   CommandType.StoredProcedure 
+              );
+             </example>  
+            </code>  
+        </member>
+        <member name="M:WordEngineering.UtilityDatabase.DatabaseQuery(System.String,System.String@,System.Data.OleDb.OleDbDataReader@,System.String,System.Data.CommandType)">
+            <summary>Executes the query, and returns the first column of the first row in the resultset returned by the query. Extra columns or rows are ignored.</summary>
+            <param name="databaseConnectionString">The database connection string, "Provider=SQLOLEDB;Data Source=localhost;Initial Catalog=master;Integrated Security=SSPI;"</param>
+            <param name="exceptionMessage">The exception message.</param>
+            <param name="oleDbDataReader">The data reader.</param>
+            <param name="commandText">The command text.</param>
+            <param name="commandType">The command type.</param>
+            <code>
+             <example>
+              string          databaseConnectionString = "Provider=SQLOLEDB;Data Source=localhost;Initial Catalog=master;Integrated Security=SSPI;";
+              string          exceptionMessage         = null;
+              string          commandText              = "master..xp_msver";
+              OleDbDataReader oleDbDataReader      = null;
+              CommandType     commandType              = "CommandType.StoredProcedure";  
+              UtilityDatabase.DatabaseQuery
+              ( 
+                   databaseConnectionString, 
+               ref exceptionMessage, 
+                   oleDbDataReader,
+                   commandText, 
+                   CommandType.StoredProcedure 
+              );
+             </example>  
+            </code>  
+        </member>
+        <member name="M:WordEngineering.UtilityDatabase.OleDbInfoMessage(System.Object,System.Data.OleDb.OleDbInfoMessageEventArgs)">
+            <summary>The information message event occurs when a data source sends warnings and information messages.</summary>
+            <param args="sender">The data source.</param>    
+            <param args="args">A collection of messages from the data source.</param>    
+            <code>
+             <example>
+            <code>
+             <example>
+              string databaseConnectionString = "Provider=SQLOLEDB;Data Source=localhost;Initial Catalog=WordEngineering;Integrated Security=SSPI;";
+              OleDbConnection oleDbConnection = null;
+              oleDbConnection = new OleDbConnection(databaseConnectionString);
+              oleDbConnection.StateChange += new StateChangeEventHandler(OnOleDbStateChange);
+              oleDbConnection.Open();
+              oleDbConnection.Close();
+              }//try
+              catch (OleDbException exception)
+              {
+               System.Console.WriteLine("OLEDbException: {0}", exception.Message);
+              }
+              catch (Exception exception)
+              {
+               System.Console.WriteLine("Exception: {0}", exception.Message);
+              }
+             </example>  
+            </code>  
+             </example>  
+            </code>  
+        </member>
+        <member name="M:WordEngineering.UtilityDatabase.OnOleDbStateChange(System.Object,System.Data.StateChangeEventArgs)">
+            <summary>The StateChange event occurs when the state of a Connection changes.</summary>
+            <param name="sender">The data source.</param>  
+            <param name="args">The current and original state.</param>    
+            <code>
+             <example>
+              string databaseConnectionString = "Provider=SQLOLEDB;Data Source=localhost;Initial Catalog=WordEngineering;Integrated Security=SSPI;";
+              OleDbConnection oleDbConnection = null;
+              oleDbConnection = new OleDbConnection(databaseConnectionString);
+              oleDbConnection.InfoMessage += new OleDbInfoMessageEventHandler(OleDbInfoMessage);
+              oleDbConnection.Open();
+              oleDbConnection.Close();
+              }//try
+              catch (OleDbException exception)
+              {
+               System.Console.WriteLine("OLEDbException: {0}", exception.Message);
+              }
+              catch (Exception exception)
+              {
+               System.Console.WriteLine("Exception: {0}", exception.Message);
+              }
+             </example>  
+            </code>  
+        </member>
+        <member name="T:WordEngineering.UtilityXml">
+            <summary>UtilityXml</summary>
+            <remarks>UtilityXml.</remarks>
+        </member>
+        <member name="M:WordEngineering.UtilityXml.XmlDocumentNodeInnerText(System.String,System.String@,System.String,System.String@)">
+            <summary>Read a particular XmlNode's outer text.</summary>
+            <param name="filenameXml">XML filename.</param>
+            <param name="exceptionMessage">Exception Message.</param>  
+            <param name="xPathExpression">XPath expression.</param>    
+            <param name="defaultSetting">Default setting.</param>      
+        </member>
+        <member name="M:WordEngineering.UtilityXml.Main(System.String[])">
+            <summary>The entry point for the application.</summary>
+            <param name="argv">A list of command line arguments</param>
+        </member>
+    </members>
+</doc>

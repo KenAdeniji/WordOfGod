@@ -1,0 +1,16 @@
+AutoRun.exe
+AutoRun.inf
+
+[autorun]
+open=MulticastDelegate.exe
+
+[autorun]
+open=AutoRun.bat index.htm
+
+AutoRun.bat
+@echo off
+@start %1 %2 ... %9
+@exit
+
+[autorun]
+open=AutoRun.exe index.htm

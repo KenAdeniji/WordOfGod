@@ -1,0 +1,14 @@
+all: AlphabetSequence.exe AlphabetSequenceWebForm.aspx.cs.dll TheWordAlphabetSequence.exe
+
+AlphabetSequence.exe: AlphabetSequence.cs BibleBookTitle.cs BibleDictionary.cs ScriptureReference.cs ScriptureReferenceAlphabetSequence.cs ScriptureReferenceBookChapterVersePrePost.cs UtilityClass.cs UtilityCollection.cs UtilityDatabase.cs UtilityDebug.cs UtilityDirectory.cs UtilityEventLog.cs UtilityFile.cs UtilityXml.cs
+ csc /define:DEBUG /debug:full /doc:XmlDocumentation\AlphabetSequenceDocumentation.xml /main:WordEngineering.AlphabetSequence /out:AlphabetSequence.exe /target:exe AlphabetSequence.cs BibleBookTitle.cs BibleDictionary.cs ScriptureReference.cs ScriptureReferenceAlphabetSequence.cs ScriptureReferenceBookChapterVersePrePost.cs UtilityClass.cs UtilityCollection.cs UtilityDatabase.cs UtilityDebug.cs UtilityDirectory.cs UtilityEventLog.cs UtilityFile.cs UtilityXml.cs
+
+AlphabetSequenceWebForm.aspx.cs.dll: AlphabetSequencePage.aspx.cs AlphabetSequence.cs BibleBookTitle.cs BibleDictionary.cs ScriptureReference.cs ScriptureReferenceAlphabetSequence.cs ScriptureReferenceBookChapterVersePrePost.cs UtilityClass.cs UtilityCollection.cs UtilityDatabase.cs UtilityDebug.cs UtilityDirectory.cs UtilityEventLog.cs UtilityFile.cs UtilityXml.cs
+ csc /define:DEBUG /debug:full /doc:XmlDocumentation\AlphabetSequenceDocumentation.xml /out:bin\AlphabetSequencePage.aspx.cs.dll /target:library AlphabetSequencePage.aspx.cs AlphabetSequence.cs BibleBookTitle.cs BibleDictionary.cs ScriptureReference.cs ScriptureReferenceAlphabetSequence.cs ScriptureReferenceBookChapterVersePrePost.cs UtilityClass.cs UtilityCollection.cs UtilityDatabase.cs UtilityDebug.cs UtilityDirectory.cs UtilityEventLog.cs UtilityFile.cs UtilityXml.cs
+
+TheWordAlphabetSequence.exe: AlphabetSequence.cs BibleBookTitle.cs  ScriptureReference.cs ScriptureReferenceAlphabetSequence.cs ScriptureReferenceBookChapterVersePrePost.cs TheWord.cs TheWordAlphabetSequence.cs  TheWordSerialization.cs UtilityClass.cs UtilityCollection.cs UtilityCommandLineArgument.cs UtilityDatabase.cs UtilityDebug.cs UtilityDirectory.cs UtilityEventLog.cs UtilityFile.cs UtilitySerialize.cs UtilityXml.cs
+ csc /define:DEBUG /debug:full /doc:XmlDocumentation\TheWordDocumentation.xml /main:WordEngineering.TheWordAlphabetSequence /out:TheWordAlphabetSequence.exe /target:exe ScriptureReferenceBookChapterVersePrePost.cs AlphabetSequence.cs BibleBookTitle.cs  ScriptureReference.cs ScriptureReferenceAlphabetSequence.cs TheWord.cs TheWordSerialization.cs TheWordAlphabetSequence.cs UtilityClass.cs UtilityCollection.cs UtilityCommandLineArgument.cs UtilityDatabase.cs UtilityDebug.cs UtilityDirectory.cs UtilityEventLog.cs UtilityFile.cs UtilitySerialize.cs UtilityXml.cs
+
+Clean:
+ DEL *.pdb XmlDocumentation /F /S /Q
+ RD XmlDocumentation
