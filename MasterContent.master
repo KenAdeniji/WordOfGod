@@ -1,0 +1,11 @@
+<%@ Master %>
+<html>
+ <body>
+  <form runat="server">
+   <table>
+    <tr><td><asp:contentplaceholder runat="server" id="contentplaceholderHeader" /></td></tr>
+	<tr><td><asp:contentplaceholder runat="server" id="contentplaceholderBody" /></td></tr>
+   </table>
+  </form>
+ </body>
+</html> 

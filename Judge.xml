@@ -1,0 +1,157 @@
+<?xml version="1.0" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='Judge.xslt'?>
+<Judge>
+  <Judge>
+    <UniqueId>5d88eae1-09ec-4f95-820f-2c3746a5127b</UniqueId>
+    <SequenceOrderId>1</SequenceOrderId>
+    <Dated>2003-06-30T00:00:00.0000000-07:00</Dated>
+    <Sign>1</Sign>
+    <ScriptureReference>Judges 3:7-11</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Judges+3%3A7-11&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Captor>Chushanrishathaim king of Mesopotamia</Captor>
+    <Apostasy>8</Apostasy>
+    <Judge>Othniel the son of Kenaz</Judge>
+    <Conquest>40</Conquest>
+    <MajorMinor>Major</MajorMinor>
+  </Judge>
+  <Judge>
+    <UniqueId>70784169-a038-4af1-be9f-107bed417e8e</UniqueId>
+    <SequenceOrderId>2</SequenceOrderId>
+    <Dated>2003-06-30T00:00:00.0000000-07:00</Dated>
+    <Sign>2</Sign>
+    <ScriptureReference>Judges 3:12-30</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Judges+3%3A12-30&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Captor>Eglon the king of Moab</Captor>
+    <Apostasy>18</Apostasy>
+    <Judge>Ehud the son of Gera, a Benjamite, a man lefthanded.</Judge>
+    <Conquest>80</Conquest>
+    <MajorMinor>Major</MajorMinor>
+  </Judge>
+  <Judge>
+    <UniqueId>db71d858-42c3-4686-ba38-2b5ab59a1b3e</UniqueId>
+    <SequenceOrderId>3</SequenceOrderId>
+    <Dated>2003-06-30T00:00:00.0000000-07:00</Dated>
+    <Sign>3</Sign>
+    <ScriptureReference>Judges 3:31</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Judges+3%3A31&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Captor>Philistine</Captor>
+    <Judge>Shamgar the son of Anath</Judge>
+    <MajorMinor>Minor</MajorMinor>
+  </Judge>
+  <Judge>
+    <UniqueId>46850cbe-0a62-42bc-a483-595052cf9ace</UniqueId>
+    <SequenceOrderId>4</SequenceOrderId>
+    <Dated>2003-06-30T00:00:00.0000000-07:00</Dated>
+    <Sign>4</Sign>
+    <ScriptureReference>Judges 4-5</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Judges+4-5&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Captor>Jabin king of Canaan, that reigned in Hazor; the captain of whose host was Sisera, which dwelt in Harosheth of the Gentiles.</Captor>
+    <Judge>Deborah, a prophetess, the wife of Lapidoth.</Judge>
+    <Conquest>40</Conquest>
+    <MajorMinor>Major</MajorMinor>
+  </Judge>
+  <Judge>
+    <UniqueId>8ec69fe3-8e35-414e-9142-6c7fdf149951</UniqueId>
+    <SequenceOrderId>5</SequenceOrderId>
+    <Dated>2003-06-30T00:00:00.0000000-07:00</Dated>
+    <Sign>5</Sign>
+    <ScriptureReference>Judges 6-8</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Judges+6-8&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Captor>Midianites</Captor>
+    <Judge>Gideon</Judge>
+    <Conquest>40</Conquest>
+    <MajorMinor>Major</MajorMinor>
+  </Judge>
+  <Judge>
+    <UniqueId>de697651-d443-45e2-b812-4e53a1a1c2d6</UniqueId>
+    <SequenceOrderId>6</SequenceOrderId>
+    <Dated>2003-06-30T00:00:00.0000000-07:00</Dated>
+    <Sign>6</Sign>
+    <ScriptureReference>Judges 9</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Judges+9&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Captor />
+    <Judge>Abimelech</Judge>
+    <MajorMinor>Major</MajorMinor>
+  </Judge>
+  <Judge>
+    <UniqueId>dad77231-9bfc-4f7d-940a-6dc348621739</UniqueId>
+    <SequenceOrderId>7</SequenceOrderId>
+    <Dated>2003-06-30T00:00:00.0000000-07:00</Dated>
+    <Sign>7</Sign>
+    <ScriptureReference>Judges 10:1-2</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Judges+10%3A1-2&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Judge>Tola the son of Puah, the son of Dodo, a man of Issachar; and he dwelt in Shamir in mount Ephraim.</Judge>
+    <Conquest>23</Conquest>
+    <MajorMinor>Minor</MajorMinor>
+  </Judge>
+  <Judge>
+    <UniqueId>b14f1ac0-f0b7-42ee-97eb-b4b50a3290c9</UniqueId>
+    <SequenceOrderId>8</SequenceOrderId>
+    <Dated>2003-06-30T00:00:00.0000000-07:00</Dated>
+    <Sign>8</Sign>
+    <ScriptureReference>Judges 10:3-5</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Judges+10%3A3-5&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Judge>Jair, a Gileadite</Judge>
+    <Conquest>22</Conquest>
+    <MajorMinor>Minor</MajorMinor>
+  </Judge>
+  <Judge>
+    <UniqueId>2a93dc79-f88d-41c7-9ae8-74f6ecf9baad</UniqueId>
+    <SequenceOrderId>9</SequenceOrderId>
+    <Dated>2003-06-30T00:00:00.0000000-07:00</Dated>
+    <Sign>9</Sign>
+    <ScriptureReference>Judges 10:6-12:7</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Judges+10%3A6-12%3A7&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Captor>Philistines and Ammon</Captor>
+    <Apostasy>18</Apostasy>
+    <Judge>Jephthah the Gileadite</Judge>
+    <Conquest>6</Conquest>
+    <MajorMinor>Major</MajorMinor>
+  </Judge>
+  <Judge>
+    <UniqueId>5e616197-90e8-4a3c-b5f1-cd4f640c5ba3</UniqueId>
+    <SequenceOrderId>10</SequenceOrderId>
+    <Dated>2003-06-30T00:00:00.0000000-07:00</Dated>
+    <Sign>10</Sign>
+    <ScriptureReference>Judges 12:8-10</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Judges+12%3A8-10&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Judge>Ibzan of Bethlehem</Judge>
+    <Conquest>7</Conquest>
+    <MajorMinor>Minor</MajorMinor>
+  </Judge>
+  <Judge>
+    <UniqueId>73d3743c-c772-4639-8be0-ffec040fa5e9</UniqueId>
+    <SequenceOrderId>11</SequenceOrderId>
+    <Dated>2003-06-30T00:00:00.0000000-07:00</Dated>
+    <Sign>11</Sign>
+    <ScriptureReference>Judges 12:11-12</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Judges+12%3A11-12&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Judge>Elon, a Zebulonite</Judge>
+    <Conquest>10</Conquest>
+    <MajorMinor>Minor</MajorMinor>
+  </Judge>
+  <Judge>
+    <UniqueId>1a82e29b-738b-4f2e-830f-016440f36adf</UniqueId>
+    <SequenceOrderId>12</SequenceOrderId>
+    <Dated>2003-06-30T00:00:00.0000000-07:00</Dated>
+    <Sign>12</Sign>
+    <ScriptureReference>Judges 12:13-15</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Judges+12%3A13-15&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Judge>Abdon the son of Hillel, a Pirathonite</Judge>
+    <Conquest>8</Conquest>
+    <MajorMinor>Minor</MajorMinor>
+  </Judge>
+  <Judge>
+    <UniqueId>86ebc279-73d2-4bd1-a72d-dd4cf302e344</UniqueId>
+    <SequenceOrderId>13</SequenceOrderId>
+    <Dated>2003-06-30T00:00:00.0000000-07:00</Dated>
+    <Sign>13</Sign>
+    <ScriptureReference>Judges 13-16</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Judges+13-16&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Captor>Philistine</Captor>
+    <Apostasy>40</Apostasy>
+    <Judge>Samson</Judge>
+    <Conquest>20</Conquest>
+    <MajorMinor>Major</MajorMinor>
+  </Judge>
+</Judge>

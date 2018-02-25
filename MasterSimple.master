@@ -1,0 +1,76 @@
+<%@ Master 
+ Language="C#" 
+ Inherits="WordEngineering.MasterSimplePage"  
+ Debug="true"
+%>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ 
+ <head runat="server">
+  <title>Untitled Page</title>
+  <link href="~/StyleSheet.css" rel="Stylesheet" type="text/css" />
+ </head>
+ 
+ <body>
+  <form 
+   id="form1" 
+   runat="server"
+   enctype="multipart/form-data" 
+   autocomplete="on"
+  >
+   <table 
+    width="100%"
+    border="0"
+    cellpadding="5"
+   >
+    <tr bgcolor="lightblue">
+     <td colspan="2">
+      <asp:SiteMapPath 
+       id="SiteMapPathMaster" 
+       Runat="Server" 
+      />
+     </td>
+    </tr>
+   </table>
+
+   <table width="100%" cellpadding="10" border="0">
+   
+    <tr>
+    
+     <td valign="top" width="150" bgcolor="#eeeeee">
+      <asp:Menu 
+       id="MenuMaster" 
+       Runat="Server" 
+       DataSourceID="SiteMapDataSourceMaster" 
+       StaticDisplayLevels="2" 
+      />
+     </td>
+     
+     <td valign="top">
+      <asp:contentplaceholder 
+       id="ContentPlaceHolderTop" 
+       runat="server" 
+      />
+     </td>
+
+     <td valign="top">
+      <asp:contentplaceholder 
+       id="ContentPlaceHolderBottom" 
+       runat="server" 
+      />
+     </td>
+   
+    </tr>
+   
+   </table>     
+
+   <asp:SiteMapDataSource 
+    ID="SiteMapDataSourceMaster" 
+    Runat="server" 
+   />
+
+  </form>
+ </body>
+</html>
+
