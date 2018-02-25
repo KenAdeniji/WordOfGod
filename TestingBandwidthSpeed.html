@@ -1,0 +1,39 @@
+<html>
+<script language="JavaScript">
+function RightNow()
+{
+time = new Date();
+return time.getTime();
+}
+
+function CalculateSpeed(timeStart)
+{
+timeEnd = RightNow();
+timeElapsed = (timeEnd - timeStart)/1000 - 0.15;
+kbytes = 1024/timeElapsed;
+bits = kbytes * 1024 * 8;
+document.forms[0].bps.value = bits;
+//document.forms[0].submit();
+}
+</script>
+
+<BODY >
+<div>Bandwidth test in progress, please wait...<br><br></div>
+
+<script language="JavaScript">
+<!--
+timeStart = RightNow();
+//-->
+</script>
+
+<IMG 
+	SRC="http://media.npr.org/politics/election2008/dems/obama200.jpg"
+	WIDTH="30"
+	HEIGHT="30"
+	ONLOAD="CalculateSpeed(timeStart);"
+	style="z-index: 1">
+<FORM action="" method="post">
+bits:<input type="text" name="bps" value="">
+</FORM>
+</BODY>
+</html>
