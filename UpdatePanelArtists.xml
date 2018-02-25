@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Music>
+  <Artists>
+    <Timeline id="60s">
+      <Artist name="The Beatles" hitSingle="Help!" />
+      <Artist name="Don Williams" hitSingle="It Must Be Love"  />
+      <Artist name="Cliff Richard" hitSingle="Congratulations" />
+      <Artist name="John Denver" hitSingle="Rocky Mountain High"/>
+    </Timeline>
+    <Timeline id="70s">
+      <Artist name="Jethro Tull" hitSingle="Locomotive Breath" />
+      <Artist name="Pink Floyd" hitSingle="One Of These Days" />
+      <Artist name="Bob Dylan" hitSingle="Knockin' On Heaven's Door"/>
+    </Timeline>
+    <Timeline id="80s">
+      <Artist name="Dire Straits" hitSingle="Walk Of Life" />
+      <Artist name="U2" hitSingle="Where The Streets Have No Name" />
+      <Artist name="Duran Duran" hitSingle="Rio" />
+      <Artist name="Madonna" hitSingle="La Isla Bonita"/>
+      <Artist name="Michael Jackson" hitSingle="Thriller" />      
+    </Timeline>
+  </Artists>
+</Music>

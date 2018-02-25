@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='Comforter_-_URI.xslt'?>
+<URI>
+  <URIBenediction>
+    <uri>4Jobs.com</uri>
+    <dated>2005-12-24T19:52:12.783-08:00</dated>
+  </URIBenediction>
+  <URIBenediction>
+    <uri>BrassRing.com</uri>
+    <dated>2005-01-05T00:00:00-08:00</dated>
+  </URIBenediction>
+  <URIBenediction>
+    <uri>CareerBuilder.com</uri>
+    <dated>2005-01-05T00:00:00-08:00</dated>
+  </URIBenediction>
+  <URIBenediction>
+    <uri>ComputerWork.com</uri>
+    <dated>2006-06-10T11:26:06.807-07:00</dated>
+  </URIBenediction>
+  <URIBenediction>
+    <uri>Dice.com</uri>
+    <dated>2005-01-05T00:00:00-08:00</dated>
+  </URIBenediction>
+  <URIBenediction>
+    <uri>Indeed.com</uri>
+    <dated>2005-09-12T01:19:10.77-07:00</dated>
+  </URIBenediction>
+  <URIBenediction>
+    <uri>Job.com</uri>
+    <dated>2005-03-13T00:00:00-08:00</dated>
+  </URIBenediction>
+  <URIBenediction>
+    <uri>jobsearch.gov.au</uri>
+    <dated>2006-02-05T13:15:55.603-08:00</dated>
+  </URIBenediction>
+  <URIBenediction>
+    <uri>JustSQLServerJobs.com</uri>
+    <dated>2006-09-13T15:32:39.32-07:00</dated>
+  </URIBenediction>
+  <URIBenediction>
+    <uri>Monster.com</uri>
+    <dated>2005-01-05T00:00:00-08:00</dated>
+  </URIBenediction>
+  <URIBenediction>
+    <uri>SanFranRecruiter.com</uri>
+    <dated>2005-10-29T19:43:56.687-07:00</dated>
+  </URIBenediction>
+  <URIBenediction>
+    <uri>seek.com.au</uri>
+    <dated>2006-02-05T13:57:20.9-08:00</dated>
+  </URIBenediction>
+  <URIBenediction>
+    <uri>SimplyHired.com</uri>
+    <dated>2005-10-29T20:31:27.22-07:00</dated>
+  </URIBenediction>
+  <URIBenediction>
+    <uri>TechieGold.com</uri>
+    <dated>2005-07-19T01:00:00-07:00</dated>
+  </URIBenediction>
+  <URIBenediction>
+    <uri>theaustralian.news.com.au</uri>
+    <dated>2006-02-05T13:15:24.077-08:00</dated>
+  </URIBenediction>
+  <URIBenediction>
+    <uri>AJB.DNI.us</uri>
+    <title>America's Job Bank</title>
+    <dated>2005-01-05T00:00:00-08:00</dated>
+  </URIBenediction>
+  <URIBenediction>
+    <uri>CraigsList.com</uri>
+    <title>Craig Newmark</title>
+    <dated>2005-01-05T00:00:00-08:00</dated>
+  </URIBenediction>
+</URI>

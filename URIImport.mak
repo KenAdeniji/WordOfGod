@@ -1,0 +1,4 @@
+all: URIImport.exe 
+
+URIImport.exe: ..\WordOfGod\UtilityClass.cs ..\WordOfGod\UtilityCollection.cs ..\WordOfGod\UtilityDatabase.cs ..\WordOfGod\UtilityDirectory.cs ..\WordOfGod\UtilityEventLog.cs ..\WordOfGod\UtilityFile.cs URIImport.cs ..\WordOfGod\UtilityXml.cs
+ csc /doc:XmlDocumentation\URIImportDocumentation.xml /main:WordEngineering.URIImport /out:URIImport.exe /target:exe ..\WordOfGod\UtilityClass.cs ..\WordOfGod\UtilityCollection.cs ..\WordOfGod\UtilityDatabase.cs ..\WordOfGod\UtilityDirectory.cs ..\WordOfGod\UtilityEventLog.cs ..\WordOfGod\UtilityFile.cs URIImport.cs ..\WordOfGod\UtilityXml.cs
