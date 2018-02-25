@@ -1,0 +1,14 @@
+<%@ Master Language="C#" AutoEventWireUp="true" %>
+<html>
+ <head runat="server" id="htmlHead">
+  <title runat="server" id="htmlTitle"></title>
+ </head>
+ <body>
+  <form runat="server" id="htmlForm"> 
+   <img src="apress.jpg" alternateText="apress.jpg"/><br />
+   <asp:ContentPlaceHolder runat="server" id="ContentPlaceHolderMaster">Default content.</asp:ContentPlaceHolder>
+   <br />
+   <i>This is a simple footer.</i>
+  </form>
+ </body>
+</html>

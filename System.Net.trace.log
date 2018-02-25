@@ -1,0 +1,26 @@
+System.Net Verbose: 0 : [5300] WebRequest::Create(ftp://e-comfort.ephraimtech.com//Ftp)
+System.Net Information: 0 : [5300] FtpWebRequest#33574638::.ctor(ftp://e-comfort.ephraimtech.com//Ftp)
+System.Net Verbose: 0 : [5300] Exiting WebRequest::Create() 	-> FtpWebRequest#33574638
+System.Net Verbose: 0 : [5300] FtpWebRequest#33574638::GetResponse()
+System.Net Information: 0 : [5300] FtpWebRequest#33574638::GetResponse(Method=NLST.)
+System.Net Information: 0 : [5300] Associating FtpWebRequest#33574638 with FtpControlStream#33736294
+System.Net Information: 0 : [5300] FtpControlStream#33736294 - Received response [220 Microsoft FTP Service]
+System.Net Information: 0 : [5300] FtpControlStream#33736294 - Sending command [USER KAdeniji@ephraimtech.com]
+System.Net Information: 0 : [5300] FtpControlStream#33736294 - Received response [331 Password required for KAdeniji@ephraimtech.com.]
+System.Net Information: 0 : [5300] FtpControlStream#33736294 - Sending command [PASS ********]
+System.Net Information: 0 : [5300] FtpControlStream#33736294 - Received response [230 User KAdeniji@ephraimtech.com logged in.]
+System.Net Information: 0 : [5300] FtpControlStream#33736294 - Sending command [OPTS utf8 on]
+System.Net Information: 0 : [5300] FtpControlStream#33736294 - Received response [501 option not supported]
+System.Net Information: 0 : [5300] FtpControlStream#33736294 - Sending command [PWD]
+System.Net Information: 0 : [5300] FtpControlStream#33736294 - Received response [257 "/" is current directory.]
+System.Net Information: 0 : [5300] FtpControlStream#33736294 - Sending command [CWD /]
+System.Net Information: 0 : [5300] FtpControlStream#33736294 - Received response [250 CWD command successful.]
+System.Net Information: 0 : [5300] FtpControlStream#33736294 - Sending command [TYPE I]
+System.Net Information: 0 : [5300] FtpControlStream#33736294 - Received response [200 Type set to I.]
+System.Net Information: 0 : [5300] FtpControlStream#33736294 - Sending command [PASV]
+System.Net Information: 0 : [5300] FtpControlStream#33736294 - Received response [227 Entering Passive Mode (24,6,76,23,5,236).]
+System.Net Information: 0 : [5300] FtpControlStream#33736294 - Sending command [NLST Ftp]
+System.Net Information: 0 : [5300] FtpControlStream#33736294 - Received response [125 Data connection already open; Transfer starting.]
+System.Net Verbose: 0 : [5300] Exiting FtpWebRequest#33574638::GetResponse() 
+System.Net Information: 0 : [5300] FtpControlStream#33736294 - Received response [226 Transfer complete.]
+System.Net Information: 0 : [5300] FtpWebRequest#33574638::(Releasing FTP connection#33736294.)
