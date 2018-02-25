@@ -1,0 +1,382 @@
+<?xml version="1.0" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='Day.xslt'?>
+<Day>
+  <Day>
+    <UniqueId>786b5095-2f7a-4269-8c25-ff59371d9f73</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>1</Sign>
+    <ScriptureReference>Genesis 1:3-5, Exodus 40:2, 2 Chronicles 29:17, Ezra 7:9, Ezra 10:17</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Genesis+1%3A3-5%2C+Exodus+40%3A2%2C+2+Chronicles+29%3A17%2C+Ezra+7%3A9%2C+Ezra+10%3A17&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>0ad296d4-7644-4bbd-8b38-24c5b4bc5cf1</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>2</Sign>
+    <ScriptureReference>Genesis 1:6-8 </ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Genesis+1%3A6-8&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>701d68b6-0d48-421b-b68c-659adf4c0994</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>3</Sign>
+    <ScriptureReference>Genesis 1:13, Genesis 22:4, Genesis 30:36, Genesis 31:22, Genesis 34:25, Genesis 40:12, Genesis 40:13, Genesis 40:18, Genesis 40:19, Genesis 40:20, Genesis 42:17, Genesis 42:18, Exodus 3:18, Exodus 5:3, Exodus 8:27, Exodus 10:22, Exodus 10:23, Exodus 15:22, Exodus 19:11, Exodus 19:15, Exodus 19:16, Leviticus 7:17, Leviticus 7:18, Leviticus 19:6, Leviticus 19:7, Numbers 7:24, Numbers 10:33, Numbers 19:12, Numbers 19:19, Numbers 29:20, Numbers 31:19, Numbers 33:8, Joshua 1:11, Joshua 2:16, Joshua 2:22, Joshua 3:2, Joshua 9:16, Joshua 9:17, Judges 14:14, Judges 19:4, Judges 20:30, 1 Samuel 9:20, 1 Samuel 20:5, 1 Samuel 20:12, 1 Samuel 20:19, 1 Samuel 21:5, 1 Samuel 30:1, 1 Samuel 30:12, 1 Samuel 30:13, 2 Samuel 1:2, 2 Samuel 20:4, 2 Samuel 24:13, 1 Kings 3:18, 1 Kings 12:5, 1 Kings 12:12, 2 Kings 2:17, 2 Kings 20:5, 2 Kings 20:8, 1 Chronicles 12:39, 1 Chronicles 21:12, 2 Chronicles 10:5, 2 Chronicles 10:12, 2 Chronicles 20:25, Ezra 6:15, Ezra 8:15, Ezra 8:32, Ezra 10:8, Ezra 10:9, Nehemiah 2:11, Esther 4:16, Esther 5:1, Hosea 6:2, Jonah 1:17, Jonah 3:3, Matthew 12:40, Matthew 15:32, Matthew 16:21, Matthew 17:23,  Matthew 20:19, Matthew 26:61, Matthew 27:40, Matthew 27:63, Matthew 27:64, Mark 8:2, Mark 8:31, Mark 9:31, Mark 10:34, Mark 14:58, Mark 15:29, Luke 2:46, Luke 9:22, Luke 13:32, Luke 18:33, Luke 24:7, Luke 24:21, Luke 24:46, John 2:1, John 2:19, John 2:20, Acts 9:9, Acts 10:40, Acts 25:1, Acts 27:19, Acts 28:7, Acts 28:12, Acts 28:17, 1 Corinthians 15:4</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Genesis+1%3A13%2C+Genesis+22%3A4%2C+Genesis+30%3A36%2C+Genesis+31%3A22%2C+Genesis+34%3A25%2C+Genesis+40%3A12%2C+Genesis+40%3A13%2C+Genesis+40%3A18%2C+Genesis+40%3A19%2C+Genesis+40%3A20%2C+Genesis+42%3A17%2C+Genesis+42%3A18%2C+Exodus+3%3A18%2C+Exodus+5%3A3%2C+Exodus+8%3A27%2C+Exodus+10%3A22%2C+Exodus+10%3A23%2C+Exodus+15%3A22%2C+Exodus+19%3A11%2C+Exodus+19%3A15%2C+Exodus+19%3A16%2C+Leviticus+7%3A17%2C+Leviticus+7%3A18%2C+Leviticus+19%3A6%2C+Leviticus+19%3A7%2C+Numbers+7%3A24%2C+Numbers+10%3A33%2C+Numbers+19%3A12%2C+Numbers+19%3A19%2C+Numbers+29%3A20%2C+Numbers+31%3A19%2C+Numbers+33%3A8%2C+Joshua+1%3A11%2C+Joshua+2%3A16%2C+Joshua+2%3A22%2C+Joshua+3%3A2%2C+Joshua+9%3A16%2C+Joshua+9%3A17%2C+Judges+14%3A14%2C+Judges+19%3A4%2C+Judges+20%3A30%2C+1+Samuel+9%3A20%2C+1+Samuel+20%3A5%2C+1+Samuel+20%3A12%2C+1+Samuel+20%3A19%2C+1+Samuel+21%3A5%2C+1+Samuel+30%3A1%2C+1+Samuel+30%3A12%2C+1+Samuel+30%3A13%2C+2+Samuel+1%3A2%2C+2+Samuel+20%3A4%2C+2+Samuel+24%3A13%2C+1+Kings+3%3A18%2C+1+Kings+12%3A5%2C+1+Kings+12%3A12%2C+2+Kings+2%3A17%2C+2+Kings+20%3A5%2C+2+Kings+20%3A8%2C+1+Chronicles+12%3A39%2C+1+Chronicles+21%3A12%2C+2+Chronicles+10%3A5%2C+2+Chronicles+10%3A12%2C+2+Chronicles+20%3A25%2C+Ezra+6%3A15%2C+Ezra+8%3A15%2C+Ezra+8%3A32%2C+Ezra+10%3A8%2C+Ezra+10%3A9%2C+Nehemiah+2%3A11%2C+Esther+4%3A16%2C+Esther+5%3A1%2C+Hosea+6%3A2%2C+Jonah+1%3A17%2C+Jonah+3%3A3%2C+Matthew+12%3A40%2C+Matthew+15%3A32%2C+Matthew+16%3A21%2C+Matthew+17%3A23%2C+Matthew+20%3A19%2C+Matthew+26%3A61%2C+Matthew+27%3A40%2C+Matthew+27%3A63%2C+Matthew+27%3A64%2C+Mark+8%3A2%2C+Mark+8%3A31%2C+Mark+9%3A31%2C+Mark+10%3A34%2C+Mark+14%3A58%2C+Mark+15%3A29%2C+Luke+2%3A46%2C+Luke+9%3A22%2C+Luke+13%3A32%2C+Luke+18%3A33%2C+Luke+24%3A7%2C+Luke+24%3A21%2C+Luke+24%3A46%2C+John+2%3A1%2C+John+2%3A19%2C+John+2%3A20%2C+Acts+9%3A9%2C+Acts+10%3A40%2C+Acts+25%3A1%2C+Acts+27%3A19%2C+Acts+28%3A7%2C+Acts+28%3A12%2C+Acts+28%3A17%2C+1+Corinthians+15%3A4&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>dddfe757-5e26-4886-9f5e-98adca5ff07a</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>4</Sign>
+    <ScriptureReference>Genesis 1:19, Numbers 7:30, Numbers 29:23, Judges 11:40, Judges 19:5, 2 Chronicles 20:26, Ezra 8:33, Zechariah 7:1, John 11:17, John 11:39, Acts 10:30</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Genesis+1%3A19%2C+Numbers+7%3A30%2C+Numbers+29%3A23%2C+Judges+11%3A40%2C+Judges+19%3A5%2C+2+Chronicles+20%3A26%2C+Ezra+8%3A33%2C+Zechariah+7%3A1%2C+John+11%3A17%2C+John+11%3A39%2C+Acts+10%3A30&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>24fadfa1-884f-41c7-b302-1086cb6462bf</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>5</Sign>
+    <ScriptureReference>Genesis 1:23, Numbers 7:36, Numbers 29:26, Judges 19:8, Ezekiel 1:1, Ezekiel 1:2, Ezekiel 8:1, Ezekiel 33:21, Acts 20:6, Acts 24:1</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Genesis+1%3A23%2C+Numbers+7%3A36%2C+Numbers+29%3A26%2C+Judges+19%3A8%2C+Ezekiel+1%3A1%2C+Ezekiel+1%3A2%2C+Ezekiel+8%3A1%2C+Ezekiel+33%3A21%2C+Acts+20%3A6%2C+Acts+24%3A1&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>02966bef-26b7-47fb-9534-9c39993e08f2</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>6</Sign>
+    <ScriptureReference>Genesis 1:31, Exodus 16:5, Exodus 16:22, Exodus 16:26, Exodus 16:29, Exodus 20:9, Exodus 20:11, Exodus 23:12, Exodus 24:16, Exodus 31:15, Exodus 31:17, Exodus 34:21, Exodus 35:2, Leviticus 23:3, Numbers 7:42, Numbers 29:29, Deuteronomy 5:13, Deuteronomy 16:8, Joshua 6:3, Joshua 6:14, Matthew 17:1, Mark 9:2, Luke 13:14, John 12:1</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Genesis+1%3A31%2C+Exodus+16%3A5%2C+Exodus+16%3A22%2C+Exodus+16%3A26%2C+Exodus+16%3A29%2C+Exodus+20%3A9%2C+Exodus+20%3A11%2C+Exodus+23%3A12%2C+Exodus+24%3A16%2C+Exodus+31%3A15%2C+Exodus+31%3A17%2C+Exodus+34%3A21%2C+Exodus+35%3A2%2C+Leviticus+23%3A3%2C+Numbers+7%3A42%2C+Numbers+29%3A29%2C+Deuteronomy+5%3A13%2C+Deuteronomy+16%3A8%2C+Joshua+6%3A3%2C+Joshua+6%3A14%2C+Matthew+17%3A1%2C+Mark+9%3A2%2C+Luke+13%3A14%2C+John+12%3A1&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>e5cf5b8b-97c8-4dc0-8454-77c6a72cd13a</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>8</Sign>
+    <ScriptureReference>Genesis 17:12, Genesis 21:4, Exodus 22:30, Leviticus 9:1, Leviticus 12:3, Leviticus 14:10, Leviticus 14:23, Leviticus 15:14, Leviticus 15:29, Leviticus 22:27, Leviticus 23:36, Leviticus 23:39, Numbers 6:10, Numbers 7:54, Numbers 29:35, 1 Kings 8:66, 2 Chronicles 7:9, 2 Chronicles 29:17, Nehemiah 8:18, Ezekiel 43:27, Luke 1:59, Luke 2:21, Luke 9:28, John 20:26, Acts 7:8, Philippians 3:5</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Genesis+17%3A12%2C+Genesis+21%3A4%2C+Exodus+22%3A30%2C+Leviticus+9%3A1%2C+Leviticus+12%3A3%2C+Leviticus+14%3A10%2C+Leviticus+14%3A23%2C+Leviticus+15%3A14%2C+Leviticus+15%3A29%2C+Leviticus+22%3A27%2C+Leviticus+23%3A36%2C+Leviticus+23%3A39%2C+Numbers+6%3A10%2C+Numbers+7%3A54%2C+Numbers+29%3A35%2C+1+Kings+8%3A66%2C+2+Chronicles+7%3A9%2C+2+Chronicles+29%3A17%2C+Nehemiah+8%3A18%2C+Ezekiel+43%3A27%2C+Luke+1%3A59%2C+Luke+2%3A21%2C+Luke+9%3A28%2C+John+20%3A26%2C+Acts+7%3A8%2C+Philippians+3%3A5&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>6244511e-acff-48a1-9240-01586273841b</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>14</Sign>
+    <ScriptureReference>Exodus 12:6, Exodus 12:18, Leviticus 23:5, Numbers 9:3, Numbers 9:5, Numbers 9:11, Numbers 28:16, Joshua 5:10, 2 Chronicles 30:15, 2 Chronicles 35:1, Ezra 6:19, Esther 9:15, Esther 9:17, Esther 9:19, Esther 9:21, Ezekiel 45:21, Acts 27:33 </ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Exodus+12%3A6%2C+Exodus+12%3A18%2C+Leviticus+23%3A5%2C+Numbers+9%3A3%2C+Numbers+9%3A5%2C+Numbers+9%3A11%2C+Numbers+28%3A16%2C+Joshua+5%3A10%2C+2+Chronicles+30%3A15%2C+2+Chronicles+35%3A1%2C+Ezra+6%3A19%2C+Esther+9%3A15%2C+Esther+9%3A17%2C+Esther+9%3A19%2C+Esther+9%3A21%2C+Ezekiel+45%3A21%2C+Acts+27%3A33&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>8dc92e2f-e6e5-45d8-a914-f46fc8af8935</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>15</Sign>
+    <ScriptureReference>Leviticus 23:6, Leviticus 23:34, Leviticus 23:39, Numbers 28:17, Numbers 29:12, Numbers 33:3, 1 Kings 12:32-33, Esther 9:18, Esther 9:21, Ezekiel 32:17, Ezekiel 45:25 </ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Leviticus+23%3A6%2C+Leviticus+23%3A34%2C+Leviticus+23%3A39%2C+Numbers+28%3A17%2C+Numbers+29%3A12%2C+Numbers+33%3A3%2C+1+Kings+12%3A32-33%2C+Esther+9%3A18%2C+Esther+9%3A21%2C+Ezekiel+32%3A17%2C+Ezekiel+45%3A25&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>d74be3a1-bddb-44bc-ba1f-3085b89e7191</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>26</Sign>
+    <ScriptureReference>Genesis 8:14, 2 Kings 25:27 </ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Genesis+8%3A14%2C+2+Kings+25%3A27&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>fd185275-d7de-4d6e-b996-eddc1c7ab3de</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>1290</Sign>
+    <ScriptureReference>Daniel 12:11 </ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Daniel+12%3A11&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>5e69776b-9ddf-4ab9-be2a-4bfb604cbd63</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>1335</Sign>
+    <ScriptureReference>Daniel 12:12 </ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Daniel+12%3A12&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>563efecb-a122-49cd-bcc9-f181e0aeb0bb</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>361</Sign>
+    <ScriptureReference>Exodus 40:17</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Exodus+40%3A17&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>d67ff052-27be-4425-a089-310451dacf5b</UniqueId>
+    <Dated>2003-06-18T00:00:00.0000000-07:00</Dated>
+    <Sign>210</Sign>
+    <ScriptureReference>1 Samuel 6:1, Ezekiel 39:12, Ezekiel 39:14</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=1+Samuel+6%3A1%2C+Ezekiel+39%3A12%2C+Ezekiel+39%3A14&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>d3e2d8f4-7ed4-4623-9baa-468da3535077</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>216047</Sign>
+    <ScriptureReference>Genesis 7:11</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Genesis+7%3A11&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>868dcaa6-4525-4054-8d38-08daf04406d0</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>216271</Sign>
+    <ScriptureReference>Genesis 8:5</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Genesis+8%3A5&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>1a59fd11-16ac-4b21-88ca-b4ef92f3ca93</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>33</Sign>
+    <ScriptureReference>Leviticus 12:4 </ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Leviticus+12%3A4&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>7bd0be37-2dd1-48bd-b335-6d49436b1d2c</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>7</Sign>
+    <ScriptureReference>Genesis 2:2, Genesis 2:3, Genesis 7:4, Genesis 7:10, Genesis 8:10, Genesis 8:12, Genesis 31:23, Genesis 50:10, Exodus 7:25, Exodus 12:15, Exodus 12:16, Exodus 12:19, Exodus 13:6, Exodus 13:7, Exodus 16:26, Exodus 16:27, Exodus 16:29, Exodus 16:30, Exodus </ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Genesis+2%3A2%2C+Genesis+2%3A3%2C+Genesis+7%3A4%2C+Genesis+7%3A10%2C+Genesis+8%3A10%2C+Genesis+8%3A12%2C+Genesis+31%3A23%2C+Genesis+50%3A10%2C+Exodus+7%3A25%2C+Exodus+12%3A15%2C+Exodus+12%3A16%2C+Exodus+12%3A19%2C+Exodus+13%3A6%2C+Exodus+13%3A7%2C+Exodus+16%3A26%2C+Exodus+16%3A27%2C+Exodus+16%3A29%2C+Exodus+16%3A30%2C+Exodus+1-40&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>fc5c4274-960b-4c16-aac1-4d24ffc7d687</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>9</Sign>
+    <ScriptureReference>Leviticus 23:32, Numbers 7:60, 2 Kings 25:3, Jeremiah 39:2, Jeremiah 52:6 </ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Leviticus+23%3A32%2C+Numbers+7%3A60%2C+2+Kings+25%3A3%2C+Jeremiah+39%3A2%2C+Jeremiah+52%3A6&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>3402c189-b8f8-41b9-9223-5ec82b909ac7</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>10</Sign>
+    <ScriptureReference>Exodus 12:3, Leviticus 16:29, Leviticus 23:27, Leviticus 25:9, Numbers 7:66, Numbers 29:7, Joshua 4:19, 2 Kings 25:1, Jeremiah 52:4, Jeremiah 52:12, Ezekiel 20:1, Ezekiel 24:1, Ezekiel 40:1, Revelation 2:10</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Exodus+12%3A3%2C+Leviticus+16%3A29%2C+Leviticus+23%3A27%2C+Leviticus+25%3A9%2C+Numbers+7%3A66%2C+Numbers+29%3A7%2C+Joshua+4%3A19%2C+2+Kings+25%3A1%2C+Jeremiah+52%3A4%2C+Jeremiah+52%3A12%2C+Ezekiel+20%3A1%2C+Ezekiel+24%3A1%2C+Ezekiel+40%3A1%2C+Revelation+2%3A10&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>1453b3f8-2d1f-4c7d-86d5-1d342940633e</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>12</Sign>
+    <ScriptureReference>Numbers 7:78, Ezra 8:31, Ezekiel 29:1, Acts 24:11</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Numbers+7%3A78%2C+Ezra+8%3A31%2C+Ezekiel+29%3A1%2C+Acts+24%3A11&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>6704174f-2567-4d47-97ad-0cfa36b95b92</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>13</Sign>
+    <ScriptureReference>Esther 3:12-13, Esther 8:12, Esther 9:1, Esther 9:17-18 </ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Esther+3%3A12-13%2C+Esther+8%3A12%2C+Esther+9%3A1%2C+Esther+9%3A17-18&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>66b21bdb-fe58-4a4d-8e2f-cb0356a7a488</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>21</Sign>
+    <ScriptureReference>Exodus 12:18, Daniel 10:13, Haggai 2:1 </ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Exodus+12%3A18%2C+Daniel+10%3A13%2C+Haggai+2%3A1&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>67676625-b67d-4717-8410-32f35947068d</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>23</Sign>
+    <ScriptureReference>2 Chronicles 7:10, Esther 8:9 </ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=2+Chronicles+7%3A10%2C+Esther+8%3A9&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>205f4154-618d-46a9-9219-bb10d3e77b14</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>16</Sign>
+    <ScriptureReference>2 Chronicles 29:17</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=2+Chronicles+29%3A17&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>38a9fe81-c751-47f8-94b7-901a777bcc63</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>17</Sign>
+    <ScriptureReference>Genesis 7:11, Genesis 8:4 </ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Genesis+7%3A11%2C+Genesis+8%3A4&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>4c8d34b2-2ee4-4ee0-80d3-172b7a288c46</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>24</Sign>
+    <ScriptureReference>Daniel 10:4, Haggai 1:15, Haggai 2:10, Haggai 2:18, Haggai 2:20, Zechariah 1:7 </ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Daniel+10%3A4%2C+Haggai+1%3A15%2C+Haggai+2%3A10%2C+Haggai+2%3A18%2C+Haggai+2%3A20%2C+Zechariah+1%3A7&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>2721ea2f-a97b-4502-a002-95dc44fc6b7e</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>25</Sign>
+    <ScriptureReference>Jeremiah 52:31, Luke 19:44, 1 Peter 2:12 </ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Jeremiah+52%3A31%2C+Luke+19%3A44%2C+1+Peter+2%3A12&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>29b2b85e-0986-486f-9c81-52a35110dbe4</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>30</Sign>
+    <ScriptureReference>Genesis 29:14, Leviticus 27:6, Numbers 3:15, Numbers 3:22, Numbers 3:28, Numbers 3:34, Numbers 3:39, Numbers 3:40, Numbers 3:43, Numbers 18:16, Numbers 20:29, Numbers 26:62, Deuteronomy 34:8, 1 Kings 5:14, Esther 4:11, Daniel 6:7, Daniel 6:12, Hosea 5:7</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Genesis+29%3A14%2C+Leviticus+27%3A6%2C+Numbers+3%3A15%2C+Numbers+3%3A22%2C+Numbers+3%3A28%2C+Numbers+3%3A34%2C+Numbers+3%3A39%2C+Numbers+3%3A40%2C+Numbers+3%3A43%2C+Numbers+18%3A16%2C+Numbers+20%3A29%2C+Numbers+26%3A62%2C+Deuteronomy+34%3A8%2C+1+Kings+5%3A14%2C+Esther+4%3A11%2C+Daniel+6%3A7%2C+Daniel+6%3A12%2C+Hosea+5%3A7&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>493765f1-8697-4cf2-a7b9-1d0808a1da65</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>1260</Sign>
+    <ScriptureReference>Daniel 9:25-27, Revelation 11:3, Revelation 12:6</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Daniel+9%3A25-27%2C+Revelation+11%3A3%2C+Revelation+12%3A6&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>30fbc284-4cab-4ba6-9d2c-e000b93d5201</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>216197</Sign>
+    <ScriptureReference>Genesis 8:4</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Genesis+8%3A4&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>0c884aa3-e77f-4613-8107-300be5e997fb</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>216361</Sign>
+    <ScriptureReference>Genesis 8:13</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Genesis+8%3A13&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>edcb7cb7-fb2e-4935-8cb9-d1c472563209</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>216417</Sign>
+    <ScriptureReference>Genesis 8:14</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Genesis+8%3A14&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>4a1eb17d-7c87-4405-9133-b4ffdf456011</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>90</Sign>
+    <ScriptureReference>Genesis 38:24, Exodus 2:2, 2 Samuel 6:11, 2 Samuel 24:13, 2 Kings 23:31, 2 Kings 24:8, 1 Chronicles 13:14, 1 Chronicles 21:12, 2 Chronicles 36:2, Amos 4:7, Luke 1:56, Acts 7:20, Acts 19:8, Acts 20:3, Acts 28:11, Hebrews 11:23</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Genesis+38%3A24%2C+Exodus+2%3A2%2C+2+Samuel+6%3A11%2C+2+Samuel+24%3A13%2C+2+Kings+23%3A31%2C+2+Kings+24%3A8%2C+1+Chronicles+13%3A14%2C+1+Chronicles+21%3A12%2C+2+Chronicles+36%3A2%2C+Amos+4%3A7%2C+Luke+1%3A56%2C+Acts+7%3A20%2C+Acts+19%3A8%2C+Acts+20%3A3%2C+Acts+28%3A11%2C+Hebrews+11%3A23&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>7e0a133b-8824-4806-93a3-560e7cbe929d</UniqueId>
+    <Dated>2003-06-18T00:00:00.0000000-07:00</Dated>
+    <Sign>44</Sign>
+    <ScriptureReference>Numbers 9:11</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Numbers+9%3A11&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>e54fe17e-3442-4d05-889f-b4f47199b588</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>45</Sign>
+    <ScriptureReference>Exodus 16:1</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Exodus+16%3A1&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>cf1b5aa0-458c-435c-8dc9-0ad6ee74c37d</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>60</Sign>
+    <ScriptureReference>Judges 11:37, Judges 11:38, Judges 11:39, 1 Kings 5:14</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Judges+11%3A37%2C+Judges+11%3A38%2C+Judges+11%3A39%2C+1+Kings+5%3A14&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>83d9b9b1-b28f-4e4f-93df-16ef311ebbc8</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>80</Sign>
+    <ScriptureReference>Esther 8:9</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Esther+8%3A9&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>b0d41c29-6f49-4070-a278-851ef9fb5250</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>195</Sign>
+    <ScriptureReference>Leviticus 23:34, Leviticus 23:39, Numbers 29:12, Ezekiel 45:25</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Leviticus+23%3A34%2C+Leviticus+23%3A39%2C+Numbers+29%3A12%2C+Ezekiel+45%3A25&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>6b62427c-88f0-4afc-be4b-ed3314945878</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>121</Sign>
+    <ScriptureReference>Ezra 7:9</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Ezra+7%3A9&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>a21efeb7-4072-4d90-b3e4-db36199f2c93</UniqueId>
+    <Dated>2003-06-18T00:00:00.0000000-07:00</Dated>
+    <Sign>770</Sign>
+    <ScriptureReference>Numbers 10:11</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Numbers+10%3A11&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>c87283cc-9e3e-48a9-aa0d-39427a198b03</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>31</Sign>
+    <ScriptureReference>Numbers 1:18</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Numbers+1%3A18&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>9895976a-fd36-4855-aeab-6742f127ae69</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>151</Sign>
+    <ScriptureReference>Numbers 1:1, Numbers 1:18</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Numbers+1%3A1%2C+Numbers+1%3A18&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>78be9fa1-297e-4f64-8f72-99e9f624f175</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>14521</Sign>
+    <ScriptureReference>Numbers 33:38</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Numbers+33%3A38&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>46af819e-abf6-4fe6-950f-7b9dce6e7e84</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>181</Sign>
+    <ScriptureReference>Ezra 3:6, Nehemiah 8:2</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Ezra+3%3A6%2C+Nehemiah+8%3A2&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>5c363576-61dc-44ae-b4c8-43e8447bb802</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>271</Sign>
+    <ScriptureReference>Ezra 10:16</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Ezra+10%3A16&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>fb135ace-2f39-4c63-bb76-3820e252732f</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>190</Sign>
+    <ScriptureReference>Leviticus 16:29, Leviticus 23:27, Leviticus 25:9, Numbers 29:7</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Leviticus+16%3A29%2C+Leviticus+23%3A27%2C+Leviticus+25%3A9%2C+Numbers+29%3A7&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>23c6d7cf-e523-4e3c-a0c3-e3726c6b3076</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>249</Sign>
+    <ScriptureReference>Leviticus 23:32</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Leviticus+23%3A32&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>42701e7c-d21d-4e06-8d9f-44c9b3b39af7</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>14701</Sign>
+    <ScriptureReference>Deuteronomy 1:3</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Deuteronomy+1%3A3&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>fac5f420-dbc7-41ff-982e-7ecd89864d38</UniqueId>
+    <Dated>2003-01-25T00:00:00.0000000-08:00</Dated>
+    <Sign>14770</Sign>
+    <ScriptureReference>Joshua 4:19</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Joshua+4%3A19&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>798e01cc-d06f-407d-8ef3-4db16a248453</UniqueId>
+    <Dated>2003-06-18T00:00:00.0000000-07:00</Dated>
+    <Sign>120</Sign>
+    <ScriptureReference>Judges 19:2, John 4:35</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Judges+19%3A2%2C+John+4%3A35&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>f69dd68c-bf17-4659-8006-d31952428432</UniqueId>
+    <Dated>2003-06-18T00:00:00.0000000-07:00</Dated>
+    <Sign>480</Sign>
+    <ScriptureReference>1 Samuel 27:7</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=1+Samuel+27%3A7&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>b9d23526-76be-4090-a021-97a30acfad15</UniqueId>
+    <Dated>2003-06-18T00:00:00.0000000-07:00</Dated>
+    <Sign>2700</Sign>
+    <ScriptureReference>2 Samuel 2:11, 2 Samuel 5:5, 1 Chronicles 3:4</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=2+Samuel+2%3A11%2C+2+Samuel+5%3A5%2C+1+Chronicles+3%3A4&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+  <Day>
+    <UniqueId>c69d8871-6a3c-42eb-a5bf-c51f2a4c6de9</UniqueId>
+    <Dated>2003-06-18T00:00:00.0000000-07:00</Dated>
+    <Sign>11880</Sign>
+    <ScriptureReference>2 Samuel 5:5, 1 Kings 2:11, 1 Chronicles 3:4, 1 Chronicles 29:27</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=2+Samuel+5%3A5%2C+1+Kings+2%3A11%2C+1+Chronicles+3%3A4%2C+1+Chronicles+29%3A27&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+  </Day>
+</Day>

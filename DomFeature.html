@@ -1,0 +1,24 @@
+<html>
+	<head>	
+		<script type="text/javascript">
+		var featuresLevel1 = ["HTML","XML"];
+		var featuresLevel2 = 
+			["Core","HTML","XML","Stylesheets","CSS","CSS2","Views","Events","UIEvents","MouseEvents","HTMLEvents","MutationEvents","Range","Traversal"];
+		document.write("<br />*** DOM Level 1 ***<br />");
+		showFeatureSupport(featuresLevel1,"1.0");
+		document.write("<br />*** DOM Level 2 ***<br />");
+		showFeatureSupport(featuresLevel2,"2.0");
+		// Generic function to loop through features and output feature support test result
+		function showFeatureSupport(featureArray,version)
+		{
+			for (var featCnt=0; featCnt < featureArray.length; featCnt++)
+			{
+				var feature = featureArray[featCnt];
+				var supportedFlag = document.implementation.hasFeature(feature,version);
+				document.write("Feature ‘" + feature + "‘: " + supportedFlag);
+				document.write("<br />");
+			}
+		}
+	    </script>
+	</head>
+</title>	
