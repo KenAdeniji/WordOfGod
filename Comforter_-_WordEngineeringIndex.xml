@@ -1,0 +1,136 @@
+<?xml version="1.0" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='20050405Index.xslt'?>
+<addresses>
+	 <address>
+		<dated>2005-09-29T00:00:00.0000000-08:00</dated>
+		<keyword/>
+		<title>Account</title>
+		<uri>20050929AccountIndex.xml</uri>
+	 </address>
+	 <address>
+		<dated>2005-08-18T00:00:00.0000000-08:00</dated>
+		<keyword/>
+		<title>Asynchronous JavaScript with XmlHttpRequest (AJAX)</title>
+		<uri>20050818AsynchronousJavaScriptWithXmlHttpRequestAJAXIndex.xml</uri>
+	 </address>
+	 <address>
+		<dated>2005-09-11T00:00:00.0000000-08:00</dated>
+		<keyword/>
+		<title>Chart</title>
+		<uri>20050911ChartIndex.xml</uri>
+	 </address>
+	 <address>
+		<dated>2005-08-10T00:00:00.0000000-08:00</dated>
+		<keyword/>
+		<title>I want somebody to tell me I am just a</title>
+		<uri>20051028IWantSomebodyToTellMeIAmJustA.xml</uri>
+	 </address>
+	 <address>
+		<dated>2007-04-01T00:00:00.0000000-08:00</dated>
+		<keyword/>
+		<title>I will equate a newer dimension of old fashion</title>
+		<uri>20070401I will equate a newer dimension of old fashion.xml</uri>
+	 </address>
+	 <address>
+		<dated>2007-03-09T00:00:00.0000000-08:00</dated>
+		<keyword/>
+		<title>Image</title>
+		<uri>20070309Image.xml</uri>
+	</address>
+	<address>
+		<dated>2006-05-05T00:00:00.0000000-08:00</dated>
+		<keyword/>
+		<title>JavaScript</title>
+		<uri>20060505JavaScriptIndex.xml</uri>
+	 </address>
+	 <address>
+		<dated>2005-08-10T00:00:00.0000000-08:00</dated>
+		<keyword/>
+		<title>Media</title>
+		<uri>20050810MediaIndex.xml</uri>
+	 </address>
+	 <address>
+		<dated>2005-08-15T00:00:00.0000000-08:00</dated>
+		<keyword/>
+		<title>Membership</title>
+		<uri>Comforter_-_20050805WordEngineeringMembershipIndex.xml</uri>
+	 </address>
+	 <address>
+		<dated>2005-09-12T00:00:00.0000000-08:00</dated>
+		<keyword/>
+		<title>Network</title>
+		<uri>20050912NetworkIndex.xml</uri>
+	 </address>
+	 <address>
+		<dated>2005-08-23T00:00:00.0000000-08:00</dated>
+		<keyword/>
+		<title>Regular Expression</title>
+		<uri>20050823WordEngineeringRegularExpressionIndex.xml</uri>
+	 </address>
+	 <address>
+		<dated>2006-02-06T00:00:00.0000000-08:00</dated>
+		<keyword/>
+		<title>Report</title>
+		<uri>20060206ReportIndex.xml</uri>
+	 </address>
+	 <address>
+		<dated>2005-09-08T00:00:00.0000000-08:00</dated>
+		<keyword/>
+		<title>Response</title>
+		<uri>20050908ResponseIndex.xml</uri>
+	 </address>
+	 <address>
+		<dated>2005-08-23T00:00:00.0000000-08:00</dated>
+		<keyword/>
+		<title>RSS</title>
+		<uri>20050823WordEngineeringRSSIndex.xml</uri>
+	 </address>
+	 <address>
+		<dated>2006-01-18T00:00:00.0000000-08:00</dated>
+		<keyword/>
+		<title>SharePoint</title>
+		<uri>20060118SharePointIndex.xml</uri>
+	 </address>
+	 <address>
+		<dated>2004-06-08T00:00:00.0000000-08:00</dated>
+		<keyword/>
+		<title>URI</title>
+		<uri>Comforter_-_20041224WordEngineeringIndexURI.xml</uri>
+	 </address>
+	 <address>
+		<dated>2004-06-08T00:00:00.0000000-08:00</dated>
+		<keyword/>
+		<title>Utility</title>
+		<uri>Comforter_-_20040608WordEngineeringUtilityIndex.xml</uri>
+	 </address>
+	 <address>
+		<dated>2005-08-04T00:00:00.0000000-08:00</dated>
+		<keyword/>
+		<title>Web Form</title>
+		<uri>Comforter_-_20050804WordEngineeringWebFormIndex.xml</uri>
+	 </address>
+	 <address>
+		<dated>2005-08-12T00:00:00.0000000-08:00</dated>
+		<keyword/>
+		<title>Web Service</title>
+		<uri>20050812WebServiceIndex.xml</uri>
+	 </address>
+</addresses>
+
+<!--
+Legal filter operators are:
+ =    (equal) 
+ !=   (not equal) 
+ &lt; less than 
+ &gt; greater than
+-->
+
+<!--
+HTML Special Entities
+Character   Meaning        Entity   Numeric
+<           Less than      &lt;     &#60;
+>           Greater than   &gt;     &#62;
+&           Ampersand      &amp;    &#38;
+'           Apostrophe     &apos;   &#39;
+"           Quote          &quot;   &#34;
+-->

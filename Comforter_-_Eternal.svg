@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN" "http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd">
+
+<svg xml:space="preserve" width="100%" height="100%" viewBox="0 0 100 100">
+ <path d="M 0 53.5 L 8 40.7 L 16 25.4 L 24 45.4 L 32 42.6 L 40 54.35 L 48 58.5 L 56 37.3 L 64 46.6 L 72 64.6 L 80 67.8 L 88 59.5"/>
+ <text y="15" x="1">El Olam God of Eternity (Genesis 21:33)</text>
+</svg>
+
+<!--
+http://www.adobe.com/svg/basics/boundbox.html
+
+After the standard language and document definitions, the <svg> element appears. 
+The <svg> element defines the SVG document, and can specify, among other things, 
+the user coordinate system, and various CSS unit specifiers. The line 
+<svg xml:space="preserve" width="3in" height="2in" viewBox="0 0 300 200"> 
+specifies: 
+1) that whitespace within text elements will be preserved, 
+2) the "intrinsic" width and height of the SVG document — particularly important for specifying print output size, and 
+3) the "bounding box" for the elements of the graphic. 
+In the following example, the SVG file is establishing the boundaries of the image, 
+by stating that in a rectangular space, the upper lefthand x, y coordinates are to 
+be set as 0, 0 and the width and height of the viewing area are 300 and 200. 
+
+<svg xml:space="preserve" width="5.5in" height="2in">
+<path d="M 50 10 L 350 10 L 200 120 z"/>
+</svg>
+
+-->
+
+<!--
+ <text style="fill:blue;" y="15">
+  Reuben: 46500. 
+  Simeon: 59300.
+  Judah: 74600.
+  Issachar: 54400.
+  Zebulun: 57400.
+  Gad: 45650.
+  Asher: 41500.
+  Dan: 62700
+  Naphtali: 53400.
+  Benjamin: 35400.
+  Manasseh: 32200.
+  Ephraim: 40500.
+  Leah: 292200.
+  Zilpah: 87150.
+  Rachel: 108100.
+  Bilhah: 116100.
+  Eternal: 603550.
+ </text>
+-->
+
+<!--
+1     <Reuben>46500</Reuben>
+2     <Simeon>59300</Simeon>
+3     <Judah>74600</Judah>
+4     <Issachar>54400</Issachar>
+5     <Zebulun>57400</Zebulun>
+6     <Gad>45650</Gad>
+7     <Asher>41500</Asher>
+8     <Dan>62700</Dan>
+9     <Naphtali>53400</Naphtali>
+10    <Benjamin>35400</Benjamin>
+11    <Manasseh>32200</Manasseh>
+12    <Ephraim>40500</Ephraim>
+13    <Leah>292200</Leah>
+14    <Zilpah>87150</Zilpah>
+15    <Rachel>108100</Rachel>
+16    <Bilhah>116100</Bilhah>
+17    <Eternal>603550</Eternal>
+-->

@@ -1,0 +1,1 @@
+csc /t:library /out:bin\contactMgrDBAccess.dll /r:System.dll /r:System.Web.dll contactMgrDBAccess.cs

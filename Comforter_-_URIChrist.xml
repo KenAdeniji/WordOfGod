@@ -1,0 +1,592 @@
+<?xml version="1.0" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='Comforter_-_URI.xslt'?>
+<URI>
+  <URICHRIST>
+    <uri>AaronKarr.com</uri>
+    <dated>2002-08-22T00:00:00.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>AaronNeville.com</uri>
+    <dated>2002-08-22T00:00:00.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>AirGospel.com</uri>
+    <dated>2002-05-26T05:05:19.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>AlGreen.com</uri>
+    <dated>2002-05-26T05:06:52.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>AmazingFacts.org</uri>
+    <dated>2002-08-22T00:00:00.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>AmiRushes.com</uri>
+    <dated>2005-05-20T22:19:28.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>AmyGrant.com</uri>
+    <dated>2002-05-26T05:10:05.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>Apocalypse-TheMovie.com</uri>
+    <dated>2003-02-25T09:10:47.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>apps.alameda.courts.ca.gov/fortecgi/fortecgi.exe?servicename=calendarlookup&amp;templatename=lookup1.html</uri>
+    <dated>2005-07-19T06:49:30.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>AudioTreasure.com</uri>
+    <dated>2002-09-26T21:45:53.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>AzizahMagazine.com</uri>
+    <dated>2002-09-21T19:24:24.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>BebeWinans.com</uri>
+    <dated>2002-05-26T05:17:11.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>BlackGospel.com</uri>
+    <dated>2002-05-26T05:20:34.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>BrianDoerksen.com</uri>
+    <dated>2003-03-08T16:26:14.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>BrooklynTabernacle.org</uri>
+    <dated>2002-05-26T05:22:29.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>BruceFeiler.com</uri>
+    <dated>2003-01-14T08:03:51.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>CeceWinans.com</uri>
+    <dated>2002-05-26T05:30:38.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>CherieCall.com</uri>
+    <dated>2002-06-07T11:37:37.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>Christianity.com</uri>
+    <dated>2002-05-23T10:16:58.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>CloudTenPictures.com</uri>
+    <dated>2003-02-25T09:10:47.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>Countdown.org</uri>
+    <dated>2002-06-16T03:19:40.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>CrystalLewis.com</uri>
+    <dated>2002-05-26T05:28:13.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>DamarisCarbaugh.com</uri>
+    <dated>2002-08-19T18:26:12.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>David-Baldacci.com</uri>
+    <dated>2005-07-17T12:44:04.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>DecisionMag.org</uri>
+    <dated>2002-06-15T02:17:37.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>DeleonMusic.com</uri>
+    <dated>2002-05-26T05:37:54.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>DonnieMcClurkin.com</uri>
+    <dated>2002-05-26T05:39:06.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>DoveAwards.com</uri>
+    <dated>2003-05-06T01:00:00.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>GospelCityRadio.com</uri>
+    <dated>2005-05-20T22:19:28.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>GospelOfJohnTheFilm.com</uri>
+    <dated>2003-12-20T00:00:00.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>GrahamKendrick.co.uk</uri>
+    <dated>2002-05-26T05:49:13.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>GrantJeffrey.com</uri>
+    <dated>2002-06-15T02:45:36.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>HalLindseyOracle.com</uri>
+    <dated>2002-06-15T08:13:23.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>HowardHewett.com</uri>
+    <dated>2002-06-07T11:35:42.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>HTMLBible.com</uri>
+    <dated>2002-10-02T04:48:21.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>JesusFilm.org</uri>
+    <dated>2003-02-25T09:10:47.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>JGrisham.com</uri>
+    <dated>2005-07-17T12:43:10.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>Junko.com</uri>
+    <dated>2002-08-19T18:41:26.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>KenolyBrothers.com</uri>
+    <dated>2003-12-11T00:00:00.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>KurtCarr.com</uri>
+    <dated>2002-06-07T11:24:43.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>LDSMusicWorld.com</uri>
+    <dated>2002-06-07T21:13:40.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>LeftBehind-TheMovie.com</uri>
+    <dated>2003-02-25T09:10:48.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>LeftBehind-WorldAtWar.com</uri>
+    <dated>2005-07-29T10:10:47.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>LeftBehind.com</uri>
+    <dated>2002-08-29T03:48:40.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>LeftBehindFilmProject.com</uri>
+    <dated>2003-02-25T09:10:48.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>MatthewWard.com</uri>
+    <dated>2002-08-30T09:18:33.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>OnePlace.com</uri>
+    <dated>2002-10-07T15:01:03.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>PBS.org/wgbh/pages/frontline/shows/apocalypse</uri>
+    <dated>2003-02-25T09:10:48.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>PlusOneOnline.com</uri>
+    <dated>2003-12-11T00:00:00.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>PrinceOfEgypt.com</uri>
+    <dated>2003-02-25T09:10:48.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>PurposeDrivenLife.com</uri>
+    <dated>2003-10-24T01:00:00.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>RayBoltz.com</uri>
+    <dated>2002-05-26T05:26:16.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>Songtime.com</uri>
+    <dated>2002-06-17T21:01:10.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>SteveHageMinistries.org</uri>
+    <dated>2003-12-20T00:00:00.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>StreamingFaith.com</uri>
+    <dated>2005-05-20T22:19:28.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>TDJakes.org</uri>
+    <dated>2003-12-20T00:00:00.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>TheBibleCodes.com</uri>
+    <dated>2003-03-23T13:34:00.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>TheBreakThroughSeries.com</uri>
+    <dated>2003-11-10T00:00:00.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>TNIV.com</uri>
+    <dated>2002-10-10T09:58:27.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>Vanished-TheMovie.com</uri>
+    <dated>2003-11-14T23:00:00.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>VickieWinans.com</uri>
+    <dated>2003-12-11T00:00:00.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>WinansPhase2.com</uri>
+    <dated>2002-10-07T15:03:18.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>WOWHits.com</uri>
+    <dated>2003-12-27T00:00:00.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>YacovRambsel.com</uri>
+    <dated>2002-06-17T20:44:36.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>YFiles.com</uri>
+    <dated>2002-10-09T08:29:19.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>YolandaAdams.org</uri>
+    <dated>2003-12-11T00:00:00.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>ZionFilms.com</uri>
+    <dated>2002-08-22T00:00:00.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>BlueLetterBible.org</uri>
+    <title>Blue Letter Bible</title>
+    <dated>2002-10-02T04:54:00.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>BobbyJonesGospel.com</uri>
+    <title>Bobby Jones</title>
+    <dated>2002-05-26T05:25:09.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>mrmom.amaonline.com/crucifixion.htm</uri>
+    <title>C. Truman Davis, M.D., M.S. "The Crucifixion of Jesus Christ - The Passion of Christ"</title>
+    <dated>2002-06-15T02:11:29.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>azusa2.org</uri>
+    <title>Carlton Pearson - Higher Dimension Family Church</title>
+    <dated>2002-06-07T11:15:59.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>Cfan.org</uri>
+    <title>Christ for all Nations with Reinhard Bonnke</title>
+    <dated>2002-05-23T10:00:51.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>Crosswalk.com</uri>
+    <title>Crosswalk.com: Bible Study Tools</title>
+    <dated>2002-10-02T05:07:33.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>HourOfPower.org</uri>
+    <title>Crystal Cathedral Ministries - Hour of Power with Dr. Robert H. Schuller</title>
+    <dated>2002-06-16T03:22:46.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>CrystalCathedral.org</uri>
+    <title>Crystal Cathedral with Robert H. Schuller</title>
+    <dated>2002-10-10T09:45:32.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>TheBereanCall.org</uri>
+    <title>Dave Hunt</title>
+    <dated>2002-06-15T02:32:34.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>mcalvanyintelligencereport.com</uri>
+    <title>Don McAlvany Intelligence Report</title>
+    <dated>2002-06-17T20:24:28.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>mcalvanyintelligencereport.com/audio/mir20010507.ram</uri>
+    <title>Don McAlvany's Bush: First 100 Days</title>
+    <dated>2002-06-17T20:24:28.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>mcalvanyintelligencereport.com/audio/mir20010409.ram</uri>
+    <title>Don McAlvany's Global Domination Strategies</title>
+    <dated>2002-06-17T20:26:15.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>mcalvanyintelligencereport.com/audio/mir20010514.ram</uri>
+    <title>Don McAlvany's God's Final Warning To America</title>
+    <dated>2002-06-17T20:24:01.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>DonMoen.com</uri>
+    <title>Don Moen</title>
+    <dated>2002-05-26T05:39:52.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>TriCitySingers.com</uri>
+    <title>Donald Lawrence &amp; Tri-City Singers</title>
+    <dated>2003-12-20T00:00:00.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>Donny.com</uri>
+    <title>Donny Osmond</title>
+    <dated>2002-08-22T00:00:00.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>Rehoboth.org</uri>
+    <title>Ed Hindson - Rehoboth Baptist Church</title>
+    <dated>2002-06-15T02:31:24.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>EMIGospel.com</uri>
+    <title>EMIGospel</title>
+    <dated>2002-05-26T05:43:09.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>FathersLoveLetter.com</uri>
+    <title>Father's Love Letter</title>
+    <dated>2003-02-25T09:10:47.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>Gods-Story.org</uri>
+    <title>God's Story Project</title>
+    <dated>2003-02-25T09:10:47.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>IntegrityMusic.com</uri>
+    <title>Integrity Music</title>
+    <dated>2002-05-26T05:56:40.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>jpbalkenende.nl</uri>
+    <title>Jan Peter Balkenende, Professor of Christian Social Thinking, Amsterdam Free University, Netherlands</title>
+    <dated>2002-09-11T10:57:54.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>JanetPaschal.com</uri>
+    <title>Janet Paschal</title>
+    <dated>2002-05-21T00:29:09.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>Jubilee.org</uri>
+    <title>Jubilee Christian Center</title>
+    <dated>2003-12-20T00:00:00.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>JubileeSouthCoast.org</uri>
+    <title>Jubilee SouthCoast with Steve Hage</title>
+    <dated>2003-12-20T00:00:00.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>JudahMusic.org</uri>
+    <title>JudahMusic with Judith Christie McAllister</title>
+    <dated>2002-08-18T23:30:09.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>artists3.iuma.com/IUMA/Bands/Judith_ChristieMcAllister</uri>
+    <title>JudahMusic with Judith Christie McAllister @IUMA</title>
+    <dated>2002-08-18T23:31:24.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>Judgment-themovie.com</uri>
+    <title>Judgment:the Movie</title>
+    <dated>2003-02-25T09:10:48.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>KennedyMen.com</uri>
+    <title>KennedyMen.com with Laurence Leamer</title>
+    <dated>2004-02-28T00:00:00.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>KHouse.org</uri>
+    <title>Koinonia House with Chuck Missler</title>
+    <dated>2002-06-17T20:30:51.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>LastDaysMinistries.org/Keith/Music.html</uri>
+    <title>Last Days Ministries | Keith Green</title>
+    <dated>2002-05-21T00:48:48.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>Love4OneAnother.com</uri>
+    <title>Love for one Another - One Song</title>
+    <dated>2002-05-21T00:49:57.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>ldsmusicworld.com/artists/masa_fukuda.html</uri>
+    <title>Masa Fukuda</title>
+    <dated>2002-10-02T11:31:29.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>McAlvany.com</uri>
+    <title>McAlvany Intelligence Advisor</title>
+    <dated>2002-06-15T08:16:02.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>CornerStoneToledo.com</uri>
+    <title>Michael Pitt</title>
+    <dated>2003-12-20T00:00:00.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>MichaelWSmith.com</uri>
+    <title>Michael W. Smith</title>
+    <dated>2002-06-07T10:30:09.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>Michelle-Williams.com</uri>
+    <title>Michelle Williams</title>
+    <dated>2002-06-07T11:26:11.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>SonyMusic.com/Artists/MichelleWilliams</uri>
+    <title>Michelle Williams @Sony</title>
+    <dated>2002-06-07T21:22:18.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>MichelleWilliamsOnline.com</uri>
+    <title>Michelle Williams Online</title>
+    <dated>2002-06-07T21:22:46.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>CovenantChurch.org</uri>
+    <title>Mike Hayes</title>
+    <dated>2003-09-30T01:00:00.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>NicoleCMullen.com</uri>
+    <title>Nicole C. Mullen</title>
+    <dated>2002-06-07T11:17:50.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>artists.iuma.com/IUMA/Bands/Nicole_C._Mullen</uri>
+    <title>Nicole C. Mullen @IUMA</title>
+    <dated>2002-08-18T23:33:10.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>theomegacode.com</uri>
+    <title>Omega Code</title>
+    <dated>2003-02-25T09:10:48.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>8x.com/megiddo</uri>
+    <title>Omega Code 2: Megiddo</title>
+    <dated>2003-02-25T09:10:47.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>PBS.org/empires</uri>
+    <title>PBS: Empires</title>
+    <dated>2002-08-22T00:00:00.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>PBS.org/wgbh/pages/frontline/shows/religion</uri>
+    <title>PBS: From Jesus to Christ - The First Christians</title>
+    <dated>2002-08-22T00:00:00.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>PBS.org/empires/peterandpaul</uri>
+    <title>PBS: Peter and Paul and the Christian Revolution</title>
+    <dated>2002-08-22T00:00:00.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>gospelcom.net/rzim</uri>
+    <title>Ravi Zacharias</title>
+    <dated>2002-06-17T20:37:59.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>www2.oneplace.com/Ministries/let_my_people_think</uri>
+    <title>Ravi Zacharias -  Let My People Think</title>
+    <dated>2002-06-17T20:39:07.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>www2.oneplace.com/Ministries/A_Slice_of_Infinity</uri>
+    <title>Ravi Zacharias - A Slice of Infinity</title>
+    <dated>2002-06-17T20:40:07.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>gospelcom.net/rzim/ra_program_archive.php</uri>
+    <title>Ravi Zacharias - Browse All Available Broadcasts</title>
+    <dated>2002-06-17T20:42:40.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>lightsource.com/content/wordpublishing/ravizacharias</uri>
+    <title>Ravi Zacharias - Jesus Among Other Gods</title>
+    <dated>2002-06-17T20:40:55.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>gospelcom.net/rzim/ra_program_archive.htm</uri>
+    <title>Ravi Zacharias - RZIM Real Audio Archive</title>
+    <dated>2002-06-17T20:42:04.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>RayComfort.com</uri>
+    <title>Ray Comfort</title>
+    <dated>2002-06-17T20:43:11.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>Reasons.org</uri>
+    <title>Reasons to Believe</title>
+    <dated>2002-06-17T20:50:01.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>RSJames.com</uri>
+    <title>Rebecca St. James</title>
+    <dated>2002-05-21T00:26:00.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>whatsaiththescripture.com/Voice/The.Coming.Prince.html</uri>
+    <title>Sir Robert Anderson "The Coming Prince"</title>
+    <dated>2002-05-23T09:50:44.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>SchoolOfProphecy.com</uri>
+    <title>Tim LaHaye School of Prophecy</title>
+    <dated>2002-06-15T08:12:22.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>Yotonex.com</uri>
+    <title>Tonex</title>
+    <dated>2002-06-07T11:27:02.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>TorahCodes.co.il</uri>
+    <title>Torah Codes with Doron Witztum</title>
+    <dated>2003-03-23T13:34:00.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>TBN.org</uri>
+    <title>Trinity Broadcast Network (TBN)</title>
+    <dated>2003-01-24T12:14:04.0000000-08:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>deseretbook.com/store/product?product_id=100028061&amp;sku=4024757</uri>
+    <title>Women of Destiny: Songs Celebrating the Declaration of the Relief Society</title>
+    <dated>2002-08-24T12:57:33.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>soundwaves2000.com/rammaker.asp?id=129&amp;d=11-26-01</uri>
+    <title>Yacov Rambsel - The Genesis Factor</title>
+    <dated>2002-06-17T20:46:46.0000000-07:00</dated>
+  </URICHRIST>
+  <URICHRIST>
+    <uri>tbn.org/watch/interviews/YacovRambsel011101.html</uri>
+    <title>Yacov Rambsel - Trinity Broadcast Network, Your Destiny, ... Yacov Rambsel Interviewed by Hal Lindsey. "Never use a computer. I do all this by hand.". ...</title>
+    <dated>2002-06-17T20:48:13.0000000-07:00</dated>
+  </URICHRIST>
+</URI>

@@ -1,0 +1,2809 @@
+<?xml version="1.0" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='Comforter_-_URI.xslt'?>
+<URI>
+  <URIWORDENGINEERING>
+    <uri>adsi.mvps.org/adsi/csharp/beavertail.html</uri>
+    <dated>2005-05-14T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>AgileDeveloper.com</uri>
+    <dated>2005-07-29T21:24:46.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>Aramco.com</uri>
+    <dated>2004-01-05T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ASP.net</uri>
+    <keyword>Microsoft, ASP.NET</keyword>
+    <dated>2002-08-14T00:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>azamsharp.net/CreatingDataGridTemplateColumns.htm</uri>
+    <dated>2005-07-22T08:11:30.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>beta.asp.net</uri>
+    <dated>2005-07-18T16:01:10.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>Celko.com</uri>
+    <dated>2005-05-14T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>CEOGO.com</uri>
+    <dated>2004-01-06T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>DominionDigital.com/ASPNetCookbook</uri>
+    <dated>2005-07-29T21:24:47.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>Kernel.org</uri>
+    <dated>2005-07-24T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>lab.msdn.microsoft.com/express</uri>
+    <dated>2005-07-19T23:46:05.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>microsoft.com/technet/community/newsgroups</uri>
+    <dated>2005-04-24T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>MicrosoftELearning.com</uri>
+    <dated>2005-07-19T17:53:06.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>MSMVPs.com</uri>
+    <dated>2005-08-27T19:58:34.2930000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>PInvoke.net</uri>
+    <dated>2005-07-29T21:24:47.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>Regular-Expressions.info</uri>
+    <dated>2005-08-07T16:11:38.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>RyanFarley.com</uri>
+    <dated>2005-07-27T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>TechNetMagSubs.com</uri>
+    <dated>2005-05-02T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>Ujihara.jp/iTextdotNET/en</uri>
+    <dated>2005-08-19T03:13:04.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>YukonXML.com</uri>
+    <dated>2005-05-21T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>dotnetdashboard.com</uri>
+    <title>.NET Dashboard with Michele Leroux Bustamante</title>
+    <keyword>XQuery</keyword>
+    <dated>2003-04-26T22:59:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>dotnetdevelopersjournal.com</uri>
+    <title>.NET Developer's Journal</title>
+    <keyword>XQuery</keyword>
+    <dated>2003-02-03T09:08:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>netda.net</uri>
+    <title>.NET Developers Association</title>
+    <keyword>XQuery</keyword>
+    <dated>2003-04-26T15:26:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>andymcm.com/dotnetfaq.htm</uri>
+    <title>.NET Framework Frequently Asked Questions by Andy McMullan</title>
+    <keyword>Andy, McMullan, .NET, Framework, Frequently, Asked, Questions, FAQ</keyword>
+    <dated>2002-08-01T10:03:16.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msjogren.net/dotnet/eng/default.asp</uri>
+    <title>.netPlus</title>
+    <keyword>.netExperts</keyword>
+    <dated>2003-03-03T17:29:57.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>daveandal.com</uri>
+    <title>A Tale of Two Authors with Dave Sussman &amp; Alex Homer</title>
+    <dated>2003-03-31T09:49:29.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>skonnard.com</uri>
+    <title>Aaron Skonnard</title>
+    <keyword>Aaron Skonnard, Xml</keyword>
+    <dated>2002-09-25T16:26:31.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/msdnmag/issues/03/02/XMLFiles</uri>
+    <title>Aaron Skonnard: XML Files XPath Selections and Custom Functions</title>
+    <dated>2003-04-09T08:14:37.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>Technewsgroups.net/group/microsoft.public.dotnet.general/topic137.aspx</uri>
+    <title>Access Database Table Create</title>
+    <dated>2005-05-24T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>AccessMicroSystems.com</uri>
+    <title>AccessMicroSystems.com with Douglas Reilly</title>
+    <dated>2004-01-24T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>aw.com</uri>
+    <title>Addison-Wesley &amp; Benjamin Cummings</title>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>awprofessional.com/msdotnetseries</uri>
+    <title>Addison-Wesley &amp; Benjamin Cummings: Microsoft .NET Development Series</title>
+    <dated>2003-11-04T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>partners.adobe.com/asn/developer/acrosdk/forms.html</uri>
+    <title>Adobe: Acrobat FDF Toolkit - Version 5</title>
+    <keyword>Adobe, Acrobat, FDF, Document, Toolkit, PDF, C#</keyword>
+    <dated>2002-08-14T00:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>partners.adobe.com/asn/developer/acrosdk/fdftk/fdftkv5win.zip</uri>
+    <title>Adobe: Acrobat FDF Toolkit Version 5 (Software)</title>
+    <keyword>Software, Adobe, Acrobat, FDF, Toolkit, PDF, C#, SDK</keyword>
+    <dated>2002-08-14T00:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>partners.adobe.com/asn/developer/acrosdk/docs/fdftk/FDFtkRef.pdf</uri>
+    <title>Adobe: FDF Toolkit Overview and Reference</title>
+    <keyword>Adobe, Acrobat, FDF, Document, Toolkit, PDF, C#</keyword>
+    <dated>2002-08-14T00:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>adobe.com/products/adobemag/archive/0001mg1.html</uri>
+    <title>Adobe: January/February 2000 More Scripts to Support Your PDF Web Forms</title>
+    <keyword>pdf</keyword>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>adobe.com/svg</uri>
+    <title>Adobe: Scalable Vector Graphics (SVG) 3.0 viewer plug-in</title>
+    <keyword>Adobe, Scalable, Vector, Graphics, SVG, Viewer, Plug-In, Software</keyword>
+    <dated>2002-08-06T07:54:15.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>download.adobe.com/pub/adobe/magic/svgviewer/win/3.x/3.0/en/SVGView.exe</uri>
+    <title>Adobe: Scalable Vector Graphics (SVG) 3.0 Viewer Plug-in (Software)</title>
+    <keyword>Adobe, Scalable, Vector, Graphics, SVG, Viewer, Plug-In, Software</keyword>
+    <dated>2002-08-08T11:29:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>adobe.com/products/adobemag/archive/pdfs/0001htmg.pdf</uri>
+    <title>Adobe: The Form Revolution, Part II</title>
+    <keyword>pdf</keyword>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>download.adobe.com/pub/adobe/acrobat/win/3.x/pizzaasp.exe</uri>
+    <title>Adobe: The Form Revolution, Part II (Software)</title>
+    <keyword>pdf</keyword>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ADOGuy.com</uri>
+    <title>ADOGuy.com with Shawn Wildermuth</title>
+    <keyword>pdf</keyword>
+    <dated>2003-11-18T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>managedtime.com/freesqlbook.php3</uri>
+    <title>Akeel I. Din: Structured Query Language (SQL) A Practical Introduction</title>
+    <keyword>Akeel I. Din, SQL, Book</keyword>
+    <dated>2002-08-31T11:32:18.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>babelfish.altavista.com</uri>
+    <title>Altavista: Babel Fish Translation</title>
+    <dated>2003-08-14T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dnbda/html/monitordotnet.asp</uri>
+    <title>Amitabh Srivastava and Edward Jezierski: Monitoring in .NET Distributed Application Design</title>
+    <dated>2002-08-01T10:28:38.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>analog.cx</uri>
+    <title>analog.cx</title>
+    <keyword>logfile analysis</keyword>
+    <dated>2003-04-30T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ecma-international.org/activities/Languages/Introduction%20to%20Csharp.pdf</uri>
+    <title>Anders Hejlsberg: Introduction to C#</title>
+    <dated>2003-03-12T16:39:17.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>andymcm.com/csharpfaq.htm</uri>
+    <title>Andy McMullan: C# Frequently Asked Questions for C++ programmers</title>
+    <keyword>Andy, McMullan, C#, Framework, Frequently, Asked, Questions, FAQ</keyword>
+    <dated>2002-08-01T10:14:16.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>antenna.co.jp/XML/downfree/howtoRC/Howtodevelop-en.pdf</uri>
+    <title>Antenna House: How to Develop Stylesheets for XML to XSL-FO Transformation</title>
+    <dated>2003-03-04T20:22:34.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>apache.org</uri>
+    <title>Apache</title>
+    <dated>2003-04-14T09:02:50.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>xml.apache.org/fop/index.html</uri>
+    <title>Apache Software Foundation: FOP</title>
+    <dated>2003-02-18T08:02:50.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>xml.apache.org/fop/running.html</uri>
+    <title>Apache Software Foundation: FOP Running</title>
+    <dated>2003-02-18T08:02:50.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>xml.apache.org/xalan-c</uri>
+    <title>Apache Software Foundation: XALAN-C++</title>
+    <dated>2003-02-18T22:45:49.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>xml.apache.org/dist/fop/fop-0.20.5rc2-src.tar.gz</uri>
+    <title>Apache: FOP fop-0.20.5rc2-src.tar.gz</title>
+    <dated>2003-03-15T18:09:48.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>xml.apache.org/xalan-c/getstarted.html</uri>
+    <title>Apache: Getting Started with Xalan-C++</title>
+    <dated>2003-03-15T18:09:48.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>apache.org/dist/httpd/binaries/win32</uri>
+    <title>Apache: Win32 Download</title>
+    <dated>2003-04-14T09:02:50.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>xml.apache.org/dist/xalan-c/Xalan-C_1_4-win32.zip</uri>
+    <title>Apache: Xalan-C 1.4</title>
+    <dated>2003-03-15T18:09:48.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>xml.apache.org/xalan-c/commandline.html</uri>
+    <title>Apache: Xalan-C++ Command-Line Utility</title>
+    <dated>2003-03-15T18:09:48.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>xml.apache.org/dist/xerces-c/stable/archives/Xerces-C_2_1_0/xerces-c2_1_0-win32.zip</uri>
+    <title>Apache: Xerces-C++ 2.1 32 bit Binary for Windows</title>
+    <dated>2003-03-15T18:09:48.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>xml.apache.org/dist/xerces-c/stable/xerces-c2_2_0-win32.zip</uri>
+    <title>Apache: Xerces-C++ 2.2 32 bit Binary for Windows</title>
+    <dated>2003-03-15T18:09:48.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>Apress.com/free</uri>
+    <title>Apress: Free eBooks</title>
+    <dated>2005-08-27T19:58:34.3230000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>Wiley.com/CompBooks/10SimpleStepsOrLess</uri>
+    <title>Arman Danesh: JavaScript in 10 Simple Steps or Less ISBN 0-7645-4241-9</title>
+    <dated>2005-04-18T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>asahi.com</uri>
+    <title>Asahi.com</title>
+    <keyword>Web Services, Architect</keyword>
+    <dated>2004-02-26T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>asianjournal.com</uri>
+    <title>Asian Journal</title>
+    <keyword>ASCII</keyword>
+    <dated>2003-02-22T12:41:02.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>FlyAsiana.com</uri>
+    <title>Asiana Airlines</title>
+    <dated>2003-12-09T23:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>aspenterprisemanager.com</uri>
+    <title>ASP Enterprise Manager</title>
+    <dated>2003-03-31T09:58:34.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>asptoday.com</uri>
+    <title>ASP Today</title>
+    <dated>2003-01-20T11:12:05.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>DaveAndAl.net/books/6744</uri>
+    <title>ASP.NET 1.1 Insider Solutions ISBN 0-672-32674-4</title>
+    <dated>2005-01-16T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ASPAlliance.com/Cookbook</uri>
+    <title>ASPAlliance: Cookbook</title>
+    <dated>2003-11-18T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>aspelite.com</uri>
+    <title>AspElite.com</title>
+    <keyword>SQL Server</keyword>
+    <dated>2003-04-25T13:34:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>aspfree.com</uri>
+    <title>ASPFree</title>
+    <keyword>SQL Server</keyword>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>aspWorkshops.com</uri>
+    <title>ASPWorkshops.com with Stephen Walther</title>
+    <dated>2003-09-23T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>uk.research.att.com/vnc</uri>
+    <title>AT&amp;T Laboratories Cambridge: VNC</title>
+    <dated>2003-02-24T08:35:42.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dnsql90/html/sqlclrguidance.asp</uri>
+    <title>Balaji Rathakrishnan, Christian Kleinerman, Brad Richards, Ramachandran Venkatesh, Vineet Rao: Using CLR Integration in SQL Server 2005</title>
+    <dated>2005-04-25T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/SQL/default.aspx?pull=/library/en-us/dnsql90/html/sqlclrguidance.asp</uri>
+    <title>Balaji Rathakrishnan, Christian Kleinerman, Brad Richards, Ramachandran Venkatesh, Vineet Rao: Using CLR Integration in SQL Server 2005</title>
+    <dated>2005-05-21T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>bartdesmet.net</uri>
+    <title>Bart De Smet</title>
+    <keyword>C#, Web, Form, Services, Web Services</keyword>
+    <dated>2003-10-31T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>xml.apache.org/batik/svgrasterizer.html</uri>
+    <title>Batik: SVG Rasterizer</title>
+    <dated>2003-07-29T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>cs.umd.edu/~bederson/classes/cmsc498b/lecture-notes/csharp.pdf</uri>
+    <title>Bederson: C# for Programmers</title>
+    <keyword>Bederson, C#, Programmers</keyword>
+    <dated>2002-09-12T08:25:30.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>BestGlobalWebSiteAward.com</uri>
+    <title>BestGlobalWebSiteAward.com</title>
+    <dated>2003-11-24T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>betav.com</uri>
+    <title>Beta V</title>
+    <dated>2003-04-03T20:33:48.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>bf.org/etexts/bstudy/cbe_olb.zip</uri>
+    <title>Bible Foundation: Ashley S. Johnson's Condensed Biblical Cyclopedia</title>
+    <keyword>Bible Foundation, Dictionary</keyword>
+    <dated>2002-08-04T01:53:43.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>bf.org/bfetexts.htm</uri>
+    <title>Bible Foundation: e-Text Library</title>
+    <keyword>Bible Foundation, Dictionary</keyword>
+    <dated>2002-08-04T01:54:10.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>bf.org/etexts/bstudy/easton.zip</uri>
+    <title>Bible Foundation: Easton's 1897 Bible Dictionary</title>
+    <keyword>Bible Foundation, Dictionary, Easton</keyword>
+    <dated>2002-08-04T01:53:57.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>bf.org/etexts/bstudy/str4olbd.zip</uri>
+    <title>Bible Foundation: James Strong's Exhaustive Concordance Dictionaries of Hebrew and Greek Words</title>
+    <keyword>Bible Foundation, Dictionary, James, Strong, Concordance, Hebrew, Greek</keyword>
+    <dated>2002-08-04T01:55:18.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>bf.org/etexts/bstudy/mhc.zip</uri>
+    <title>Bible Foundation: Matthew Henry's Concise Commentary on the Whole Bible</title>
+    <keyword>Bible Foundation, Dictionary, Matthew, Henry</keyword>
+    <dated>2002-08-04T01:54:25.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>bf.org/etexts/bstudy/naves.zip</uri>
+    <title>Bible Foundation: Nave's Topical Bible.</title>
+    <keyword>Bible Foundation, Dictionary, Nave</keyword>
+    <dated>2002-08-04T01:54:46.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>bf.org/etexts/bstudy/torrey.zip</uri>
+    <title>Bible Foundation: The New Topical Textbook</title>
+    <keyword>Bible Foundation, Dictionary</keyword>
+    <dated>2002-08-04T01:55:34.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>bibledatabase.com/free_bible_software.htm</uri>
+    <title>BibleDatabase.org</title>
+    <keyword>BibleDatabase</keyword>
+    <dated>2002-08-04T01:55:52.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>hole-in-one-golftours.com/bibledatabase/b_names.exe</uri>
+    <title>BibleDatabase.org: Biblical Names (meaning of)</title>
+    <keyword>Bible, Database, Dictionary, Name, Meaning</keyword>
+    <dated>2002-08-23T12:23:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>murtonsys.com/bibledatabase/b_eastons.exe</uri>
+    <title>BibleDatabase.org: Easton's Bible Dictionary</title>
+    <keyword>Bible, Database, Dictionary, Easton</keyword>
+    <dated>2002-08-23T12:24:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>bibledatabase.net/exec/b_wesley.exe</uri>
+    <title>BibleDatabase.org: John Wesley's Bible Notes</title>
+    <keyword>Bible, Database, Dictionary, John Wesley, Note</keyword>
+    <dated>2002-08-23T12:25:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>walnutchristian.org/bibledatabase/b_maps1.exe</uri>
+    <title>BibleDatabase.org: Map Pack #1 Maps and Archaeological findings of Biblical interest (40 maps in map Pack 1-3)</title>
+    <keyword>Bible, Database, Dictionary, John Wesley, Note</keyword>
+    <dated>2003-02-18T08:02:50.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>hole-in-one-golftours.com/bibledatabase/b_maps2.exe</uri>
+    <title>BibleDatabase.org: Map Pack #2 Maps and Archaeological findings of Biblical interest (40 maps in map Pack 1-3)</title>
+    <keyword>Bible, Database, Dictionary, John Wesley, Note</keyword>
+    <dated>2003-02-18T08:02:49.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>noothergods.com/bibledatabase/b_maps3.exe</uri>
+    <title>BibleDatabase.org: Map Pack #3 Maps and Archaeological findings of Biblical interest (40 maps in map Pack 1-3)</title>
+    <keyword>Bible, Database, Dictionary, John Wesley, Note</keyword>
+    <dated>2003-02-18T08:02:50.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>bibledatabase.net/exec/b_mh.exe</uri>
+    <title>BibleDatabase.org: Matthew Henry Commentary (MHC)</title>
+    <keyword>Bible, Database, Dictionary, Matthew Henry, Commentary</keyword>
+    <dated>2002-08-24T12:28:32.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>fishthenet.org/bibledatabase/b_pnt.exe</uri>
+    <title>BibleDatabase.org: Peoples New Testament (PNT) Commentary</title>
+    <keyword>Bible, Database, Dictionary, Peoples New Testament, Commentary</keyword>
+    <dated>2002-08-24T12:29:53.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>wiley.com/compbooks/evjen</uri>
+    <title>Bill Evjen: ASP.NET Professional Secrets</title>
+    <dated>2003-11-04T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dnaspp/html/aspnet-usingjavascript.asp</uri>
+    <title>Bill Evjen: Using JavaScript Along with ASP.NET</title>
+    <dated>2005-04-19T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>oreilly.com/catalog/adonetian/chapter/ch12.pdf</uri>
+    <title>Bill Hamilton, Matthew MacDonald: ADO.NET in a Nutshell ISBN 0-596-00361-7 Chapter 12: DataViews and Data Binding</title>
+    <dated>2003-05-21T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>DevX.com/assets/download/13685.pdf</uri>
+    <title>Brad Abrams and Tamara Abrams: .NET Framework Standard Library Annotated Reference, Volume 2 Addison Wesley ISBN 0321194454 System.Xml.XmlReader</title>
+    <dated>2005-09-05T01:09:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>brazilnetwork.org</uri>
+    <title>Brazil Network</title>
+    <dated>2003-09-03T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>cwashington.netreach.net/depo/view.asp?Index=9&amp;ScriptType=command</uri>
+    <title>Brett Middleton: Direct Output To Another File</title>
+    <dated>2003-01-24T12:22:50.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>cwashington.netreach.net/depo/view.asp?Index=20&amp;ScriptType=command</uri>
+    <title>Brett Middleton: Set Environment Variables With Date 2</title>
+    <dated>2003-01-24T12:22:50.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>cwashington.netreach.net/depo/view.asp?Index=19&amp;ScriptType=command</uri>
+    <title>Brett Middleton: Set Environment Variables With Date1</title>
+    <dated>2003-01-24T12:22:50.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>cwashington.netreach.net/depo/view.asp?Index=21&amp;ScriptType=command</uri>
+    <title>Brett Middleton: Set Or Clear A Group Of Environment Variables</title>
+    <dated>2003-01-24T12:22:50.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>crystalreportsbook.com</uri>
+    <title>Brian Bischof: Crystal Reports for .NET</title>
+    <dated>2003-04-26T15:26:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>osborne.com/products/0072192887/0072192887_ch01.pdf</uri>
+    <title>Buczek: ASP.NET Developer's Guide - ASP.NET Language Structure</title>
+    <dated>2003-01-30T08:59:16.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>osborne.com/products/0072192917/0072192917_ch01.pdf</uri>
+    <title>Buczek: Instant ASP.NET - Introduction to ASP.NET</title>
+    <dated>2003-01-30T09:00:40.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/msdnmag</uri>
+    <title>Bug Tracker - Build a Configurable Web-Based Bug Management Tool Using ADO.NET, XML, and XSLT; by Roy Margolis; published by MSDN Magazine July 2002 Volume 17 No 7</title>
+    <keyword>Microsoft, SDK, Source Code</keyword>
+    <dated>2002-07-11T08:38:25.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>csharptoday.com</uri>
+    <title>C# Today</title>
+    <keyword>Business, Process, Management</keyword>
+    <dated>2003-01-20T11:11:50.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>aspalliance.com/chapters/1861004397/chap06.pdf</uri>
+    <title>C# Web Services: Building Web Services with .NET Remoting and ASP.NET</title>
+    <keyword>C#, Web Services, .NET, Remoting, ASP.NET</keyword>
+    <dated>2002-09-19T21:01:21.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ccel.org/bible_names/bible_names.html</uri>
+    <title>CCEL.org: Hitchcock's Bible Names Dictionary (HTML)</title>
+    <keyword>CCEL, Dictionary, Hitchcock</keyword>
+    <dated>2002-08-04T01:56:24.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ccel.org/bible_names/bible_names.txt</uri>
+    <title>CCEL.org: Hitchcock's Bible Names Dictionary (text)</title>
+    <keyword>CCEL, Dictionary, Hitchcock</keyword>
+    <dated>2002-08-04T01:56:42.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>cetus-links.org/oo_csharp.html</uri>
+    <title>Cetus: C#</title>
+    <keyword>Cetus, C#, URI, Link</keyword>
+    <dated>2002-08-16T04:06:35.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>charlespetzold.com</uri>
+    <title>Charles Petzold</title>
+    <dated>2003-09-23T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>wd-mag.com</uri>
+    <title>CMP Media: Windows Developer Magazine</title>
+    <keyword>Magazine, Windows</keyword>
+    <dated>2002-08-16T04:08:40.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>devx.com/codemag</uri>
+    <title>CoDE Magazine</title>
+    <keyword>Magazine, C#</keyword>
+    <dated>2002-08-16T04:08:11.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>codeproject.com</uri>
+    <title>CodeProject.com</title>
+    <keyword>Magazine, C#</keyword>
+    <dated>2003-02-11T12:07:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ftp://mirror.cs.wisc.edu/pub/mirrors/ghost/AFPL/gs800/gs800w32.exe</uri>
+    <title>Computer Sciences Department at the University of Wisconsin-Madison: AFPL Ghostscript 8.00 for Win32</title>
+    <dated>2003-02-24T15:32:41.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ftp://mirror.cs.wisc.edu/pub/mirrors/ghost/ghostgum/beta/gsv431w32.exe</uri>
+    <title>Computer Sciences Department at the University of Wisconsin-Madison: GSview, a graphical interface to Ghostscript</title>
+    <dated>2003-02-24T15:32:41.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>offers.compuware.com</uri>
+    <title>Compuware: DevPartner Profiler Community Edition 3019X20</title>
+    <keyword>Compuware, Profiler</keyword>
+    <dated>2002-09-09T05:17:20.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>connectionstrings.com</uri>
+    <title>ConnectionStrings.com</title>
+    <dated>2003-11-22T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>notes.corewebprogramming.com/student/XSLT.pdf</uri>
+    <title>Core Web Programming: XSLT</title>
+    <dated>2003-03-19T18:38:34.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>sscli.net</uri>
+    <title>Cornell University: Shared Source Common Language Infrastructure (SSCLI)</title>
+    <dated>2003-04-15T17:27:17.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>praven3.com/credit</uri>
+    <title>CREdit</title>
+    <dated>2003-04-30T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>csharpfriends.com</uri>
+    <title>CSharpFriends.com</title>
+    <dated>2003-03-23T12:47:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>csharplint.com</uri>
+    <title>csharplint.com</title>
+    <keyword>C#</keyword>
+    <dated>2002-08-08T11:37:58.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>csharpsweden.com</uri>
+    <title>csharpsweden.com</title>
+    <keyword>C#</keyword>
+    <dated>2003-01-23T14:43:04.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>cshrp.net</uri>
+    <title>cshrp.net</title>
+    <keyword>C#</keyword>
+    <dated>2003-01-23T14:43:34.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>oreillynet.com/pub/a/dotnet/2002/04/22/asptips.html</uri>
+    <title>Dan Hurwitz: Top Ten Tips for Programming ASP.NET</title>
+    <keyword>ASP.NET, Tips, Dan Hurwitz</keyword>
+    <dated>2002-09-19T21:02:05.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>developer.netscape.com/docs/books/idg/jsbible/jsbible.html</uri>
+    <title>Danny Goodman: Excerpts from the JavaScriptTM Bible (3rd Edition)</title>
+    <keyword>JavaScript</keyword>
+    <dated>2003-03-20T20:23:12.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>louisville.edu/~djchan01/cecs640/ASP2.pdf</uri>
+    <title>Dar-jen Chang: ASP.NET Server Controls</title>
+    <keyword>JavaScript</keyword>
+    <dated>2003-01-30T09:02:36.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>louisville.edu/~djchan01/cecs640</uri>
+    <title>Dar-jen Chang: CECS640</title>
+    <keyword>JavaScript</keyword>
+    <dated>2003-01-30T09:01:07.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>louisville.edu/~djchan01/cecs640/ASP1.pdf</uri>
+    <title>Dar-jen Chang: Web Database Interface and Active Server Pages (ASP)</title>
+    <keyword>JavaScript</keyword>
+    <dated>2003-01-30T09:02:02.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>perfectxml.com/Articles/xml/importxmlsql.asp</uri>
+    <title>Darshan Singh: Importing XML into SQL Server 2000</title>
+    <keyword>Xml, SQL Server 2000, Import</keyword>
+    <dated>2002-07-13T12:11:51.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>databasejournal.com</uri>
+    <title>Database Journal</title>
+    <keyword>Microsoft, Data, Access, C#</keyword>
+    <dated>2003-02-11T12:07:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>mkp.com/dbtune</uri>
+    <title>Database Tuning: Principles, Experiments, and Troubleshooting Techniques - Smooth Talking your Databases by Dennis E. Shasha, Philippe Bonnet</title>
+    <keyword>Database, Performance, Tuning</keyword>
+    <dated>2002-07-11T08:46:43.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>daveandal.com/profaspnet</uri>
+    <title>Dave Sussman &amp; Alex Homer: Professional ASP.NET (ISBN: 1-861007-03-5)</title>
+    <dated>2003-03-31T09:36:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/?url=/library/en-us/dndotnet/html/progthrepool.asp?frame=true</uri>
+    <title>David Carmona: Programming the Thread Pool in the .NET Framework</title>
+    <keyword>Microsoft, MSDN, .NET, Thread, Pool, David, Carmona</keyword>
+    <dated>2002-08-01T10:49:55.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>dbasupport.com</uri>
+    <title>DBASupport.com</title>
+    <keyword>Database, Oracle, Certification, Exam, Examination, Study Guide, Practice, Learn</keyword>
+    <dated>2002-08-08T10:23:47.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>yafla.com</uri>
+    <title>Dennis Forbes</title>
+    <dated>2003-07-29T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>yafla.com/papers/SVG/index.htm</uri>
+    <title>Dennis Forbes: .NET SVGs</title>
+    <dated>2003-07-29T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/msdnmag/issues/03/07/ScalableVectorGraphics/default.aspx</uri>
+    <title>Dennis Forbes: Build Flexible, Lightweight XML-Based Images for ASP.NET Using Scalable Vector Graphics</title>
+    <dated>2003-07-29T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>yafla.com/papers/sqlhierarchies/sqlhierarchies.htm</uri>
+    <title>Dennis Forbes: High Performance Hierarchies</title>
+    <dated>2003-07-29T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>dmtf.org</uri>
+    <title>Desktop Management Task Force (DMTF)</title>
+    <dated>2003-04-08T15:23:08.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>develop.com/conferences/conferencedotnet/materials/W9.pdf</uri>
+    <title>Develop.com: ASP.NET Debugging</title>
+    <keyword>Develop.com, ASP.NET, Debugging</keyword>
+    <dated>2002-10-03T00:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>develop.com/conferences/conferencedotnet/materials/A1.pdf</uri>
+    <title>Develop.com: Introduction to ASP.NET</title>
+    <keyword>Develop.com, Fritz Onion</keyword>
+    <dated>2003-01-30T09:03:02.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>develop.com</uri>
+    <title>DevelopMentor</title>
+    <keyword>Developer, Education, Training, Resource, C#, .NET</keyword>
+    <dated>2002-08-26T18:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>develop.com/devresources/bookdownload.aspx</uri>
+    <title>DevelopMentor Series Books</title>
+    <keyword>DevelopMentor, e-Book</keyword>
+    <dated>2002-09-25T16:26:31.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>dotnet.jku.at</uri>
+    <title>Die .NET-Technologie</title>
+    <keyword>Cascading Style Sheet, (CSS)</keyword>
+    <dated>2003-03-03T17:29:57.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>vbxml.com/xsl/articles/recurse</uri>
+    <title>Dimitre Novatchev and Slawomir Tyszko: Compare Batching with Divide and Conquer</title>
+    <dated>2003-02-24T09:44:02.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/msdnmag/issues/01/10/cutting/print.asp</uri>
+    <title>Dino Esposito: Build a Variety of Custom Controls Based on the DataGrid Control</title>
+    <dated>2003-03-27T20:25:24.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>Microsoft.com/learning/books/products/6962</uri>
+    <title>Dino Esposito: Introducing Microsoft ASP.NET 2.0 ISBN 0-7356-2024-5</title>
+    <dated>2005-01-17T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/msdnmag/issues/04/08/GridView/default.aspx</uri>
+    <title>Dino Esposito: Move Over DataGrid, There's a New Grid in Town!</title>
+    <dated>2005-03-15T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>kirsanov.com</uri>
+    <title>Dmitry Kirsanov</title>
+    <keyword>XSLT</keyword>
+    <dated>2003-02-03T09:14:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>docbook.org</uri>
+    <title>DocBook</title>
+    <dated>2003-02-17T07:29:12.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/msdnmag/issues/0800/xslt/default.aspx</uri>
+    <title>Don Box, Aaron Skonnard, John Lam: XSL Transformations: XSLT Alleviates XML Schema Incompatibility Headaches</title>
+    <keyword>XML, C#</keyword>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>develop.com/conferences/conferencedotnet/materials/M2.pdf</uri>
+    <title>Don Box: The C# Type System</title>
+    <keyword>XML, C#</keyword>
+    <dated>2002-10-03T00:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>dotgnu.org</uri>
+    <title>DotGNU</title>
+    <keyword>SQL Server</keyword>
+    <dated>2003-03-03T08:20:24.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ProgrammingASP.NET</uri>
+    <title>Douglas Reilly: Designing Microsoft ASP.NET Applications</title>
+    <dated>2003-12-17T18:16:27.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ddj.com</uri>
+    <title>Dr. Dobb's Journal</title>
+    <keyword>Dobb, Journal, Magazine</keyword>
+    <dated>2002-08-29T11:42:37.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>heraldmag.org/olb/bsl/Library/Referenc/Cook/symbols.pdf</uri>
+    <title>Dr. Lyle Cook: Bible Students' Topical Textbook courtesy Herald Magazine</title>
+    <keyword>Bible, Dictionary, Bible, Student, Topical, Herald, Magazine</keyword>
+    <dated>2002-08-05T18:48:07.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dnbda/html/bdadotnetasync1.asp</uri>
+    <title>Duncan Mackenzie: Accessing Message Queues Building Distributed Applications with .NET</title>
+    <dated>2005-05-04T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dnbda/html/bdadotnetasync2.asp</uri>
+    <title>Duncan Mackenzie: Reliable Messaging with MSMQ and .NET Building Distributed Applications with .NET</title>
+    <dated>2005-05-04T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>heraldmag.org/olb/bsl/Library/Referenc/EASTONS/EASTON.pdf</uri>
+    <title>Easton's Bible Dictionary courtesy Herald Magazine</title>
+    <keyword>Bible, Dictionary, Easton, Herald, Magazine</keyword>
+    <dated>2002-08-05T18:49:32.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>eclipse.org</uri>
+    <title>Eclipse.org</title>
+    <keyword>Eclipse, Editor, Integrated Development Environment, IDE, Open Source</keyword>
+    <dated>2002-09-14T12:30:42.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>gnu.org.pe/resmseng.html</uri>
+    <title>Edgar David Villanueva Numez (Peruvian Congressman)</title>
+    <keyword>SQL Server</keyword>
+    <dated>2003-02-03T09:18:28.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>elmensajero.com</uri>
+    <title>El Mensajero</title>
+    <keyword>Bay Area, Magazine, Bilingual, English, Spanish</keyword>
+    <dated>2002-08-27T00:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>elharo.com</uri>
+    <title>Elliotte Rusty Harold</title>
+    <dated>2003-04-10T19:46:33.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ibiblio.org/xml/books/bible/updates/14.html</uri>
+    <title>Elliotte Rusty Harold: The XML Bible Chapter 14 XSL Transformations</title>
+    <dated>2003-04-10T19:46:33.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ibiblio.org/xml/books/bible/updates/16.html</uri>
+    <title>Elliotte Rusty Harold: The XML Bible Chapter 16 XLinks</title>
+    <dated>2003-04-10T19:46:33.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ibiblio.org/xml/books/bible/updates/17.html</uri>
+    <title>Elliotte Rusty Harold: The XML Bible Chapter 17: XPointers</title>
+    <dated>2003-04-10T19:46:33.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ibiblio.org/xml/books/bible2/chapters/ch18.html</uri>
+    <title>Elliotte Rusty Harold: XML Bible Second Edition XSL Formatting Objects</title>
+    <dated>2003-02-18T08:02:50.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dndotnet/html/dotnetperftechs.asp</uri>
+    <title>Emmanuel Schanzer: Performance Considerations for Run-Time Technologies in the .NET Framework</title>
+    <keyword>Replication</keyword>
+    <dated>2002-10-02T04:30:41.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/en-us/dndotnet/html/dotnetperftips.asp</uri>
+    <title>Emmanuel Schanzer: Performance Tips and Tricks in .NET Applications</title>
+    <keyword>Emmanuel Schanzer, Performance Tips and Tricks, .NET Applications</keyword>
+    <dated>2002-10-02T04:31:24.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>emotionalbranding.com</uri>
+    <title>EmotionalBranding.com with Marc Gobe</title>
+    <dated>2003-10-17T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dnsql2k/html/sql_BusIntBPwithDTS.asp</uri>
+    <title>Encore Development: Using DTS for Business Intelligence Solutions Best Practices</title>
+    <keyword>Encore Development, DTS, Business Intelligence</keyword>
+    <dated>2002-10-02T18:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dncscol/html/csharp09192002.asp</uri>
+    <title>Eric Gunnerson: Using Win32 and Other Libraries</title>
+    <keyword>C#, Win32</keyword>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>EY.com</uri>
+    <title>Ernst &amp; Young</title>
+    <dated>2005-01-16T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ecma.ch</uri>
+    <title>European Computer Manufacturers Association (ECMA)</title>
+    <dated>2003-03-12T16:39:16.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ecma-international.org</uri>
+    <title>European Computer Manufacturers Association (ECMA) International</title>
+    <dated>2003-03-12T16:39:16.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ecma-international.org/publications/files/ecma-st/Ecma-262.pdf</uri>
+    <title>European Computer Manufacturers Association (ECMA) International: Standard ECMA-262 ECMAScript Language Specification</title>
+    <keyword>JavaScript</keyword>
+    <dated>2003-03-12T16:39:17.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ecma-international.org/publications/files/ecma-st/Ecma-290.pdf</uri>
+    <title>European Computer Manufacturers Association (ECMA) International: Standard ECMA-290 ECMAScript Components Specification</title>
+    <keyword>JavaScript</keyword>
+    <dated>2003-03-12T16:39:17.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ecma-international.org/publications/files/ecma-st/Ecma-334.pdf</uri>
+    <title>European Computer Manufacturers Association (ECMA) International: Standard ECMA-334 C# Language Specification</title>
+    <dated>2003-03-12T16:39:17.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ecma-international.org/publications/files/ecma-st/Ecma-335.pdf</uri>
+    <title>European Computer Manufacturers Association (ECMA) International: Standard ECMA-335 Common Language Infrastructure (CLI)</title>
+    <dated>2003-03-12T16:39:17.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>microsoft.com/downloads/release.asp?releaseid=38128</uri>
+    <title>Exception Management Application Block</title>
+    <keyword>Microsoft, SDK, Exception, Management</keyword>
+    <dated>2002-07-11T09:21:27.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>microsoft.com/downloads/release.asp?releaseid=31722</uri>
+    <title>Experience Visual Studio .NET Hands-On Lab</title>
+    <keyword>Microsoft, SDK, Visual Studio .NET</keyword>
+    <dated>2002-07-11T09:22:29.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>exslt.org</uri>
+    <title>EXSLT.org</title>
+    <dated>2003-02-24T09:44:02.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>faqs.org</uri>
+    <title>Faqs.org</title>
+    <keyword>Faqs.org</keyword>
+    <dated>2002-09-25T10:13:59.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>faqs.org/rfcs/rfc2822.html</uri>
+    <title>Faqs.org: RFC 2822 e-mail Address Format</title>
+    <keyword>Faqs.org, RFC 2822, e-mail Address Format</keyword>
+    <dated>2002-09-25T10:15:27.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>fawcette.com/dotnetmag</uri>
+    <title>Fawcette Technical Publications: .NET Magazine</title>
+    <keyword>Magazine, .NET</keyword>
+    <dated>2002-08-16T04:10:24.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>fawcette.com/vsm</uri>
+    <title>Fawcette Technical Publications: Visual Studio Magazine</title>
+    <keyword>Magazine, Visual Studio</keyword>
+    <dated>2002-08-16T04:09:57.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>c-sharpcorner.com/Code/2005/April/NetComSqlJob.asp</uri>
+    <title>Frank Gutierrez: How to call a .NET assembly from a SQL Server scheduled Job?</title>
+    <dated>2005-05-16T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>develop.com/conferences/conferencedotnet/materials/A9.pdf</uri>
+    <title>Fritz Onion: Caching and State Management in ASP.NET</title>
+    <keyword>Develop.com, Fritz Onion, Cache and State Management, ASP.NET</keyword>
+    <dated>2002-10-03T00:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>pluralsight.com/books/essentialasp.net</uri>
+    <title>Fritz Onion: Essential ASP.NET</title>
+    <dated>2003-04-14T09:32:22.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>city.fukuoka.jp</uri>
+    <title>Fukuoka International Association: Fukuoka City</title>
+    <dated>2003-12-03T23:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>living-in-fukuoka.info</uri>
+    <title>Fukuoka International Association: Living in Fukuoka</title>
+    <dated>2003-12-03T23:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>oakland-fukuoka.org</uri>
+    <title>Fukuoka International Association: Rainbow Magazine</title>
+    <dated>2003-08-31T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>aspalliance.com/graymad/BrowseCapUC.aspx</uri>
+    <title>G. Andrew Duthie: Dynamic Style Sheets with Request.Browser and User Controls</title>
+    <keyword>VB.NET, C#, ASP.NET, XML</keyword>
+    <dated>2003-03-31T17:30:57.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>c-sharpcorner.com/Code/2002/Jan/CreateExcelSheetGAG.asp</uri>
+    <title>G. Arun Ganesh: Creating an Excel Spreadsheet Programmatically</title>
+    <dated>2003-03-31T17:30:57.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>c-sharpcorner.com/Code/2002/Jan/CreateExcelSheetCode.zip</uri>
+    <title>G. Arun Ganesh: Creating an Excel Spreadsheet Programmatically (Code)</title>
+    <dated>2003-03-31T17:30:57.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>gartner.com</uri>
+    <title>Gartner</title>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>sqldev.net/dts/DotNETCookBook.htm</uri>
+    <title>Gert E.R. Drapers: Cookbook for using SQL Server DTS 2000 with .NET</title>
+    <keyword>SQL, DMO, Distributed Management Object, C#</keyword>
+    <dated>2003-04-11T23:22:03.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>sqldev.net/download/dts/DotNETCookBookExamples.zip</uri>
+    <title>Gert E.R. Drapers: Cookbook for using SQL Server DTS 2000 with .NET (Download)</title>
+    <keyword>SQL, DMO, Distributed Management Object, C#</keyword>
+    <dated>2003-04-11T23:22:03.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>sqldev.net/download/dts/DotNETCookBook.pdf</uri>
+    <title>Gert E.R. Drapers: Cookbook for using SQL Server DTS 2000 with .NET (PDF)</title>
+    <keyword>SQL, DMO, Distributed Management Object, C#</keyword>
+    <dated>2003-04-11T23:22:03.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>sqldev.net/sqldmo/SQL-DMO.NETEventsCS.htm</uri>
+    <title>Gert E.R. Drapers: SQL-DMO Events using UCOMIConnectionPoint</title>
+    <keyword>SQL, DMO, Distributed Management Object, C#</keyword>
+    <dated>2003-04-11T23:22:03.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>getopenoffice.org</uri>
+    <title>GetOpenOffice.org with Solveig Haugland and Floyd Jones</title>
+    <dated>2003-04-20T14:45:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>google.com/apis</uri>
+    <title>Google Web APIs (License key: O881yoPQ6AeQtHeX30+jgpD/GS3TdLuB | Email: kenadeniji@hotmail.com | Password: password)</title>
+    <keyword>Google, Web Service, API</keyword>
+    <dated>2002-07-13T12:06:13.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dv_vstechart/html/vbtchperfopt.asp</uri>
+    <title>Gordon Brown: Performance Optimization in Visual Basic .NET</title>
+    <keyword>Gordon Brown, Performance Optimization, Visual Basic .NET</keyword>
+    <dated>2002-10-02T04:29:11.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dndotnet/html/ManProOracPerf.asp</uri>
+    <title>Gregory Leake: Using .NET Framework Data Provider for Oracle to Improve .NET Application Performance</title>
+    <keyword>Gregory, Leake, Microsoft, .NET, Database, Data, Provider, Oracle, Performance</keyword>
+    <dated>2002-08-01T10:24:48.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ssw.uni-linz.ac.at/Teaching/Lectures/CSharp/Tutorial/Part2.pdf</uri>
+    <title>Hanspeter Mossenbok University of Linz (Austria) moessenboeck@ssw.uni-linz.ac.at: Advanced C#</title>
+    <dated>2002-10-03T00:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>cs.tut.fi/tapahtumat/olio2002/moesse.pdf</uri>
+    <title>Hanspeter Mossenbok University of Linz (Austria) moessenboeck@ssw.uni-linz.ac.at: An Overview of Microsoft .NET and C#</title>
+    <keyword>C#</keyword>
+    <dated>2003-01-30T09:03:44.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ssw.uni-linz.ac.at/Teaching/Lectures/CSharp/Tutorial</uri>
+    <title>Hanspeter Mossenbok University of Linz (Austria) moessenboeck@ssw.uni-linz.ac.at: C# Tutorial</title>
+    <keyword>C#</keyword>
+    <dated>2003-01-31T10:06:25.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ssw.uni-linz.ac.at/General/Staff/HM</uri>
+    <title>Hanspeter Mossenbok University of Linz (Austria): Phone: + 43-732-2468-7130 Fax: + 43-732-2468-7138 Email: moessenboeck@ssw.uni-linz.ac.at URI: http://www.ssw.uni-linz.ac.at/General/Staff/HM/</title>
+    <keyword>C#</keyword>
+    <dated>2003-01-31T10:06:25.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ssw.uni-linz.ac.at/Teaching/Lectures/CSharp/Tutorial/Part1.pdf</uri>
+    <title>Hanspeter Mossenbok University of Linz (Austria)moessenboeck@ssw.uni-linz.ac.at: Introduction to C#</title>
+    <keyword>C#</keyword>
+    <dated>2002-10-03T00:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>devhawk.net</uri>
+    <title>Harry Pierson Senior Architect Evangelist with the National Architecture Team at Microsoft</title>
+    <keyword>C#</keyword>
+    <dated>2003-02-17T07:23:27.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>heraldmag.com</uri>
+    <title>Herald Magazine</title>
+    <keyword>Christian, Publication, Magazine</keyword>
+    <dated>2002-08-05T20:03:28.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>heraldmag.org/olb/bsl/Library/Referenc/Loomis/Topics.PDF</uri>
+    <title>Herald Magazine: Harvest Truth Topical Comments</title>
+    <keyword>Bible, Dictionary, Topical, Harvest, Truth, Herald, Magazine</keyword>
+    <dated>2002-08-05T19:11:01.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>heraldmag.org/olb/bsl/Library/Referenc/Hitch/names.PDF</uri>
+    <title>Herald Magazine: Hitchcock's Bible Names Dictionary</title>
+    <keyword>Bible, Dictionary, Hitchcock, Name, Herald, Magazine</keyword>
+    <dated>2002-08-05T19:12:08.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>heraldmag.org/olb/dictionaries/0ISBE.htm</uri>
+    <title>Herald Magazine: International Bible Standard Encyclopedia</title>
+    <keyword>Bible, Dictionary, Encyclopedia, Herald, Magazine</keyword>
+    <dated>2002-08-05T19:13:03.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>heraldmag.org/olb/dictionaries/20NAMESD.htm</uri>
+    <title>Herald Magazine: Scripture Names Dictionary</title>
+    <keyword>Bible, Dictionary, Scripture, Herald, Magazine</keyword>
+    <dated>2002-08-05T19:01:56.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>heraldmag.org/olb/bsl/Library/Referenc/TabGlos/Glossary.PDF</uri>
+    <title>Herald Magazine: Tabernacle Glossary</title>
+    <keyword>Bible, Dictionary, Tabernacle, Herald, Magazine</keyword>
+    <dated>2002-08-05T19:02:32.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>heraldmag.org/olb/Dictionaries.htm</uri>
+    <title>Herald Magazine: The Bible Student's Library 2</title>
+    <keyword>Christian, Publication, Magazine, Dictionary</keyword>
+    <dated>2002-08-05T20:04:20.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>gotw.ca</uri>
+    <title>Herb Sutter</title>
+    <dated>2003-04-20T14:45:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ecma-international.org/activities/Languages/ECMA%20CLI%20Presentation.pdf</uri>
+    <title>Hewlett-Packard; Intel; Microsoft: Common Language Infrastructure (CLI) Introduction and Class Library Factorization</title>
+    <dated>2003-03-12T16:39:16.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>hr-xml.org</uri>
+    <title>HR-Xml Consortium</title>
+    <keyword>HR, Xml</keyword>
+    <dated>2002-08-08T11:42:18.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>htmlbible.com/#free</uri>
+    <title>HTMLBible: Free Uncopyrighted Microsoft Access Bibles</title>
+    <keyword>Bible, Database, Microsoft Access</keyword>
+    <dated>2002-10-02T04:27:24.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>iana.org/assignments/port-numbers</uri>
+    <title>IANA Port Assignments</title>
+    <keyword>IANA, Port</keyword>
+    <dated>2002-07-13T12:08:42.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>idesign.net</uri>
+    <title>IDesign with Juval Lowy</title>
+    <dated>2003-01-27T09:18:47.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>installsite.org</uri>
+    <title>InstallSite.org</title>
+    <dated>2003-04-20T14:45:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>intentsoft.com</uri>
+    <title>Intentional Software with Charles Simonyi, Hungarian Notation</title>
+    <keyword>Intentional Software, Charles Simonyi, Hungarian Notation</keyword>
+    <dated>2002-09-25T16:26:31.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ineta.org</uri>
+    <title>International .NET Association (INETA)</title>
+    <dated>2003-03-04T20:22:34.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>iso.org</uri>
+    <title>International Standardization Organization (ISO)</title>
+    <dated>2002-12-21T23:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ietf.org</uri>
+    <title>Internet Engineering Task Force (IETF)</title>
+    <dated>2003-04-14T09:34:09.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>internetindicators.com</uri>
+    <title>Internet Indicators</title>
+    <dated>2003-08-14T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>unicode.org/unicode/onlinedat/countries.html</uri>
+    <title>ISO: The ISO-3166 Two Letter Country Codes</title>
+    <keyword>ISO, 3166, Country Codes</keyword>
+    <dated>2002-08-16T04:11:43.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>unicode.org/unicode/onlinedat/languages.html</uri>
+    <title>ISO: The ISO-639 Two Letter Language Codes</title>
+    <keyword>ISO, 639, Languages Codes</keyword>
+    <dated>2002-08-16T04:12:17.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>sql.co.il/books/advtsql/AdvT-SQL4SQL2K%20-%20Sample%20Chapter%20(17%20-%20Tips%20&amp;%20Tricks).pdf</uri>
+    <title>Itzik Ben-Gan: Advanced Transact-SQL for SQL Server 2000 Chapter 17 Tips &amp; Tricks</title>
+    <keyword>SQL Server</keyword>
+    <dated>2003-04-25T13:34:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>xml.com/pub/a/2001/01/17/xsl-fo/index.html</uri>
+    <title>J. David Eisenberg: Using XSL Formatting Objects</title>
+    <keyword>Ivan Mladenov, Code Optimization</keyword>
+    <dated>2003-02-18T08:02:50.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>xml.com/pub/a/2001/01/24/xsl-fo/index.html</uri>
+    <title>J. David Eisenberg: Using XSL Formatting Objects, Part 2</title>
+    <keyword>Ivan Mladenov, Code Optimization</keyword>
+    <dated>2003-02-18T08:02:50.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>heraldmag.org/olb/bsl/Library/Referenc/Strongs/SHebrew.pdf</uri>
+    <title>James Strong Concise Dictionary of The Words In The Hebrew Bible With Their Renderings In The Authorized English Version courtesy Herald Magazine</title>
+    <keyword>Bible, Dictionary, James, Strong, Hebrew, Herald, Magazine</keyword>
+    <dated>2002-08-05T19:16:38.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>heraldmag.org/olb/bsl/Library/Referenc/Strongs/SGreek.pdf</uri>
+    <title>James Strong's Concise Dictionary of The Words In The Greek Testament With Their Renderings In The Authorized English Version courtesy Herald Magazine</title>
+    <keyword>Bible, Dictionary, James, Strong, Greek, Herald, Magazine</keyword>
+    <dated>2002-08-05T19:16:25.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>labsoftware.com/LabSoftware/CSharpPats/design_patterns_in_c.htm</uri>
+    <title>James W. Cooper: Introduction to Design Patterns in C#</title>
+    <keyword>James W. Cooper, Design Patterns, C#</keyword>
+    <dated>2002-09-12T08:27:28.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dndotnet/html/highperfmanagedapps.asp</uri>
+    <title>Jan Gray: Writing Faster Managed Code - Know What Things Cost</title>
+    <dated>2003-09-30T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>javascriptcity.com</uri>
+    <title>Java Script City.com</title>
+    <keyword>ECMAScript, JavaScript</keyword>
+    <dated>2003-03-10T09:16:39.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>javascriptsource.com</uri>
+    <title>Java Script Source.com</title>
+    <keyword>ECMAScript, JavaScript</keyword>
+    <dated>2003-03-10T09:16:39.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>javascripts.com</uri>
+    <title>Java Scripts.com</title>
+    <keyword>ECMAScript, JavaScript</keyword>
+    <dated>2003-03-10T09:16:39.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>prosise.com</uri>
+    <title>Jeff Prosise</title>
+    <keyword>Jeff, Prosise</keyword>
+    <dated>2002-08-01T10:44:04.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>wintellect.com/resources/downloads/Validation.pdf</uri>
+    <title>Jeff Prosise: ASP.NET Validation Controls</title>
+    <keyword>ASP.NET, Validation Controls, Jeff Prosise</keyword>
+    <dated>2002-09-19T21:08:42.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>wintellect.com/about/instructors/prosise/downloads/chapter5.pdf</uri>
+    <title>Jeff Prosise: Programming Microsoft .NET Web Forms</title>
+    <keyword>.NET, Jeff, Prosise, Code, Sample</keyword>
+    <dated>2003-01-23T14:44:31.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>jenitennison.com</uri>
+    <title>Jeni Tennison</title>
+    <dated>2003-02-27T16:18:50.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>libertyassociates.com</uri>
+    <title>Jesse Liberty</title>
+    <keyword>Jesse, Liberty, .NET, ASP.NET, C#</keyword>
+    <dated>2002-08-01T10:19:08.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>oreilly.com/catalog/learncsharp</uri>
+    <title>Jesse Liberty: Learning C# (O'Reilly ISBN 0-596-00376-5)</title>
+    <keyword>Jesse, Liberty, .NET, ASP.NET, C#</keyword>
+    <dated>2003-02-24T09:23:34.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>oreilly.com/catalog/progcsharp/chapter/ch18.html</uri>
+    <title>Jesse Liberty: Programming C# Chapter 18: Attributes and Reflection ISBN 0-596-00117-7</title>
+    <keyword>Oreilly, Jesse Liberty, C#</keyword>
+    <dated>2002-07-13T12:15:49.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>radio.weblogs.com/0150476/stories/2002/07/12/executingASPxPagesWithoutAWebServer.html</uri>
+    <title>Jim Klopfenstein: ASP.NET hosting</title>
+    <keyword>Oreilly, Jesse Liberty, C#</keyword>
+    <dated>2003-02-24T09:23:33.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>jgrisham.com</uri>
+    <title>John Grisham</title>
+    <dated>2003-10-04T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/msdnmag/issues/02/10/NETSerialComm/default.aspx</uri>
+    <title>John Hind: Serial Communication - Use P/Invoke to Develop a .NET Base Class Library for Serial Device Communications</title>
+    <keyword>John Hind, Serial, Communication, P/Invoke, Develop, .NET, Base Class Library, Device</keyword>
+    <dated>2002-09-25T16:26:31.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>mwt.net/~jmueller</uri>
+    <title>John Paul Mueller</title>
+    <dated>2003-03-17T19:49:51.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>peachpit.com/vqs/csharp</uri>
+    <title>Jose Mojica: C# Web Development with ASP.NET</title>
+    <dated>2003-11-24T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>kbalertz.com</uri>
+    <title>KB Alertz - Knowledge Base Alerts</title>
+    <keyword>Web Design</keyword>
+    <dated>2003-03-03T08:20:24.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>kbcafe.com</uri>
+    <title>kbcafe.com with Randy Charles Morin</title>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>kbcafe.com/articles/HowTo.NNTP.CSharp.pdf</uri>
+    <title>kbcafe.com with Randy Charles Morin: How-To NNTP in C#</title>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>kbcafe.com/articles/HowTo.POP3.CSharp.pdf</uri>
+    <title>kbcafe.com with Randy Charles Morin: How-To POP3 in C#</title>
+    <keyword>C#, POP3</keyword>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>kbcafe.com/articles/HowTo.SMTP.CSharp.pdf</uri>
+    <title>kbcafe.com with Randy Charles Morin: How-To SMTP in C#</title>
+    <keyword>C#, SMTP</keyword>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>keithba.com</uri>
+    <title>Keith Ballinger: keithba.com</title>
+    <dated>2003-11-04T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>keithba.net</uri>
+    <title>Keithba.net with Keith Ballinger</title>
+    <keyword>Keith Brown, ASP.NET, Security</keyword>
+    <dated>2003-03-17T19:49:51.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>csharphelp.com/archives2/archive345.html</uri>
+    <title>Kevin Goss: SQL Server Backup/Restore Through SQLDMO and C#</title>
+    <keyword>Kevin Goss, SQLDMO, C#, SQL Server Backup and Restore, Code</keyword>
+    <dated>2002-10-07T00:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>csharphelp.com/archives2/archive342.html</uri>
+    <title>Kevin Goss: SQLDMO for C#</title>
+    <keyword>Kevin, Goss, SQLDMO, C#</keyword>
+    <dated>2002-09-07T18:04:25.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>kickingASP.net</uri>
+    <title>Kicking ASP.NET</title>
+    <keyword>Kevin, Goss, SQLDMO, C#, Source Code</keyword>
+    <dated>2003-01-20T11:00:18.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dncenet/html/C_n_Java.asp</uri>
+    <title>Kirk Radeck: C# and Java: Comparing Programming Languages</title>
+    <keyword>Kevin, Goss, SQLDMO, C#, Source Code</keyword>
+    <dated>2003-02-18T08:02:49.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>Kjol.com</uri>
+    <title>Korean Journal: Kjol.com</title>
+    <dated>2004-02-01T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>KoreanJournal.net</uri>
+    <title>Korean Journal: KoreanJournal.net</title>
+    <dated>2004-02-01T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>KurtCagle.net</uri>
+    <title>KurtCagle.net</title>
+    <dated>2002-12-21T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>learnasp.com</uri>
+    <title>LearnASP.com with Charles Carrol</title>
+    <dated>2003-01-20T10:57:23.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/en-us/dnasp/html/asptips.asp</uri>
+    <title>Len Cardinal Senior Consultant, Microsoft Consulting Services &amp; George V. Reilly Microsoft IIS Performance Lead: 25+ ASP Tips to Improve Performance and Style</title>
+    <dated>2003-01-28T08:21:37.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>research.microsoft.com/BARC/Sequential_IO/Win2K_IO.pdf</uri>
+    <title>Leonard Chung &amp; Jim Gray: Windows 2000 IO Performance</title>
+    <dated>2003-04-25T13:34:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>MSCOnline.MaconState.edu/Tutorials</uri>
+    <title>Macon State College: Web Development Tutorials</title>
+    <dated>2005-08-11T22:01:11.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>manning.com/ducharme</uri>
+    <title>Manning.com: Bob DuCharme</title>
+    <dated>2003-02-17T07:28:20.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dnxml/html/sysxmlvs05.asp</uri>
+    <title>Mark Fussell: What's New in System.Xml for Visual Studio 2005 and the .NET Framework 2.0 Release</title>
+    <dated>2005-07-20T08:28:58.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dnbda/html/singletondespatt.asp</uri>
+    <title>Mark Townsend: Exploring the Singleton Design Pattern</title>
+    <keyword>Mark Townsend, Design Pattern, Singleton</keyword>
+    <dated>2002-09-29T06:01:41.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>martinfowler.com</uri>
+    <title>MartinFowler.com</title>
+    <dated>2003-07-07T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>prosetech.com/completereference</uri>
+    <title>Matthew MacDonald: ASP.NET The Complete Reference ISBN 0-07-219513-4</title>
+    <dated>2003-08-23T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msjogren.net</uri>
+    <title>Mattias Sjogren</title>
+    <dated>2003-03-17T14:42:53.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>dubinko.info</uri>
+    <title>Micah Dubinko</title>
+    <dated>2002-12-23T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>dubinko.info/writing/xforms</uri>
+    <title>Micah Dubinko: XForms Essentials</title>
+    <dated>2002-12-23T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>Oreilly.com/catalog/learnxslt</uri>
+    <title>Michael Fitzgerald: Learning XSLT ISBN 0-596-00327-7</title>
+    <dated>2005-01-16T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ajax.schwarz-interactive.de</uri>
+    <title>Michael Schwarz: Asynchronous JavaScript with XmlHttpRequest</title>
+    <dated>2005-08-18T22:00:05.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>Microsoft.com/downloads/details.aspx?FamilyId=41070791-8912-4F94-AC46-7CE0E386D5C9&amp;displaylang=en</uri>
+    <title>Microsoft .NET Framework 2.0 Software Development Kit (SDK) Beta 2 x86</title>
+    <dated>2005-04-23T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>Microsoft.com/downloads/details.aspx?FamilyId=7ABD8C8F-287E-4C7E-9A4A-A4ECFF40FC8E&amp;displaylang=en</uri>
+    <title>Microsoft .NET Framework Version 2.0 Redistributable Package Beta 2 (x86)</title>
+    <dated>2005-04-23T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dnnetsec/html/openhack.asp</uri>
+    <title>Microsoft Building and Configuring More Secure Web Sites</title>
+    <keyword>logfile analysis</keyword>
+    <dated>2003-11-22T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/netframework/downloads/updates/default.aspx</uri>
+    <title>Microsoft MSDN .NET Framework Developer Center: SDKs, Redistributables &amp; Service Packs</title>
+    <dated>2005-04-23T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;EN-US;325093</uri>
+    <title>Microsoft PRB ASP.NET Pages Exhibit Unexpected Behavior Because the Server-Side Code Is Not Processed</title>
+    <dated>2005-07-19T23:46:06.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>camadmin@microsoft.com?subject=Rotor%20DVD%20Request%20(Include%20Name%20and%20Mailing%20Address)</uri>
+    <title>Microsoft Research (MSR) DVD Request for the Training Sessions Cambridge in March 2002 e-mail camadmin@microsoft.com (name and mailing address)</title>
+    <dated>2003-04-15T17:27:17.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>research.microsoft.com/collaboration/university/europe/rotor</uri>
+    <title>Microsoft Rotor Project</title>
+    <dated>2003-04-15T17:27:17.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/sql/2005/2005Labs</uri>
+    <title>Microsoft SQL Server 2005 Hands-On Labs</title>
+    <dated>2005-04-24T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>microsoft.com/sql/evaluation/betanominations.asp</uri>
+    <title>Microsoft SQL Server: Beta Nominations</title>
+    <dated>2002-09-06T08:36:21.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>microsoft.com/technet/itsolutions/network/evaluate/technol/tcpipfund/tcpipfund_ch01.mspx</uri>
+    <title>Microsoft TCP/IP Fundamentals for Microsoft Windows</title>
+    <dated>2005-05-13T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>Microsoft.com/downloads/details.aspx?FamilyID=5fbc5470-b259-4733-a914-a956122e08e8&amp;displaylang=en&amp;Hash=FKJ48F8</uri>
+    <title>Microsoft Windows Installer 3.0 Redistributable</title>
+    <dated>2005-04-24T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>microsoft.com/technet/treeview/default.asp?url=/technet/prodtechnol/sql/reskit/sql2000/part2/c0761.asp</uri>
+    <title>Microsoft:  SQL Server Resource Kits Chapter 7 - Migrating Oracle Databases to SQL Server 2000</title>
+    <keyword>Microsoft, Database, SQL Server, Resource Kit, Migrate, Oracle</keyword>
+    <dated>2002-08-19T06:53:50.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>gotdotnet.com/team/csharp</uri>
+    <title>Microsoft: .NET C# Team</title>
+    <keyword>Microsoft Team, .NET, CLR, C#, ASP.NET</keyword>
+    <dated>2002-09-09T05:05:56.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>windowsforms.net</uri>
+    <title>Microsoft: .NET Client Web: The Official Microsoft Windows Forms Community Site</title>
+    <keyword>Microsoft, SDK, .NET, Form, Community</keyword>
+    <dated>2002-07-13T11:52:04.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dnbda/html/daag.asp</uri>
+    <title>Microsoft: .NET Data Access Architecture Guide Alex Mackman, Chris Brooks, Steve Busby, and Ed Jezierski Microsoft Corporation</title>
+    <keyword>MSDN, How-To, Articles, .NET,  ADO.NET, Database, Data, Access, Architecture, Guide, Provider, SQL Server .NET Data Provider, OLE DB .NET Data Provider, ODBC .NET Data Provider, .NET Data Provider for Oracle, SQLXML Managed Classes</keyword>
+    <dated>2002-08-01T08:16:16.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dndba/html/daag.asp</uri>
+    <title>Microsoft: .NET Data Architecture Guide</title>
+    <dated>2003-03-10T11:36:27.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/netframework</uri>
+    <title>Microsoft: .NET Framework</title>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>microsoft.com/mspress/net/framework</uri>
+    <title>Microsoft: .NET Framework Books and Resources</title>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/netframework/downloads/samples/default.asp</uri>
+    <title>Microsoft: .NET Framework: Code Samples</title>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>microsoft.com/downloads/details.aspx?FamilyId=4F55D429-17DC-45EA-BFB3-076D1C052524&amp;displaylang=en</uri>
+    <title>Microsoft: .Net Managed Provider for Oracle</title>
+    <dated>2003-03-15T18:09:48.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dnasp/html/asptips.asp</uri>
+    <title>Microsoft: 25+ Tips to Improve Performance and Style</title>
+    <dated>2003-03-10T12:41:10.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>Microsoft.com/products/expression</uri>
+    <title>Microsoft: Acrylic</title>
+    <dated>2005-09-05T02:50:49.3500000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/en-us/dnadonet/html/adonetbest.asp</uri>
+    <title>Microsoft: Best Practices for using ADO.NET</title>
+    <dated>2003-03-17T14:58:31.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>betareq@microsoft.com</uri>
+    <title>Microsoft: Beta | Information Request | Contact Information | Hardware | Software | Reason for Beta Test Request</title>
+    <keyword>Microsoft, Beta</keyword>
+    <dated>2002-09-06T08:41:03.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>Betamail@microsoft.com</uri>
+    <title>Microsoft: Betamail@microsoft.com</title>
+    <dated>2003-10-14T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>betaplace.com</uri>
+    <title>Microsoft: Betaplace.com</title>
+    <dated>2003-10-14T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>microsoft.com/downloads/release.asp?ReleaseID=44047</uri>
+    <title>Microsoft: Building Secure ASP.NET Applications</title>
+    <dated>2003-02-10T12:08:24.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dnnetsec/html/secnetlpMSDN.asp?frame=true</uri>
+    <title>Microsoft: Building Secure ASP.NET Applications Authentication, Authorization, and Secure Communication</title>
+    <keyword>ASP.NET</keyword>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dnnetsec/html/secnetlpMSDN.asp</uri>
+    <title>Microsoft: Building Secure ASP.NET Applications: Authentication, Authorization, and Secure Communication</title>
+    <keyword>ASP.NET</keyword>
+    <dated>2003-02-18T08:02:49.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/Dndotnet/html/csharpsqlxmlhttp.asp?frame=true</uri>
+    <title>Microsoft: C#: A SQL Server XML and ASP.NET Runtime Application</title>
+    <keyword>Microsoft, MSDN, C#, SQL Server, XML, ASP.NET, Software</keyword>
+    <dated>2002-08-01T10:33:33.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dnbda/html/cachingarch.asp</uri>
+    <title>Microsoft: Caching Architecture Guide for .NET Framework Applications</title>
+    <keyword>Cache</keyword>
+    <dated>2003-04-08T15:24:04.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;en-us;q311209</uri>
+    <title>Microsoft: Configure ASP.NET for Persistent SQL Server Session State Management</title>
+    <keyword>Microsoft, Commerce, Server</keyword>
+    <dated>2002-08-01T07:54:11.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/support/kb/articles/Q234/2/08.asp</uri>
+    <title>Microsoft: Database Design</title>
+    <keyword>Database, Design</keyword>
+    <dated>2002-07-11T08:44:04.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dnbda/html/DBGrm.asp</uri>
+    <title>Microsoft: Debugging Microsoft .NET Applications</title>
+    <keyword>Debug</keyword>
+    <dated>2003-02-18T08:02:49.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/?url=/library/en-us/dnbda/html/damaz.asp</uri>
+    <title>Microsoft: Designing Application-Managed Authorization</title>
+    <dated>2003-02-18T08:02:49.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dnbda/html/BOAGag.asp?frame=true</uri>
+    <title>Microsoft: Designing Data Tier Components and Passing Data Through Tiers</title>
+    <keyword>Data</keyword>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/newsgroups/default.asp</uri>
+    <title>Microsoft: Developers Newsgroups</title>
+    <dated>2003-01-27T09:32:07.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/cpguide/html/cpcondevelopinghigh-performanceaspnetapplications.asp</uri>
+    <title>Microsoft: Developing High-Performance ASP.NET Applications</title>
+    <dated>2002-08-08T11:29:58.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>microsoft.com/reader/downloads/dictionaries.asp</uri>
+    <title>Microsoft: Dictionary</title>
+    <keyword>Microsoft, Dictionary, English, French, German, Spanish</keyword>
+    <dated>2002-10-07T15:05:16.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com</uri>
+    <title>Microsoft: Help and Support</title>
+    <dated>2003-03-11T20:00:29.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/?kbid=317699</uri>
+    <title>Microsoft: How to Debug Client-Side Script in Visual Basic .NET</title>
+    <keyword>client-side debugging</keyword>
+    <dated>2003-04-20T14:45:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dncfhowto/html/howtoexecutingapppath.asp</uri>
+    <title>Microsoft: How To Determine the Executing Application's Path string path; path = System.IO.Path.GetDirectoryName( System.Reflection.Assembly.GetExecutingAssembly().GetName().CodeBase );</title>
+    <dated>2003-04-09T08:14:37.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>LogParser.com</uri>
+    <title>Microsoft: How To Determine the Sender of an Event Without Using the Control.Name Property private void button1_Click(object sender, System.EventArgs e) { string s = "unknown button"; if( sender == button1 ) { s = "button1"; } }</title>
+    <dated>2005-07-26T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dnwebsrv/html/httpsecurity.asp</uri>
+    <title>Microsoft: HTTP Security and ASP.NET Web Services by Scott Seely of the MSDN Architectural Samples Team</title>
+    <keyword>Microsoft, MSDN, HTTP, Security, ASP.NET, Web Services</keyword>
+    <dated>2002-08-08T11:46:22.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;en-us;173738</uri>
+    <title>Microsoft: Hungarian Notation with Charles Simonyi</title>
+    <keyword>Notation, Naming Convention</keyword>
+    <dated>2003-03-10T11:15:22.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/workshop/WebControls/webcontrols_entry.asp</uri>
+    <title>Microsoft: Internet Explorer WebControls Documentation</title>
+    <keyword>TreeView, ToolBar, TabControl, Multipage</keyword>
+    <dated>2003-03-21T20:58:14.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/downloads/samples/internet/ASP_DOT_NET_ServerControls/WebControls/default.asp</uri>
+    <title>Microsoft: Internet Explorer WebControls Download</title>
+    <keyword>TreeView, ToolBar, TabControl, Multipage</keyword>
+    <dated>2003-03-21T20:58:14.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/vbasic/whidbey/introto2005</uri>
+    <title>Microsoft: Introducing Visual Basic 2005 for Developers</title>
+    <dated>2005-08-27T19:58:34.3100000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;EN-US;306158</uri>
+    <title>Microsoft: Knowledge Base Article - 3061558 INFO: Implementing Impersonation in an ASP.NET Application</title>
+    <dated>2003-03-13T22:04:57.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;EN-US;306590</uri>
+    <title>Microsoft: Knowledge Base Article - 306590 INFO: ASP.NET Security Overview</title>
+    <dated>2003-03-13T22:04:57.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;en-us;Q315158</uri>
+    <title>Microsoft: Knowledge Base Article - 315158 BUG ASP.NET Does Not Work with the Default ASPNET Account on a Domain Controller</title>
+    <keyword>ASPNET Account</keyword>
+    <dated>2003-03-13T22:04:57.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;EN-US;317012</uri>
+    <title>Microsoft: Knowledge Base Article - 317012 INFO: Process and Request Identity in ASP.NET</title>
+    <keyword>Account</keyword>
+    <dated>2003-03-13T22:04:57.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;EN-US;q298897</uri>
+    <title>Microsoft: Mapsids.exe Helps Map SIDs Between User and Master Databases When Database Is Moved</title>
+    <dated>2002-07-11T09:26:47.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library</uri>
+    <title>Microsoft: MSDN Library</title>
+    <dated>2003-03-17T14:42:53.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/msdnmag/code01.aspx</uri>
+    <title>Microsoft: MSDN Magazine Source Code 2001</title>
+    <keyword>Microsoft, MSDN Magazine, Source Code</keyword>
+    <dated>2002-09-07T18:01:09.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/msdnmag/code02.aspx</uri>
+    <title>Microsoft: MSDN Magazine Source Code 2002</title>
+    <keyword>Microsoft, MSDN Magazine, Source Code</keyword>
+    <dated>2002-09-07T18:01:17.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdnaa.net</uri>
+    <title>Microsoft: msdnaa.net</title>
+    <keyword>Microsoft, msdnaa.net</keyword>
+    <dated>2002-09-25T10:05:15.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>microsoft.com/backstage/whitepaper.htm</uri>
+    <title>Microsoft: Navigating the Maze of Settings for Web Server Performance Optimization</title>
+    <keyword>Microsoft, msdnaa.net</keyword>
+    <dated>2003-01-28T08:23:39.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>microsoft.com/downloads/details.aspx?FamilyId=6CCD8427-1017-4F33-A062-D165078E32B1&amp;displaylang=en</uri>
+    <title>Microsoft: ODBC .NET Data Provider</title>
+    <dated>2003-03-15T18:09:48.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>dgl.microsoft.com</uri>
+    <title>Microsoft: Office Clip Art and Media</title>
+    <keyword>XQuery</keyword>
+    <dated>2003-04-26T15:26:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/cpguide/html/cpconpassingservercontrolvaluesbetweenpages.asp</uri>
+    <title>Microsoft: Passing Server Control Values Between Pages</title>
+    <dated>2003-03-13T11:31:52.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/practices</uri>
+    <title>Microsoft: Patterns &amp; Practices</title>
+    <dated>2003-02-24T09:23:33.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;EN-US;Q234497</uri>
+    <title>Microsoft: Q234497 Specify Additional Document Types for HTTP Compression</title>
+    <keyword>Capacity Planning</keyword>
+    <dated>2003-04-01T20:19:24.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=KB;en-us;243589&amp;sd=tech</uri>
+    <title>Microsoft: Q243589 Troubleshoot Slow-Running Queries on SQL Server 7.0 or Later</title>
+    <keyword>Capacity Planning</keyword>
+    <dated>2003-04-25T13:34:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;en-us;Q258294</uri>
+    <title>Microsoft: Q258294 How To Offload XSL Transformations to Clients' Browsers</title>
+    <keyword>XML, C#</keyword>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb%3Ben-us%3B301044</uri>
+    <title>Microsoft: Q301044 How to Create an Office Document in an ASP Application</title>
+    <keyword>Microsoft, MSDN, Internet Information Server, IIS, Certificate</keyword>
+    <dated>2003-03-29T23:11:57.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?ID=kb;en-us;Q301058&amp;SD=MSDN</uri>
+    <title>Microsoft: Q301058 How To Debug an ASP.NET Application with the Microsoft CLR Debugger</title>
+    <keyword>Microsoft, MSDN, ASP.NET, Application, Debug</keyword>
+    <dated>2002-08-08T11:30:52.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;EN-US;Q301240</uri>
+    <title>Microsoft: Q301240 How To Implement Forms-Based Authentication in Your ASP.NET Application by Using C# .NET</title>
+    <dated>2003-03-13T22:04:57.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;en-us;Q301394</uri>
+    <title>Microsoft: Q301394 How To Create an Generic ASP Page to Test XSL Transformations</title>
+    <keyword>XML, C#</keyword>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?ID=kb;en-us;Q303902&amp;SD=MSDN</uri>
+    <title>Microsoft: Q303902 How To Obtain the NetBIOS and DNS Computer Names by Using Visual C#</title>
+    <keyword>MSDN, How-to, Articles, C#, NETBIOS, DNS, Computer Name</keyword>
+    <dated>2002-08-01T09:42:17.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;en-us;303902</uri>
+    <title>Microsoft: Q303902 Obtain the NetBIOS and DNS Computer Names in Visual C# .NET</title>
+    <dated>2003-04-12T20:55:48.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?ID=kb;en-us;Q303974&amp;SD=MSDN</uri>
+    <title>Microsoft: Q303974 How To Recursively Search Directories by Using C# .NET</title>
+    <keyword>MSDN, How-to, Articles, C#, Directory</keyword>
+    <dated>2002-08-01T09:42:48.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;en-us;304032</uri>
+    <title>Microsoft: Q304032 Determine When a Shelled Process Ends in Visual C# .NET</title>
+    <dated>2003-04-12T20:55:47.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;en-us;304283</uri>
+    <title>Microsoft: Q304283 Determine Windows Version by Using C# .NET</title>
+    <dated>2003-04-12T20:55:47.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?ID=kb;en-us;Q304430&amp;SD=MSDN</uri>
+    <title>Microsoft: Q304430 How To Do Basic File I/O in Visual C# .NET</title>
+    <keyword>MSDN, How-to, Articles, C#, File, Input, Output, I/O</keyword>
+    <dated>2002-08-01T08:38:57.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;en-us;304721</uri>
+    <title>Microsoft: Q304721 Determine the Operating System Service Pack Level in Visual C# .NET</title>
+    <dated>2003-04-12T20:55:48.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?ID=kb;en-us;Q304991&amp;SD=MSDN</uri>
+    <title>Microsoft: Q304991 How To Detect if an Application Has Stopped Responding by Using C#</title>
+    <keyword>MSDN, How-to, Articles, C#, Application, Status</keyword>
+    <dated>2002-08-01T08:38:16.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/directory/article.asp?ID=kb;en-us;Q305369&amp;SD=MSDN</uri>
+    <title>Microsoft: Q305369 How To Wait for a Shelled Application to Finish Using C#</title>
+    <keyword>MSDN, How-to, Articles, C#, Shell, Execute</keyword>
+    <dated>2002-08-01T09:44:16.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;en-us;305369</uri>
+    <title>Microsoft: Q305369 Wait for a Shelled Application to Finish by Using C# .NET</title>
+    <dated>2003-04-12T20:55:48.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;en-us;305703</uri>
+    <title>Microsoft: Q305703 Programmatically Start the Default Internet Browser in Visual C# .NET</title>
+    <dated>2003-04-12T20:55:48.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;en-us;306154</uri>
+    <title>Microsoft: Q306154 Display Hierarchical Data by Using Nested Repeater Controls by Using C# .NET</title>
+    <dated>2003-04-12T20:55:47.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?ID=kb;en-us;Q306355&amp;SD=MSDN</uri>
+    <title>Microsoft: Q306355 How To Create Custom Error Reporting Pages in ASP.NET by Using Visual C# .NET</title>
+    <keyword>MSDN, How-to, Articles, C#, ASP.NET, Error, Custom</keyword>
+    <dated>2002-08-01T08:36:40.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?ID=kb;en-us;Q306654&amp;SD=MSDN</uri>
+    <title>Microsoft: Q306654 How To Write Binary Files to the Browser Using ASP.NET and Visual C# .NET</title>
+    <keyword>MSDN, How-to, Articles, C#, ASP.NET, Binary, Files</keyword>
+    <dated>2002-08-01T09:43:59.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?ID=kb;en-us;Q307023&amp;SD=MSDN</uri>
+    <title>Microsoft: Q307023 How To Make a GET Request by Using C# .NET</title>
+    <keyword>MSDN, How-to, Articles, C#, Get, Request</keyword>
+    <dated>2002-08-01T08:56:07.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;en-us;307023</uri>
+    <title>Microsoft: Q307023 Make a GET Request by Using C# .NET</title>
+    <dated>2003-04-12T20:55:47.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?ID=kb;en-us;Q307024&amp;SD=MSDN</uri>
+    <title>Microsoft: Q307024 How To Write to an Event Log by Using Visual C# .NET</title>
+    <keyword>MSDN, How-to, Articles, C#, Event Log</keyword>
+    <dated>2002-08-01T09:43:16.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;[LN];Q307445</uri>
+    <title>Microsoft: Q307445 How To Create a Remote Server by Using Microsoft Visual C# .NET</title>
+    <keyword>MSDN, How-to, Articles, C#, Remote Server</keyword>
+    <dated>2002-08-01T08:35:56.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;[LN];Q307739</uri>
+    <title>Microsoft: Q307739 How To Create Client Access to Remote Server by Using Visual C# .NET</title>
+    <keyword>MSDN, How-to, Articles, C#, Remote Server, Client</keyword>
+    <dated>2002-08-01T08:36:37.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;en-us;Q308061</uri>
+    <title>Microsoft: Q308061 How To Use the Encoding Property with System.Xml Classes in Visual C# .NET</title>
+    <keyword>MSDN, How-To, Articles, ASP.NET, C#, Microsoft, XML, Encoding</keyword>
+    <dated>2002-08-01T07:49:11.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;en-us;q308100</uri>
+    <title>Microsoft: Q308100 How To Retrieve and Display Records from an Access Database Using ASP.NET, ADO.NET, and Visual C# .NET</title>
+    <keyword>MSDN, How-To, Articles, ASP.NET, C#, Microsoft, Database, Access</keyword>
+    <dated>2002-08-01T07:50:08.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;en-us;311021</uri>
+    <title>Microsoft: Q311021 Manage Quotation Marks in Concatenated SQL Literals in Visual C# .NET</title>
+    <dated>2003-04-12T20:55:48.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;en-us;q311194</uri>
+    <title>Microsoft: Q311194 How To Use ASP.NET to Query and Display Database Data in Excel by Using Visual C# .NET</title>
+    <keyword>MSDN, How-To, Articles, ASP.NET, C#, Microsoft, Excel</keyword>
+    <dated>2002-08-01T07:52:36.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;en-us;Q311461</uri>
+    <title>Microsoft: Q311461 How To Use ASP.NET or Visual Basic.NET to Transform XML To Rich Text Format (RTF) For Microsoft Word 2002</title>
+    <keyword>MSDN, How-To, Articles, ASP.NET, Visual Basic.NET, XML, Transform, Rich Text Format, RTF</keyword>
+    <dated>2002-08-01T07:56:02.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;[LN];Q317662</uri>
+    <title>Microsoft: Q317662 How To Load and Save XML by Using DOM in .NET Framework with Visual C# .NET</title>
+    <keyword>MSDN, How-To, Articles, ASP.NET, C#, Microsoft, XML, DOM, Load, Save</keyword>
+    <dated>2002-08-01T07:58:42.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;[LN];Q317664</uri>
+    <title>Microsoft: Q317664 How To Access XML Data Using DOM in .NET Framework with Visual C# .NET</title>
+    <keyword>MSDN, How-To, Articles, ASP.NET, C#, Microsoft, XML, DOM</keyword>
+    <dated>2002-08-01T07:59:53.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;en-us;q317666</uri>
+    <title>Microsoft: Q317666 How To Modify XML Data by Using DOM in .NET Framework with Visual C# .NET</title>
+    <keyword>MSDN, How-To, Articles, ASP.NET, C#, Microsoft, XML, DOM</keyword>
+    <dated>2002-08-01T08:00:42.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb%3Ben-us%3B317719</uri>
+    <title>Microsoft: Q317719 How To Export Data in a DataGrid on an ASP .NET WebForm to Microsoft Excel</title>
+    <keyword>MSDN, How-To, Articles, ASP.NET, C#, Microsoft, XML, DOM</keyword>
+    <dated>2003-03-29T23:12:34.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;en-us;q318425</uri>
+    <title>Microsoft: Q318425 How To Send and Receive Binary Documents by Using an ASP.NET Web Service and Visual C# .NET</title>
+    <keyword>MSDN, How-To, Articles, ASP.NET, C#, Microsoft, Binary Documents</keyword>
+    <dated>2002-08-01T08:01:30.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;EN-US;318499</uri>
+    <title>Microsoft: Q318499 How To Use the System.Xml.XmlDocument Class to Execute XPath Queries in Visual C# .NET</title>
+    <dated>2003-04-10T19:46:33.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;en-us;q318502</uri>
+    <title>Microsoft: Q318502 How To Modify an XML Schema by Using System.Xml.Schema Classes in Visual C# .NET</title>
+    <keyword>MSDN, How-To, Articles, ASP.NET, C#, Microsoft, XML, Schema</keyword>
+    <dated>2002-08-01T08:02:42.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;en-us;q320916</uri>
+    <title>Microsoft: Q320916 How To Call SQL Server Stored Procedures in ASP.NET by Using Visual C# .NET</title>
+    <keyword>MSDN, How-To, Articles, ASP.NET, C#, Microsoft, Database, SQL Server, Stored Procedures</keyword>
+    <dated>2002-08-01T08:03:30.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;en-us;q321704</uri>
+    <title>Microsoft: Q321704 How To Execute Parameterized XSL Transformations in .NET Applications</title>
+    <keyword>MSDN, How-To, Articles, ASP.NET, C#, Microsoft, XML, XSL, Transformation, Parameterized, Execute</keyword>
+    <dated>2002-08-01T08:08:13.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;EN-US;Q322603</uri>
+    <title>Microsoft: Q322603 Enable ASPX Compression in IIS</title>
+    <keyword>Capacity Planning</keyword>
+    <dated>2003-04-01T20:19:24.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;en-us;q323370</uri>
+    <title>Microsoft: Q323370 How To Use Extension Objects When You Execute XSL Transformations in Visual C# .NET Applications</title>
+    <keyword>MSDN, How-To, Articles, ASP.NET, C#, Microsoft, XML, XSL, Transformation, Extension, Object</keyword>
+    <dated>2002-08-01T08:09:08.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;en-us;q324462</uri>
+    <title>Microsoft: Q324462 How To Implement and Use Custom Extension Functions When You Execute XPath Queries in Visual C# .NET</title>
+    <keyword>MSDN, How-To, Articles, ASP.NET, C#, Microsoft, XML, XSL, XPath, Transformation, Extension, Custom, Functions</keyword>
+    <dated>2002-08-01T08:09:33.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;EN-US;Q815167</uri>
+    <title>Microsoft: Q815167 How To Monitor Errors in .NET-Connected Applications</title>
+    <dated>2003-03-31T17:30:57.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>support.microsoft.com/default.aspx?scid=kb;EN-US;Q815169</uri>
+    <title>Microsoft: Q815169 How To Monitor ASP.NET Server Applications</title>
+    <dated>2003-03-31T17:30:57.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>microsoft.com/reader</uri>
+    <title>Microsoft: Reader</title>
+    <keyword>Microsoft, Reader</keyword>
+    <dated>2002-10-07T15:05:51.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>microsoft.com/scripting</uri>
+    <title>Microsoft: Scripting</title>
+    <keyword>Microsoft, Script</keyword>
+    <dated>2002-09-06T08:34:19.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/en-us/dnsql7/html/msdn_sql7perftune.asp</uri>
+    <title>Microsoft: SQL Server 7.0 Performance Tuning Guide by Henry Lau</title>
+    <keyword>Microsoft, SQL Server, Database, Performance, Tuning</keyword>
+    <dated>2002-08-10T00:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>microsoft.com/msj</uri>
+    <title>Microsoft: Systems Journal</title>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>microsoft.com/technet/scriptcenter</uri>
+    <title>Microsoft: TechNet Scripting Center</title>
+    <dated>2003-02-24T08:35:42.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>MSDN.Microsoft.com/VJSharp/Downloads/HowToGet.asp</uri>
+    <title>Microsoft: Visual J# .NET Redistributable Package</title>
+    <dated>2005-08-19T03:13:04.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/downloads/samples/internet/behaviors/library/webservice/default.asp</uri>
+    <title>Microsoft: WebService Behavior</title>
+    <keyword>Microsoft, WebService, Behavior</keyword>
+    <dated>2002-09-25T10:11:02.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>microsoft.com/technet/treeview/default.asp?url=/technet/prodtechnol/sql/maintain/optimize/ss2kidbp.asp</uri>
+    <title>Mike Ruthruff: Microsoft SQL Server 2000 Index Defragmentation Best Practices</title>
+    <keyword>Mike Barnett, Wolfram Schulte, Contract, Component, Runtime, .NET</keyword>
+    <dated>2003-04-25T13:34:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>zvon.org/xxl/XSLTutorial/Books/Book1/index.html</uri>
+    <title>Miloslav Nic: Introduction to XSL</title>
+    <keyword>XSLT</keyword>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>go-mono.com</uri>
+    <title>Mono</title>
+    <keyword>XSLT</keyword>
+    <dated>2003-03-03T08:20:24.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msde.biz</uri>
+    <title>MSDE.biz</title>
+    <dated>2003-03-17T14:58:32.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/msdnmag/find/tech.aspx?phrase=.net</uri>
+    <title>MSDN Magazine: .NET</title>
+    <dated>2003-04-09T08:14:37.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>mulberrytech.com/quickref/XSLTquickref.pdf</uri>
+    <title>Mulberrytech.com: XSLT and XPath Quick Reference</title>
+    <dated>2003-03-04T20:22:34.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>MultiLingual.com</uri>
+    <title>MultiLingual.com</title>
+    <dated>2003-11-24T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>mvps.org</uri>
+    <title>MVPS.org</title>
+    <dated>2003-04-25T13:34:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dnasp/html/maxperf.asp</uri>
+    <title>Nancy Winnick Cluts: Maximizing the Performance of Your Active Server Pages</title>
+    <dated>2003-01-28T08:25:45.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>satc.gsfc.nasa.gov</uri>
+    <title>NASA Goddard Space Flight Center - Software Assurance Technology Center (SATC)</title>
+    <dated>2003-03-23T12:47:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>nist.gov/director/prog-ofc/report02-3.pdf</uri>
+    <title>National Institute of Standards &amp; Technology (NIST): Planning Report 02-3 The Economic Impacts of Inadequate Infrastruture for Software Testing</title>
+    <dated>2003-04-20T14:45:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>NSDL.org</uri>
+    <title>National Science Digital Library</title>
+    <dated>2005-01-16T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ndoc.sourceforge.net.com</uri>
+    <title>ndoc.sourceforge.net.com</title>
+    <dated>2003-04-20T14:45:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>netobjectives.com</uri>
+    <title>NetObjectives.com</title>
+    <keyword>NetIQ, Software, Free, SQLCheck</keyword>
+    <dated>2003-02-11T12:07:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>newtelligence.com</uri>
+    <title>newtelligence.com</title>
+    <keyword>SQL Server</keyword>
+    <dated>2003-04-25T13:34:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>Nikhilk.net</uri>
+    <title>Nikhilk.net with Nikhil Kothari</title>
+    <dated>2002-12-21T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>nobel.no</uri>
+    <title>Nobel</title>
+    <dated>2004-01-09T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>Nomura.com</uri>
+    <title>Nomura.com: Kokuho Rice U.S. #1 Extra Fancy New Crop Net Wt. 20LBS 9.07kg. 40 Broderick Road, Burlingame 94010 CA USA.</title>
+    <dated>2003-10-06T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>nwalsh.com</uri>
+    <title>Norman Walsh</title>
+    <dated>2003-04-10T19:46:33.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>dotnet.oreilly.com</uri>
+    <title>O'Reilly: .NET Programming</title>
+    <dated>2003-02-24T09:23:33.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>javachapters.oreilly.com</uri>
+    <title>O'Reilly: Java Chapters</title>
+    <dated>2003-07-07T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>okicent.org</uri>
+    <title>Okicent.org</title>
+    <dated>2003-11-25T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dndotnet/html/automationmodel.asp</uri>
+    <title>Omar AL Zabir: Implement a Microsoft Word-like Object Model for Your .NET Framework Application</title>
+    <dated>2005-08-16T21:58:41.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/msdnmag/issues/1100/adoplus/default.aspx</uri>
+    <title>Omri Gazitt: Introducing ADO+ Data Access Services for the Microsoft .NET Framework</title>
+    <dated>2003-03-11T20:00:29.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>ondotnet.com</uri>
+    <title>ONDotnet.com</title>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>openwatcom.org</uri>
+    <title>Open Watcom</title>
+    <dated>2003-04-25T13:34:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>openoffice.org</uri>
+    <title>OpenOffice.org</title>
+    <dated>2003-04-14T09:02:50.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>otn.oracle.com/tech/windows/odpnet</uri>
+    <title>Oracle: Data Provider for .NET (ODP.NET)</title>
+    <dated>2003-03-17T14:42:53.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>otn.oracle.com/sample_code/tech/windows/odpnet</uri>
+    <title>Oracle: Data Provider for .NET (ODP.NET) Sample Code</title>
+    <dated>2003-03-18T11:52:52.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>oecd.org</uri>
+    <title>Organization for Economic Co-operation and Development (OECD)</title>
+    <keyword>Database, Oracle, Certification, Exam, Examination, Study Guide, Practice, Learn</keyword>
+    <dated>2003-10-16T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dnreal/html/realworld03112005.asp</uri>
+    <title>Pablo Castro pablocas@microsoft.com: Managed Data Access Inside SQL Server with ADO.NET and SQLCLR</title>
+    <dated>2005-04-25T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>parasoft.com/jsp/products/article.jsp?articleId=579&amp;product=Jtest</uri>
+    <title>Parasoft: Design by Contract (Dbc)</title>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>csharpsweden.com/content.aspx?showID=900</uri>
+    <title>Patrik Lowendahl: SQL Server Enumerator class</title>
+    <dated>2003-03-31T17:30:57.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>123aspx.com/redir.aspx?res=29803</uri>
+    <title>Paul Delcogliano: Add Client-Side Script Code</title>
+    <keyword>ASP.NET</keyword>
+    <dated>2003-03-10T11:29:20.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>dilascia.com</uri>
+    <title>Paul DiLascia</title>
+    <dated>2003-04-09T08:14:37.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>nwalsh.com/docs/tutorials/xsl/xsl/slides.html</uri>
+    <title>Paul Grosso and Norman Walsh: XSL Concepts and Practical Use</title>
+    <dated>2003-04-10T19:46:33.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>osborne.com/products/0072224177/0072224177_ch01.pdf</uri>
+    <title>Paul Kimmel: Advanced C# Programming - Chapter 1</title>
+    <keyword>Paul Kimmel, Advance, C#, Program</keyword>
+    <dated>2002-09-12T08:24:34.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>osborne.com</uri>
+    <title>Paul Kimmel: Advanced C# Programming ISBN: 0-07-222417-7</title>
+    <keyword>C#</keyword>
+    <dated>2002-09-09T05:19:29.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>perfectxml.com</uri>
+    <title>PerfectXML.com</title>
+    <dated>2002-07-13T12:12:27.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>oreilly.com/catalog/csharpnut2</uri>
+    <title>Peter Drayton, Ben Albahari, Ted Neward: C# in a Nutshell ISBN 0-596-00526-1</title>
+    <dated>2003-11-25T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dndotnet/html/hawkremoting.asp</uri>
+    <title>Piet Obermeyer and Jonathan Hawkins: .NET Remoting - A Technical Overview</title>
+    <keyword>Microsoft, .NET Remoting</keyword>
+    <dated>2002-08-16T04:12:50.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>xml.org/xml/xslt_efficient_programming_techniques.pdf</uri>
+    <title>Prathit Bondre: XSLT Efficient Programming Techniques</title>
+    <dated>2003-02-24T09:44:03.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/Dnbda/html/Bdadotnetarch031.asp</uri>
+    <title>Priya Dhawan: Performance Comparison: Data Access Techniques Building Distributed Applications with Microsoft .NET</title>
+    <dated>2002-07-11T08:45:03.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>dotnetexperts.com/resources/chapters/ProC09.pdf</uri>
+    <title>Professional C# - Second Edition: Chapter 9 - Data Access with .NET</title>
+    <keyword>C#, .NET, Data</keyword>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>oreilly.com/catalog/progaspdotnet/chapter/ch14.html</uri>
+    <title>Programming ASP.NET: Chapter 14: Custom and User Controls</title>
+    <keyword>ASP.NET, Custom and User Controls</keyword>
+    <dated>2002-09-19T21:06:37.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>gutenberg.net</uri>
+    <title>Project Gutenberg</title>
+    <keyword>ASP.NET, Custom and User Controls</keyword>
+    <dated>2004-02-19T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>gutenberg.net/browse/BIBREC/BR5739.HTM</uri>
+    <title>Project Gutenberg: Korean - English Dictionary</title>
+    <dated>2004-02-28T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>gutenberg.net/browse/BIBREC/BR10681.HTM</uri>
+    <title>Project Gutenberg: Roget's Thesaurus of English Words and Phrases</title>
+    <keyword>ASP.NET, Custom and User Controls</keyword>
+    <dated>2004-02-24T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>gutenberg.net/browse/BIBREC/BR660.HTM</uri>
+    <title>Project Gutenberg: Webster's Unabridged Dictionary Section A and B</title>
+    <dated>2004-02-19T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>gutenberg.net/browse/BIBREC/BR661.HTM</uri>
+    <title>Project Gutenberg: Webster's Unabridged Dictionary Section C</title>
+    <dated>2004-02-28T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>gutenberg.net/browse/BIBREC/BR662.HTM</uri>
+    <title>Project Gutenberg: Webster's Unabridged Dictionary Section D and E</title>
+    <dated>2004-02-28T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>gutenberg.net/browse/BIBREC/BR663.HTM</uri>
+    <title>Project Gutenberg: Webster's Unabridged Dictionary Section F, G and H</title>
+    <dated>2004-02-28T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>gutenberg.net/browse/BIBREC/BR664.HTM</uri>
+    <title>Project Gutenberg: Webster's Unabridged Dictionary Section I, J, K and L</title>
+    <dated>2004-02-28T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>gutenberg.net/browse/BIBREC/BR665.HTM</uri>
+    <title>Project Gutenberg: Webster's Unabridged Dictionary Section M, N and O</title>
+    <dated>2004-02-28T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>gutenberg.net/browse/BIBREC/BR666.HTM</uri>
+    <title>Project Gutenberg: Webster's Unabridged Dictionary Section P and Q</title>
+    <dated>2004-02-28T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>gutenberg.net/browse/BIBREC/BR667.HTM</uri>
+    <title>Project Gutenberg: Webster's Unabridged Dictionary Section R</title>
+    <dated>2004-02-28T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>gutenberg.net/browse/BIBREC/BR668.HTM</uri>
+    <title>Project Gutenberg: Webster's Unabridged Dictionary Section S</title>
+    <dated>2004-02-28T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>gutenberg.net/browse/BIBREC/BR669.HTM</uri>
+    <title>Project Gutenberg: Webster's Unabridged Dictionary Section S, T, U, V and W</title>
+    <dated>2004-02-28T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>gutenberg.net/browse/BIBREC/BR670.HTM</uri>
+    <title>Project Gutenberg: Webster's Unabridged Dictionary Section X, Y and Z</title>
+    <dated>2004-02-28T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>refactoring.com</uri>
+    <title>Refactoring with Martin Fowler</title>
+    <keyword>SQL Server</keyword>
+    <dated>2003-04-25T13:34:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>regex.info</uri>
+    <title>regex.info with Jeffrey E. F. Friedl</title>
+    <keyword>SQL Server</keyword>
+    <dated>2003-11-18T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>regexlib.com</uri>
+    <title>Regular Expression Library</title>
+    <keyword>Regular Expression, Regex</keyword>
+    <dated>2002-09-25T10:00:01.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>renderx.com/Tests/doc/html/tutorial.html</uri>
+    <title>RenderX: Using XSL FO with XEP 3.0 (html)</title>
+    <keyword>Regular Expression, Regex</keyword>
+    <dated>2003-02-18T22:45:49.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>renderx.com/Tests/doc/fo/tutorial.pdf</uri>
+    <title>RenderX: Using XSL FO with XEP 3.0 (PDF)</title>
+    <keyword>Regular Expression, Regex</keyword>
+    <dated>2003-02-18T22:45:49.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dndotnet/html/dotnetgcbasics.asp</uri>
+    <title>Rico Mariani: Garbage Collector Basics and Performance Hints</title>
+    <dated>2003-09-30T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>robhoward.net</uri>
+    <title>Rob Howard</title>
+    <dated>2003-09-23T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>Rob-Howard.net</uri>
+    <title>Rob-Howard.net</title>
+    <dated>2004-01-24T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>xml.com/pub/at/16</uri>
+    <title>Robert DuCharme: Transforming XML</title>
+    <dated>2003-04-10T19:46:33.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>rollthunder.com</uri>
+    <title>RollThunder.com with David Platt</title>
+    <dated>2003-01-27T09:29:14.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>oreilly.com/catalog/xsltckbk</uri>
+    <title>Sal Mangano: XSLT Cookbook (O'Reilly ISBN 0-596-00372-2)</title>
+    <keyword>logfile analysis</keyword>
+    <dated>2003-02-24T09:23:33.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>oreilly.com/catalog/xsltckbk/chapter/ch07.pdf</uri>
+    <title>Sal Mangano: XSLT Cookbook (O'Reilly ISBN 0-596-00372-2) Chapter 7 Querying XML</title>
+    <keyword>logfile analysis</keyword>
+    <dated>2003-02-27T16:19:06.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>samgentile.com</uri>
+    <title>Sam Gentile</title>
+    <keyword>logfile analysis</keyword>
+    <dated>2003-04-25T13:34:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>aspalliance.com/stevesmith/articles/ScheduledEmailReports.asp</uri>
+    <title>Scheduled Email Reports by Steven Smith</title>
+    <keyword>Schedule, Steven Smith, e-mail</keyword>
+    <dated>2002-07-13T12:20:33.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/asp.net/?pull=/library/en-us/dnaspp/html/aspnet-pageablesortable.asp</uri>
+    <title>Scott Mitchell: Creating a Pageable, Sortable DataGrid</title>
+    <dated>2003-09-23T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/asp.net/default.aspx?pull=/library/en-us/dnaspp/html/GridViewEx.asp</uri>
+    <title>Scott Mitchell: GridView Examples for ASP.NET 2.0</title>
+    <dated>2005-05-09T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>sellsbrothers.com</uri>
+    <title>SellsBrothers.com</title>
+    <dated>2003-04-20T14:45:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>c-sharpcorner.com/Code/2002/Mar/CreateSQLDBusingSQLDMOSB.asp</uri>
+    <title>Shantanu Bhattacharya: Creating a SQL Server Database Programmatically using SQLDMO</title>
+    <keyword>Database, SQL-DMO, Script, Shantanu Bhattacharya</keyword>
+    <dated>2002-08-16T19:05:37.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>simonrobinson.com</uri>
+    <title>Simon Robinson</title>
+    <dated>2003-04-08T15:23:08.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>simonstl.com</uri>
+    <title>Simon St. Laurent</title>
+    <keyword>XML</keyword>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>sinorama.com.tw</uri>
+    <title>Sinorama</title>
+    <keyword>XML</keyword>
+    <dated>2003-01-02T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>snee.com</uri>
+    <title>Snee.com with Bob DuCharme</title>
+    <dated>2003-02-17T07:28:20.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>SoftwareLegends.com</uri>
+    <title>SoftwareLegends.com</title>
+    <keyword>Chart, FX</keyword>
+    <dated>2003-11-18T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>solidqualitylearning.com</uri>
+    <title>Solid Quality Learning</title>
+    <keyword>SQL Server</keyword>
+    <dated>2003-04-25T13:34:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>sqldev.net</uri>
+    <title>SQL Server Developers Network (SQLDev.Net) with Gert E.R. Drapers</title>
+    <keyword>SQL, DMO, Distributed Management Object, C#</keyword>
+    <dated>2003-04-11T23:22:03.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>sqlmag.com</uri>
+    <title>SQL Server Magazine</title>
+    <dated>2003-03-10T12:36:16.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>sql.co.il</uri>
+    <title>SQL Server Users Group (Israel) with Itzik Ben-Gan</title>
+    <keyword>SQL Server</keyword>
+    <dated>2003-04-25T13:34:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dnvs05/html/masterpages.asp</uri>
+    <title>Stephen Walther: Master Pages in ASP.NET 2.0</title>
+    <dated>2005-08-03T20:03:26.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>steve.orr.net</uri>
+    <title>Steve C. Orr</title>
+    <keyword>Steema, Software, SDK, Chart</keyword>
+    <dated>2003-11-02T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>oreilly.com/catalog/orxmlapp/chapter/ch07.html</uri>
+    <title>Steve Muench: Building Oracle XML Applications (ISBN 1-56592-691-9) Chapter 7 Transforming XML with XSLT</title>
+    <dated>2003-04-10T19:46:33.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dnexxml/html/xml03172003.asp</uri>
+    <title>Steve Saxon: XPath Querying Over Objects with ObjectXPathNavigator</title>
+    <dated>2003-04-10T19:46:33.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>stevenfeuerstein.com</uri>
+    <title>Steven Feuerstein</title>
+    <dated>2003-03-23T12:47:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>SuperExpert.com</uri>
+    <title>SuperExpert.com with Stephen Walther</title>
+    <dated>2005-08-03T20:45:11.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dnaspnet/html/asp01242002.asp</uri>
+    <title>Susan Warren: A Matter of Context</title>
+    <dated>2003-03-27T20:25:24.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>swarren.net/CustomControls.doc</uri>
+    <title>Susan Warren: Creating Custom ASP.NET Controls in VS.NET</title>
+    <dated>2003-04-01T20:19:25.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>swarren.net</uri>
+    <title>Susan Warren: Susan Warren Program Manager, Microsoft ASP.NET Team swarren@microsoft.com</title>
+    <dated>2003-03-18T21:04:27.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>harcourt-international.com/e-books/pdf/382.pdf</uri>
+    <title>Syngress: Building an ASP.NET/ADO.NET Shopping Cart with Web Services</title>
+    <keyword>Syngress, ASP.NET, ADO.NET, Shopping Cart, Web Services</keyword>
+    <dated>2002-09-19T21:09:31.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>publish.gio.gov.tw</uri>
+    <title>Taiwan Review</title>
+    <dated>2003-11-14T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>june29.com/IDP/IDPfiles.html</uri>
+    <title>The Internet Dictionary Project</title>
+    <keyword>Dictionary, Language, Translation</keyword>
+    <dated>2002-08-04T01:56:57.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dnexxml/html/xml06172002.asp</uri>
+    <title>Things to Know and Avoid When Querying XML Documents with XPath by Dare Obasanjo Microsoft Corporation</title>
+    <keyword>Microsoft, Dare, Obasanjo, XML, XPath</keyword>
+    <dated>2002-08-01T10:21:53.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>15seconds.com/issue/040407.htm</uri>
+    <title>Thiru Thangarathinam: Reusable Components in ASP.NET 2.0, Object Binding and Precompilation</title>
+    <dated>2005-04-29T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dnaspp/html/monitor_perf.asp</uri>
+    <title>Thomas Marquardt: ASP.NET Performance Monitoring, and When to Alert Administrators</title>
+    <dated>2003-03-31T17:32:27.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>thoughtworks.com</uri>
+    <title>ThoughtWorks with Martin Fowler</title>
+    <keyword>SQL Server</keyword>
+    <dated>2003-04-25T13:34:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>todai.com</uri>
+    <title>Todai</title>
+    <dated>2003-09-22T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>topxml.com/dotnet/articles/xslt/default.asp</uri>
+    <title>TopXML.com: XSLT and ASP.NET</title>
+    <keyword>XSLT</keyword>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>toyota.com</uri>
+    <title>Toyota</title>
+    <dated>2003-10-18T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>universalthread.com</uri>
+    <title>Universal Thread</title>
+    <dated>2003-01-27T09:18:01.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>oreilly.com/catalog/netgotchas</uri>
+    <title>Venkat Subramaniam: .NET Gotchas 75 Ways to Improve Your C# and VB.NET Programs</title>
+    <dated>2005-07-29T21:24:46.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>vslive.com/2003/sf/chapters/ASPNutshell.pdf</uri>
+    <title>vslive.com: ASP.NET Server Controls</title>
+    <dated>2003-01-20T10:04:13.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>Wassmer.org</uri>
+    <title>Wassmer.org</title>
+    <dated>2002-11-24T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>oreilly.com/catalog/aspnetadn</uri>
+    <title>Wei-Meng Lee: ASP.NET 2.0: A Developer's Notebook</title>
+    <dated>2005-07-27T01:00:00.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>vslive.com/2002/sf/Chapter_1-2.pdf</uri>
+    <title>William R. Vaughn with Peter Blackburn: ADO.NET Examples and Best Practices for C# Programmers, Second Edition ISBN # 1-59059-012-0 Introducing ADO.NET</title>
+    <dated>2003-04-03T20:33:48.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>WorldJournal.com</uri>
+    <title>WorldJournal.com</title>
+    <keyword>w3.org</keyword>
+    <dated>2003-11-02T00:00:00.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>xmlforasp.net</uri>
+    <title>Xml for ASP.NET with Dan Wahlin</title>
+    <dated>2003-01-20T11:02:36.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>aspalliance.com/chapters/xmlforaspnet/chapter7.pdf</uri>
+    <title>Xml for ASP.NET with Dan Wahlin: Transforming XML with XSLT and ASP.NET</title>
+    <keyword>Xml, ASP.NET, Transform, XSLT</keyword>
+    <dated>2002-09-19T21:10:23.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>msdn.microsoft.com/library/default.asp?url=/library/en-us/dnsql90/html/sql2k5xmloptions.asp</uri>
+    <title>XML Options in Microsoft SQL Server 2005</title>
+    <dated>2005-07-19T17:53:06.0000000-07:00</dated>
+  </URIWORDENGINEERING>
+  <URIWORDENGINEERING>
+    <uri>xml.com</uri>
+    <title>Xml.com</title>
+    <dated>2003-03-17T15:14:48.0000000-08:00</dated>
+  </URIWORDENGINEERING>
+</URI>

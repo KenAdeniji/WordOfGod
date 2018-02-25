@@ -1,0 +1,92 @@
+<%@ Page 
+ Language="C#" 
+%>
+ 
+<html>
+ <head>
+  <title>Contact GridView</title>
+ </head>
+ <body>
+ 
+  <form 
+  	id="frmContactMgr"
+  	runat="server">
+  	
+       <asp:SQLDataSource 
+        RunAt="server"
+        ID="SqlDataSourceContact" 
+        ConnectionString="Provider=SQLOLEDB;server=comfort;database=WordEngineering;Trusted_Connection=True;Integrated Security=SSPI;"
+        ProviderName="System.Data.OleDb"        
+        SelectCommand="SELECT * FROM [authors]"        
+        UpdateCommand="UPDATE [authors] SET [au_lname] = @au_lname, [au_fname] = @au_fname, [phone] = @phone, [address] = @address, [city] = @city, [state] = @state, [zip] = @zip, [contract] = @contract WHERE [au_id] = @original_au_id"
+       > 
+
+	       <UpdateParameters>
+	       
+		       	<asp:Parameter Name="SequenceOrderId" Type="Decimal"/>		       	
+		       			       	
+	       </UpdateParameters>
+              
+       </asp:SQLDataSource> 
+
+
+       <asp:ObjectDataSource 
+        RunAt="server"
+        ID="ObjectDataSourceContact" 
+		typename="WordEngineering.contactMgrDBAccess"
+		SelectMethod="getContacts"
+		UpdateMethod="updateContact"		
+       > 
+
+	       <UpdateParameters>
+	       
+		       	<asp:Parameter Name="SequenceOrderId" Type="Decimal"/>		       	
+		       			       	
+	       </UpdateParameters>
+              
+       </asp:ObjectDataSource> 
+       
+                     
+       <asp:GridView 
+        RunAt="server" 
+        ID="GridViewContact"
+        DataSourceID="ObjectDataSourceContact" 
+        AutoGenerateColumns="false"
+        AutoGenerateEditButton="true"
+        DataKeyNames="SequenceOrderId"            
+       >
+       
+       		<Columns>
+
+	   		<asp:BoundField
+	   			DataField="SequenceOrderId"
+	   			ReadOnly="true"
+	   			Visible="True"
+			/>	   				   
+			
+			
+	   		<asp:BoundField
+	   			DataField="FirstName"
+	   			ReadOnly="false"
+			/>	   				
+
+	   		<asp:BoundField
+	   			DataField="LastName"
+	   			ReadOnly="false"
+			/>	   				
+			
+	   		<asp:BoundField
+	   			DataField="Company"
+	   			ReadOnly="false"
+			/>	   							
+			       		
+       		</Columns>
+       		                
+       </asp:GridView>        
+                	
+  >
+  
+  </form>
+  
+ </body>
+</html>

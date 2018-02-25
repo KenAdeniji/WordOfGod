@@ -1,0 +1,1625 @@
+.NET 101|http://dotnet101.com
+.NET Advocacy Discussions Lists|http://discuss.develop.com/dotnet-advocacy.html
+.NET Brain Droppings|http://radio.weblogs.com/0111077/
+.NET Dashboard with Michele Leroux Bustamante|http://www.dotnetdashboard.com
+.NET Developer's Journal|http://www.dotnetdevelopersjournal.com
+.NET Developers Association|http://www.netda.net
+.NET Distribution List|http://discuss.develop.com/dotnet.html
+.NET Framework Frequently Asked Questions by Andy McMullan|http://www.andymcm.com/dotnetfaq.htm
+.NET MySingapore|http://www.BigTrum_pet.com
+.NET P2P: Writing Peer-to-Peer Networked Apps with the Microsoft .NET Framework Lance Olson |http://msdn.microsoft.com/msdnmag/issues/01/02/netpeers/netpeers.asp
+.NET User Group of Guam|http://www.guam-asp.net
+.NET Wire|http://dotnetwire.com
+.netExperts|http://www.dotnetexperts.com
+.netPlus|http://www.msjogren.net/dotnet/eng/default.asp
+123aspx.com|http://www.123aspx.com
+411 ASP.Net|http://www.411asp.net
+A List Apart|http://www.alistapart.com
+A Tale of Two Authors with Dave Sussman & Alex Homer|http://www.daveandal.com
+Aaron Skonnard|http://www.skonnard.com
+Aaron Skonnard: Designing XML Schema Libraries|http://msdn.microsoft.com/webservices/understanding/xmlfundamentals/default.aspx?pull=/library/en-us/dnxml/html/desxsdlib.asp
+Aaron Skonnard: Extending XSLT with JScript and .NET|http://staff.develop.com/aarons/dmbits/xslt-and-scripting.zip
+Aaron Skonnard: Understanding XML Schema|http://msdn.microsoft.com/webservices/understanding/xmlfundamentals/default.aspx?pull=/library/en-us/dnxml/html/understandxsd.asp
+Aaron Skonnard: XML Files XPath Selections and Custom Functions|http://msdn.microsoft.com/msdnmag/issues/03/02/XMLFiles/
+Aaron Skonnard: XSLT, HTML, and Dynamic Sorting|http://staff.develop.com/aarons/dmbits/
+Aaron Skonnard: XSLT-based DHTML Menu Builder|http://staff.develop.com/aarons/dmbits/dynamic-sort.zip
+Abderaware {Fine Art for .NET} with Zane Thomas|http://www.abderaware.com
+Abderaware with Zane Thomas: Programming Sockets With .NET|http://www.abderaware.com/download/ssdotnet.zip
+About.com: Cascading Style Sheet (CSS)|http://html.about.com/cs/css
+ABS|http://b5www.berkom.de/ABS/
+AcronymFinder.com|http://www.acronymfinder.com
+ActionJackson.com|http://www.actionjackson.com
+Active State Tool Corp|http://www.activestate.com
+ActiveZ.com (in Turkish)|http://activez.cu.edu.tr
+ADBusters.org|http://www.ADBusters.org
+Addison Wesley: Patterns|http://www-aw.com/Patterns
+Addison-Wesley & Benjamin Cummings|http://www.aw.com
+Addison-Wesley & Benjamin Cummings: Sample Chapter|http://www.aw.com/samplechapter
+Addison-Wesley Professional: Microsoft .NET Series|http://www.awprofessional.com/msdotnetseries
+Admin911.com|http://www.Admin911.com
+Adobe: Acrobat FDF Toolkit - Version 5|http://partners.adobe.com/asn/developer/acrosdk/forms.html
+Adobe: Acrobat FDF Toolkit Version 5 (Software)|http://partners.adobe.com/asn/developer/acrosdk/fdftk/fdftkv5win.zip
+Adobe: FDF Toolkit Overview and Reference|http://partners.adobe.com/asn/developer/acrosdk/docs/fdftk/FDFtkRef.pdf
+Adobe: January/February 2000 More Scripts to Support Your PDF Web Forms|http://www.adobe.com/products/adobemag/archive/0001mg1.html
+Adobe: Scalable Vector Graphics (SVG) 3.0 viewer plug-in|http://www.adobe.com/svg
+Adobe: Scalable Vector Graphics (SVG) 3.0 Viewer Plug-in (Software)|http://download.adobe.com/pub/adobe/magic/svgviewer/win/3.x/3.0/en/SVGView.exe
+Adobe: SVG|http://www.adobe.com/svg/
+Adobe: The Form Revolution, Part II|http://www.adobe.com/products/adobemag/archive/pdfs/0001htmg.pdf
+Adobe: The Form Revolution, Part II (Software)|http://download.adobe.com/pub/adobe/acrobat/win/3.x/pizzaasp.exe
+Advanced Computer & Network|http://www.acnc.com
+Advisor Academy|http://www.advisoracademy.com
+Advisor Media: Access-VB-SQL Advisor Magazine|http://accessvbsqladvisor.com
+Advisor.NET Seminars|http://www.advisor.com/seminars
+aidslifecycle.org|http://www.aidslifecycle.org
+Akeel I. Din: Structured Query Language (SQL) A Practical Introduction|http://www.managedtime.com/freesqlbook.php3
+Alan Turing|http://www.turing.org.uk
+Alex Lowe|http://www.aspalliance.com/aldotnet
+Algorithmic Information Theory with Gregory J. Chaitin|http://www.cs.auckland.ac.nz/CDMTCS/Chaitin
+AllAPI|http://www.allapi.net
+Allen Jones C# Programmer's Cookbook ISBN 0-7356-1930-1|http://www.microsoft.com/mspress/books/6456.asp
+Altavista: Babel Fish Translation|http://babelfish.altavista.com
+Altova|http://www.altova.com
+AmberPoint|http://www.amberpoint.com
+American Association of Community Colleges|http://www.aacc.nche.edu
+American Tract Society Dictionary|http://www.heraldmag.org/olb/dictionaries/1AMTRACT.htm
+Amine Moulay Ramdane: Perl for Win32 Modules|http://www.generation.net/~aminer/perl
+Amitabh Srivastava and Edward Jezierski: Monitoring in .NET Distributed Application Design|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnbda/html/monitordotnet.asp
+Amzi|http://www.amzi.com
+analog.cx|http://www.analog.cx
+Anders Hejlsberg: Introduction to C#|http://www.ecma-international.org/activities/Languages/Introduction%20to%20Csharp.pdf
+Andrew Solomon: The Noonday Demon|http://www.noondaydemon.com
+Andrew Troelsen: Advanced C# Class Construction Techniques|http://www.intertech-inc.com/DOWNLOADS/Chapters/CSharp.pdf
+Andrew Troelsen: COM-to-.NET Interoperability|http://www.intertech-inc.com/DOWNLOADS/Chapters/Inter.pdf
+Andy McMullan: C# Frequently Asked Questions for C++ programmers|http://www.andymcm.com/csharpfaq.htm
+Angela Crocker, Andy Olsen, Edward Jezierski: Designing Data Tier Components and Passing Data Through Tiers|http://msdn.microsoft.com/library/en-us/dndba/html/BOAGag.asp
+Angoss: OLE DB for Data Mining Consumer Controls|http://go.microsoft.com/fwlink/?LinkId=9610
+AngryCoder.com|http://www.angrycoder.com
+Ann Navarro, Chuck White, and Linda Burman: Content Management with XML A Dell Case Study|http://www.tibco.com/resources/solutions/products/2266ch29.pdf
+Antenna House: How to Develop Stylesheets for XML to XSL-FO Transformation|http://www.antenna.co.jp/XML/downfree/howtoRC/Howtodevelop-en.pdf
+Apache|http://www.apache.org
+Apache Software Foundation: FOP|http://xml.apache.org/fop/index.html
+Apache Software Foundation: FOP Running|http://xml.apache.org/fop/running.html
+Apache Software Foundation: XALAN-C++|http://xml.apache.org/xalan-c/
+Apache: Directives|http://httpd.apache.org/docs-2.0/mod/directives.html
+Apache: FOP fop-0.20.5rc2-src.tar.gz|http://xml.apache.org/dist/fop/fop-0.20.5rc2-src.tar.gz
+Apache: Getting Started with Xalan-C++|http://xml.apache.org/xalan-c/getstarted.html
+Apache: Win32 Download|http://www.apache.org/dist/httpd/binaries/win32
+Apache: Xalan-C 1.4|http://xml.apache.org/dist/xalan-c/Xalan-C_1_4-win32.zip
+Apache: Xalan-C++ Command-Line Utility|http://xml.apache.org/xalan-c/commandline.html
+Apache: Xerces-C++ 2.1 32 bit Binary for Windows|http://xml.apache.org/dist/xerces-c/stable/archives/Xerces-C_2_1_0/xerces-c2_1_0-win32.zip
+Apache: Xerces-C++ 2.2 32 bit Binary for Windows|http://xml.apache.org/dist/xerces-c/stable/xerces-c2_2_0-win32.zip
+Application Security|http://www.appsecinc.com
+Arab Film Festival|http://www.aff.org
+ArchitectingWebServices.com - William Oellerman|http://www.architectingwebservices.com
+Aristeia.com|http://www.Aristeia.com
+ASCII Control Code|http://www.asciitable.com
+Asian Journal|http://www.asianjournal.com
+ASP Enterprise Manager|http://www.aspenterprisemanager.com
+ASP Today|http://www.asptoday.com
+ASP.NET Heaven|http://www.aspdotnetheaven.com
+asp.pagina.nl|http://asp.pagina.nl
+ASPAdvice.com|http://www.aspadvice.com
+ASPAlliance|http://www.aspalliance.com
+Aspect.com|http://www.Aspect.com
+AspElite.com|http://www.aspelite.com
+AspFaq.com|http://www.AspFaq.com
+ASPFree|http://www.aspfree.com
+aspGuys|http://www.aspguys.com
+ASPNET-Solutions.com with Rick Leinecker|http://www.ASPNET-Solutions.com
+ASPNG|http://www.aspng.com
+ASPRSS.com|http://www.asprss.com
+ASPSmith|http://www.aspsmith.com
+ASPSoft.com|http://www.aspsoft.com
+ASPtechnology.com|http://www.asptechnology.com
+ASPWire|http://www.aspwire.com
+ASPWorkshops.com with Stephen Walther|http://www.aspWorkshops.com
+Astronomy.com|http://www.Astronomy.com
+AT&T Laboratories Cambridge: VNC|http://www.uk.research.att.com/vnc
+Atom Films|http://www.atomfilms.com
+Austin Sierra Technologies|http://www.austinsierra.com
+Balanced ScoreCard Collaborative|http://www.bscol.org
+Barry Cornelius: A Taste of C#|http://www.dur.ac.uk/barry.cornelius/Java/a.taste.of.csharp/
+Barry Cornelius: Design of Classes|http://www.dur.ac.uk/barry.cornelius/java/classes.design/
+Barry Cornelius: From C++ to C#|http://www.dur.ac.uk/barry.cornelius/Java/from.cpp.to.csharp/master.pdf
+Barry Cornelius: Web Forms and Web Services|http://www.dur.ac.uk/barry.cornelius/java/web.services
+Bart De Smet|http://www.bartdesmet.net
+Batik: SVG Rasterizer|http://xml.apache.org/batik/svgrasterizer.html
+Bayes|http://www.bayes.co.uk
+Bayes: Xml|http://www.bayes.co.uk/xml
+BayLibraries.org |http://baylibraries.org
+BBBOnline|http://www.bbbOnline.com
+Bederson: C# for Programmers|http://www.cs.umd.edu/~bederson/classes/cmsc498b/lecture-notes/csharp.pdf
+BeginningDotNet.com|http://www.beginningdotnet.com
+BellsNWhistles|http://www.bellsnwhistles.com
+Benug.be|http://www.benug.be
+Best Christian Workplaces Institute|http://www.bcwinstitute.org
+Beta V|http://www.betav.com
+Beverly Hills Software BHS.com|http://www.BHS.com
+BeyondAllLimits.org|http://www.BeyondAllLimits.org
+Bible Foundation: Ashley S. Johnson's Condensed Biblical Cyclopedia|http://www.bf.org/etexts/bstudy/cbe_olb.zip
+Bible Foundation: e-Text Library|http://www.bf.org/bfetexts.htm
+Bible Foundation: Easton's 1897 Bible Dictionary|http://www.bf.org/etexts/bstudy/easton.zip
+Bible Foundation: James Strong's Exhaustive Concordance Dictionaries of Hebrew and Greek Words|http://www.bf.org/etexts/bstudy/str4olbd.zip
+Bible Foundation: Matthew Henry's Concise Commentary on the Whole Bible|http://www.bf.org/etexts/bstudy/mhc.zip
+Bible Foundation: Nave's Topical Bible.|http://www.bf.org/etexts/bstudy/naves.zip
+Bible Foundation: The New Topical Textbook|http://www.bf.org/etexts/bstudy/torrey.zip
+BibleDatabase.org|http://bibledatabase.com/free_bible_software.htm
+BibleDatabase.org: Biblical Names (meaning of) |http://hole-in-one-golftours.com/bibledatabase/b_names.exe
+BibleDatabase.org: Easton's Bible Dictionary|http://www.murtonsys.com/bibledatabase/b_eastons.exe
+BibleDatabase.org: John Wesley's Bible Notes |http://bibledatabase.net/exec/b_wesley.exe
+BibleDatabase.org: Map Pack #1 Maps and Archaeological findings of Biblical interest (40 maps in map Pack 1-3)|http://www.walnutchristian.org/bibledatabase/b_maps1.exe
+BibleDatabase.org: Map Pack #2 Maps and Archaeological findings of Biblical interest (40 maps in map Pack 1-3)|http://hole-in-one-golftours.com/bibledatabase/b_maps2.exe
+BibleDatabase.org: Map Pack #3 Maps and Archaeological findings of Biblical interest (40 maps in map Pack 1-3)|http://noothergods.com/bibledatabase/b_maps3.exe
+BibleDatabase.org: Matthew Henry Commentary (MHC) |http://www.bibledatabase.net/exec/b_mh.exe
+BibleDatabase.org: Peoples New Testament (PNT) Commentary |http://fishthenet.org/bibledatabase/b_pnt.exe
+BibleFind|http://www.biblefind.com
+BibleWorks.com|http://www.bibleWorks.com
+Bill Evjen: ASP.NET Professional Secrets|http://www.wiley.com/compbooks/evjen
+Bill Evjen: Xml Web Service for ASP.NET|http://www.wiley.com/extras/xml_web_services_asp_net/
+Bill Evjen: Xml Web Service for ASP.NET (source code)|http://www.wiley.com/extras/xml_web_services_asp_net/XMLWS.zip
+Bill Hamilton, Matthew MacDonald: ADO.NET in a Nutshell ISBN 0-596-00361-7 Chapter 12: DataViews and Data Binding|http://www.oreilly.com/catalog/adonetian/chapter/ch12.pdf
+Bio.com|http://www.Bio.com
+Bio.org|http://www.Bio.org
+BioSpace.com|http://www.BioSpace.com
+BioTech.org|http://www.BioTech.org
+BioView.com|http://www.BioView.com
+Black Hat|http://www.blackhat.com
+Blogs.MSDN.com|http://Blogs.MSDN.com
+Blue Robot|http://www.bluerobot.com
+Bob DuCharme: XSLT Quickly ISBN: 1-930110-11-1|http://www.snee.com/xsltquickly
+Boost.net with Peter Blackburn|http://www.boost.net
+Brazil Network|http://www.brazilnetwork.org
+BrazilExplore.com|http://www.BrazilExplore.com
+Breese Foundation|http://www.breese.org
+Brett Middleton: Direct Output To Another File|http://cwashington.netreach.net/depo/view.asp?Index=9&ScriptType=command
+Brett Middleton: Set Environment Variables With Date 2|http://cwashington.netreach.net/depo/view.asp?Index=20&ScriptType=command
+Brett Middleton: Set Environment Variables With Date1|http://cwashington.netreach.net/depo/view.asp?Index=19&ScriptType=command
+Brett Middleton: Set Or Clear A Group Of Environment Variables|http://cwashington.netreach.net/depo/view.asp?Index=21&ScriptType=command
+Brian Bischof: Crystal Reports for .NET|http://www.crystalreportsbook.com
+BrilliantStorm|http://www.brilliantstorm.com
+Buczek: ASP.NET Developer's Guide - ASP.NET Language Structure|http://www.osborne.com/products/0072192887/0072192887_ch01.pdf
+Buczek: Instant ASP.NET - Introduction to ASP.NET|http://www.osborne.com/products/0072192917/0072192917_ch01.pdf
+Bug Tracker - Build a Configurable Web-Based Bug Management Tool Using ADO.NET, XML, and XSLT; by Roy Margolis; published by MSDN Magazine July 2002 Volume 17 No 7|http://msdn.microsoft.com/msdnmag
+Business Process Management Initiative|http://www.bpmi.org
+ByteFX ADO.NET Database Driver|http://sourceforge.net/projects/MySQLNet/
+C# Today|http://www.csharptoday.com
+C# Web Services: Building Web Services with .NET Remoting and ASP.NET|http://www.aspalliance.com/chapters/1861004397/chap06.pdf
+C|Net's: Getting Started with Cascading Style Sheet (CSS)|http://builder.cnet.com/webbuilding/pages/authoring/css/index.html
+C2.com|http://www.C2.com
+CamiResearch.com: RS232|http://www.camiresearch.com/Data-Com-Basics/RS232-Standard.html
+Camiresearch.com: The RS232 Standard|http://www.camiresearch.com/Data_Com_Basics/EIA232_note.html
+Campus-germany.de|http://www.campus-germany.de
+Cape Clear CapeNetTool|http://www.capescience.com
+Cape Science|http://www.capescience.com
+Carl Åsman: Design Patterns|http://hem.passagen.se/gumby/cs/patterns.html
+Carl Zeiss|http://www.Zeiss.com
+Carlo Ghezzi Politecnico di Milano Dipartimento di Elettronica e Informazione Piazza Leonardo da ...: Fostering Component Evolution with C# Attributes|http://www.elet.polimi.it/Users/DEI/Sections/CompEng/Mattia.Monga/lib/iwpse02.pdf
+Carsten Thomsen: UserMan Database Programming with C#|http://www.userman.dk
+CCEL.org: Hitchcock's Bible Names Dictionary (HTML)|http://www.ccel.org/bible_names/bible_names.html
+CCEL.org: Hitchcock's Bible Names Dictionary (text)|http://www.ccel.org/bible_names/bible_names.txt
+CDOLive.net|http://www.CDOLive.net
+Cerberus-isc.com with Barry D. Lewis|http://www.Cerberus-isc.com
+Cetus: C#|http://www.cetus-links.org/oo_csharp.html
+CFDev.com|http://www.cfdev.com
+Charles Ashbacher|http://www.Ashbacher.com
+Charles Petzold|http://www.charlespetzold.com
+Charles River|http://www.charlesriver.com
+Charles Simon: COM Objects, C#, and the Microsoft Speech API|http://www.windevnet.com/documents/s=7545/win0209b
+Chicago .NET Users Group|http://www.cnug.org
+Chris Anderson: Real World Applications Sample, Part 1: Adding SDI, Single Instance, and a Forms Collection to Windows Forms |http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnwinforms/html/reaworapps1.asp
+Chris Brooks, Graeme Malcolm, Alex Mackman, Edward Jezierski: Application Blocks for .NET Data Access Application Block Overview|http://msdn.microsoft.com/downloads/default.asp?URL=/downloads/sample.asp?url=/msdn-files/027/001/942/msdncompositedoc.xml
+ChrisKempster.com|http://www.ChrisKempster.com
+Christianacare.org with George Christie|http://www.christianacare.org
+ChristianWritersGuild.com|http://www.ChristianWritersGuild.com
+ChuckJaffe@MarketWatch.com 70 Cohasset MA 02025-0070|mailto:ChuckJaffe@MarketWatch.com
+Claus Tondering: Calendars FAQ|http://www.pauahtun.org/calendarFAQ/cal/calendar24.pdf
+CLRGeeks.com|http://www.clrgeeks.com
+CMP Media: Windows Developer Magazine|http://www.wd-mag.com/
+cnet.com: Cascading Style Sheet (CSS)|http://home.cnet.com/webbuilding/0-7258.html?tag=st.bl.3880.dir.7258
+CoDE Magazine|http://www.devx.com/codemag/
+CodeProject.com|http://www.codeproject.com
+CodeProject.com: Bridge Pattern - Bridging the Gap between Interface and Implementation|http://www.codeproject.com/tips/bridge.asp
+CodeProject.com: Tips|http://www.codeproject.com/tips
+CollabNet|http://www.collab.net
+CollabNet: Developer Resources|http://www.collab.net/developers/resources/
+Community Aid Abroad: Mabo Its meaning for Australia|http://www.caa.org.au/publications/reports/MABO/
+Community Aid Abroad: The Mabo Judgement - Its Implications |http://www.caa.org.au/publications/reports/MABO/implications.html
+Community College Web|http://www.mcli.dist.maricopa.edu/cc
+Computer Arts|http://www.computerarts.co.uk
+Computer Sciences Department at the University of Wisconsin-Madison: AFPL Ghostscript 8.00 for Win32|ftp://mirror.cs.wisc.edu/pub/mirrors/ghost/AFPL/gs800/gs800w32.exe
+Computer Sciences Department at the University of Wisconsin-Madison: GSview, a graphical interface to Ghostscript|ftp://mirror.cs.wisc.edu/pub/mirrors/ghost/ghostgum/beta/gsv431w32.exe
+Compuware: DevPartner Profiler Community Edition 3019X20|http://offers.compuware.com
+ConnectionStrings.com|http://www.connectionstrings.com
+Construx Software with Steve McConnel|http://www.construx.com
+CoolConversations.com|http://www.CoolConversations.com
+Core Web Programming: XSLT|http://notes.corewebprogramming.com/student/XSLT.pdf
+CoverYourASP|http://www.coveryourasp.com
+CRCPress.com|http://www.crcpress.com
+CREdit|http://www.praven3.com/credit
+CReport.com|http://www.CReport.com
+Crisis Management with Stephen Fink|http://www.crisismanagement.com
+Cronolog.org|http://www.cronolog.org
+CSharpFriends.com|http://www.csharpfriends.com
+csharplint.com|http://www.csharplint.com/
+csharpsweden.com|http://www.csharpsweden.com
+cshrp.net|http://cshrp.net
+Current Medical Diagnosis & Treatment (CMDT)|http://www.current-med.com
+Dalian, China (Oakland's Sister City)|mailto:iolaj@berkeley.edu
+Dan Hurwitz: Top Ten Tips for Programming ASP.NET|http://www.oreillynet.com/pub/a/dotnet/2002/04/22/asptips.html
+Dan Wahlin: Create Efficient UIs - WebService behaviors make it easy to call a service, pass it parameters, and integrate returned data into a DHTML page|http://www.aspnetpro.com/features/2002/09/asp200209dw_f/asp200209dw_f.asp
+Dan Wahlin: Xml & Web Services Magazine: SVG: .NET Graphics|http://www.fawcette.com/xmlmag/2002_08/magazine/columns/dwahlin/
+DanielPipes.org|http://www.danielpipes.org
+Danny Goodman|http://www.dannyg.com
+Danny Goodman: Dynamic HTML: The Definitive Reference, 2nd Edition
+     Chapter 2: Cross-Platform Compromises (PDF Format)|http://www.oreilly.com/catalog/dhtmlref2/chapter/ch02.pdf
+Danny Goodman: Excerpts from the JavaScriptTM Bible (3rd Edition)|http://developer.netscape.com/docs/books/idg/jsbible/jsbible.html
+Dar-jen Chang: ADO.NET|http://www.louisville.edu/~djchan01/cecs640/ADO.pdf
+Dar-jen Chang: ASP.NET Server Controls|http://www.louisville.edu/~djchan01/cecs640/ASP2.pdf
+Dar-jen Chang: CECS640|http://www.louisville.edu/~djchan01/cecs640/
+Dar-jen Chang: Web Database Interface and Active Server Pages (ASP)|http://www.louisville.edu/~djchan01/cecs640/ASP1.pdf
+Darpa Agent Markup Language|http://www.daml.org
+Darshan Singh: Importing XML into SQL Server 2000|http://www.perfectxml.com/Articles/xml/importxmlsql.asp
+Data Access Accelerator Block -- C# (Software)|http://www.microsoft.com/downloads/release.asp?releaseid=35168
+Data Dynamics|http://www.datadynamics.com
+Database Tuning: Principles, Experiments, and Troubleshooting Techniques - Smooth Talking your Databases by Dennis E. Shasha, Philippe Bonnet|http://www.mkp.com/dbtune
+DatabaseJournal.com|http://www.databasejournal.com
+Dave Pawson|http://www.dpawson.co.uk
+Dave Roth: Win32 Perl Scripting The Administrator's Handbook|http://www.roth.net/books/handbook
+Dave Sussman & Alex Homer: Professional ASP.NET (ISBN: 1-861007-03-5)|http://www.daveandal.com/profaspnet
+David Berry: Using Cascading Style Sheets on Your Web Site|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnfp2k2/html/odc_fpusingcssonwebsite.asp
+David Carmona: Programming the Thread Pool in the .NET Framework|http://msdn.microsoft.com/library/?url=/library/en-us/dndotnet/html/progthrepool.asp?frame=true
+David Vitter|http://www.Vitter.com
+DBASupport.com|http://www.dbasupport.com
+Dedicated Systems Experts|http://www.dedicated-systems.com
+DenisBauer.com|http://www.denisbauer.com
+Dennis Forbes|http://www.yafla.com
+Dennis Forbes: .NET SVGs|http://www.yafla.com/papers/SVG/index.htm
+Dennis Forbes: Build Flexible, Lightweight XML-Based Images for ASP.NET Using Scalable Vector Graphics|http://msdn.microsoft.com/msdnmag/issues/03/07/ScalableVectorGraphics/default.aspx
+Dennis Forbes: Build Flexible, Lightweight XML-Based Images for ASP.NET Using Scalable Vector Graphics (Software)|http://download.microsoft.com/download/A/F/7/AF737510-D281-49DE-A1EE-5DDF696625AF/ScalableVectorGraphics.exe
+Dennis Forbes: High Performance Hierarchies|http://www.yafla.com/papers/sqlhierarchies/sqlhierarchies.htm
+Desktop Management Task Force (DMTF)|http://www.dmtf.org
+Dev Connections|http://www.devconnections.com
+DevASP|http://www.devasp.com
+DevASP.Net|http://www.devasp.net
+DevASP.net: How to Change the Page Title in ASP.NET using HtmlGenericControl()|http://www.devasp.net/net/articles/article.aspx?id=32
+DevAsp: ASP Server Variables|http://www.devasp.com/samples/ServerVariables.asp
+Develop.com CSharp (C#)|http://www.Develop.com/CSharp
+Develop.com with Aaron Skonnard|http://staff.develop.com/aarons
+Develop.com: Archives of ADVANCED-DOTNET@DISCUSS.DEVELOP.COM|http://discuss.develop.com/advanced-dotnet.html
+Develop.com: ASP.NET Debugging|http://www.develop.com/conferences/conferencedotnet/materials/W9.pdf
+Develop.com: Books|http://www.develop.com/books/
+Develop.com: Essential ASP.NET|http://www.develop.com/books/essentialasp.net
+Develop.com: Fritz Onion|http://staff.develop.com/onion
+Develop.com: Introduction to ASP.NET|http://www.develop.com/conferences/conferencedotnet/materials/A1.pdf
+Developer Box LLC|http://www.developerbox.com
+Developer Express|http://www.devexpress.com
+Developer Express: Free|http://www.devexpress.com/free
+DevelopersDex|http://www.Developersdex.com
+DevelopMentor|http://www.develop.com
+DevelopMentor Series Books|http://develop.com/devresources/bookdownload.aspx
+DevelopMentor: Resources|http://www.develop.com/resources
+Devhood.com|http://www.devhood.com
+Devhood.com:.Net Framework Training Modules|http://www.devhood.com/training_modules/
+Devscovery.com|http://www.Devscovery.com
+DevShed.com: Cascading Style Sheet (CSS)|http://www.devshed.com/Client_Side/css/
+devx.com: .NET Technical Articles from Microsoft|http://archive.devx.com/dotnet/resources/vsresources-12.asp
+Dfg.de|http://www.dfg.de
+Die .NET-Technologie|http://dotnet.jku.at
+Dig|ftp://ftp.isc.org/isc/bind/contrib/ntbind-8.4.1/BIND8.4.1Tools.zip
+Dig DLL|ftp://ftp.isc.org/isc/bind/contrib/ntbind-8.4.1/
+DigiDashLive.com|http://www.DigiDashLive.com
+DigitalPhilosophy.org with Edward Fredkin|http://www.DigitalPhilosophy.org
+Dimastr.com|http://www.Dimastr.com
+Dimitre Novatchev and Slawomir Tyszko: Compare Batching with Divide and Conquer|http://www.vbxml.com/xsl/articles/recurse
+DIN Deutsches Institut für Normung e. V., 10772 Berlin: English country names and code elements|http://www.din.de/gremien/nas/nabd/iso3166ma/codlstp1/en_listp1.html
+Dino Esposito: A Truly Excel-like Grid Control|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dndive/html/data02142002.asp
+Dino Esposito: Build a Variety of Custom Controls Based on the DataGrid Control|http://msdn.microsoft.com/msdnmag/issues/01/10/cutting/print.asp
+Discourse.de (DIStributed & COllaborative University Research & Study Environment)|http://www.discourse.de
+DNS on Windows 2003 with Matt Larson, Cricket Liu, RObbie Allen ISBN: 0-596-00562-8|http://www.oreilly.com/catalog/dnswinsvr
+DNS on Windows 2003 with Matt Larson, Cricket Liu, RObbie Allen ISBN: 0-596-00562-8 Sample|http://www.oreilly.com/catalog/dnswin3/sample
+DocBook|http://www.docbook.org
+Dominik Gruntz: C# and Java: The Smart Distinctions|http://www.jot.fm/issues/issue_2002_11/article4
+Don Box, Aaron Skonnard, John Lam: XSL Transformations: XSLT Alleviates XML Schema Incompatibility Headaches|http://msdn.microsoft.com/msdnmag/issues/0800/xslt/default.aspx
+Don Box: The C# Type System|http://www.develop.com/conferences/conferencedotnet/materials/M2.pdf
+Don Kiely: Separate Form, Function, and Style|http://www.fawcette.com/vsm/2003_02/magazine/columns/aspnet/default_pf.asp
+DontSweat.com with Richard Carlson|http://www.DontSweat.com
+Doron Rosenberg: Prefetching Content for Increased Performance|http://devedge.netscape.com/viewsource/2003/link-prefetching/
+Dot Net Builders|http://www.dotnetbuilders.com
+DotAvery.com with James Avery|http://www.DotAvery.com
+dotEASY|http://www.doteasy.addr.com
+DotGNU Portable .NET|http://www.dotgnu.org
+DotNET French .NET News Portal|http://www.dotnet-fr.org
+DotNetBips|http://www.dotnetbips.com
+DotNetBooks.com|http://www.DotNetBooks.com
+DotNETBuzz|http://www.dotnetbuzz.com
+dotnetcoders.com|http://www.dotnetcoders.com
+dotnetexperts.at|http://www.dotnetexperts.at
+DotNetExtreme.com|http://www.dotnetextreme.com
+Dotnetgenius with James Horan|http://www.dotnetgenius.com
+DotNetJunkies|http://www.dotnetjunkies.com
+DotNetMagic - The User Interface for .NET|http://www.dotnetmagic.com
+DotNetThis.com|http://www.DotNetThis.com
+Doug Purdy: Exploring the Factory Design Pattern|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnbda/html/factopattern.asp
+Doug Purdy: Exploring the Observer Design Pattern|http://search.microsoft.com/gomsuri.asp?n=2&c=rp_Results&siteid=us/dev&target=http://msdn.microsoft.com/library/en-us/dnbda/html/observerpattern.asp
+Doug Rothaus: ADO.NET for the ADO Programmer|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dndotnet/html/adonetprogmsdn.asp
+Doug Rothaus: Best Practices for Using ADO.NET|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnadonet/html/adonetbest.asp
+Doug Seven: Building a Redirector to Binary Files|http://www.dotnetjunkies.com/howto/default.aspx?id=36
+Douglas C. Schmidt, Michael Stal, Hans Rohnert, and Frank Buschmann: Pattern Oriented Software Architecture Volume 2 Wiley 2000 Tutorial notes|http://cs.wustl.edu/~schmidt/posa2.ppt
+Dr. Dobb's Journal|http://www.ddj.com
+Dr. Dobb's Journal: .NET|http://www.ddj.com/topics/dotnet/
+Dr. Dobb's Journal: DotNetBook|http://www.ddj.com/DotNetBook
+Dr. Lyle Cook: Bible Students' Topical Textbook courtesy Herald Magazine |http://www.heraldmag.org/olb/bsl/Library/Referenc/Cook/symbols.pdf
+DragonFlySJ.com|http://www.dragonflysj.com
+Dtrt.com|http://www.Dtrt.com
+Duncan Mackenzie: Checking My E-Mail|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dncodefun/html/code4fun03282003.asp
+Dutch .NET user group with Michiel van Otegen|http://www.aspnl.com
+DynamicDrive.com|http://www.dynamicdrive.com
+Easton's Bible Dictionary courtesy Herald Magazine |http://www.heraldmag.org/olb/bsl/Library/Referenc/EASTONS/EASTON.pdf
+Eclipse.org|http://www.eclipse.org
+EconomicEspionage.com|http://www.economicespionage.com
+Ecora|http://www.ecora.com
+Edgar David Villanueva Numez (Peruvian Congressman)|http://www.gnu.org.pe/resmseng.html
+EdgeQuest.com with Bill Hatfield|http://www.EdgeQuest.com
+Edsger W. Dijkstra, Professor Emeritus of Computer Sciences and Mathematics at The University of Texas at Austin|http://www.cs.utexas.edu/users/EWD
+Edward M. Reingold, Chairman Department of Computer Science Illinois Institute of Technology Stuart Building 10 West 31st Street, Suite 236 Chicago, Illinois 60616-2987 USA Email: reingold@iit.edu Telephone: (312) 567-3309 Fax: (312) 567-5067|http://emr.cs.iit.edu/~reingold/
+Edward M. Reingold, Nachum Dershowitz, and Stewart M. Clamen: Calendrical Calculations II Three Historical Calendars|http://emr.cs.iit.edu/~reingold/calendar.ps
+EggHeadCafe.com|http://www.eggheadcafe.com
+EggHeadCafe.com: Create Multiple Dynamic ASP.NET Datagrids|http://www.eggheadcafe.com/PrintSearchContent.asp?LINKID=316
+El Mensajero|http://www.elmensajero.com
+ElementK: Microsoft .NET Platform An Introduction to C#|http://www.elementk.com/downloads/ms_net_c-final.pdf
+Elliotte Rusty Harold|http://www.elharo.com
+Elliotte Rusty Harold: The XML Bible Chapter 14 XSL Transformations|http://www.ibiblio.org/xml/books/bible/updates/14.html
+Elliotte Rusty Harold: The XML Bible Chapter 16 XLinks|http://www.ibiblio.org/xml/books/bible/updates/16.html
+Elliotte Rusty Harold: The XML Bible Chapter 17: XPointers|http://www.ibiblio.org/xml/books/bible/updates/17.html
+Elliotte Rusty Harold: XML Bible Second Edition XSL Formatting Objects|http://www.ibiblio.org/xml/books/bible2/chapters/ch18.html
+Embassy of Afghanistan with H. E. Hamid Karzai|http://www.EmbassyOfAfghanistan.org
+Embedded Research Solutions|http://embedded-zone.com
+EMC - SANS for Replication|http://www.emc.com
+Emmanuel Schanzer: Performance Considerations for Run-Time Technologies in the .NET Framework|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dndotnet/html/dotnetperftechs.asp
+Emmanuel Schanzer: Performance Tips and Tricks in .NET Applications|http://msdn.microsoft.com/library/en-us/dndotnet/html/dotnetperftips.asp
+EmotionalBranding.com with Marc Gobe|http://www.emotionalbranding.com
+Empowered Software Solutions with Keith Franklin|http://www.empowered.com
+Encore Development: Using DTS for Business Intelligence Solutions Best Practices|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnsql2k/html/sql_BusIntBPwithDTS.asp
+EnginData.com: Java Developer's Journal FREE Subscription Qualification Form|http://www.sys-con.com/renew
+Engineering Objects International|http://www.engineeringobjects.com
+EPS Software|http://www.eps-software.com
+Eric Gunnerson: Using Win32 and Other Libraries|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dncscol/html/csharp09192002.asp
+Eric Gunnerson: Using Win32 and Other Libraries (software)|http://download.microsoft.com/download/VisualStudioNET/sample/1.0/W9XXP/EN-US/csharp09192002_sample.exe
+ericgu@microsoft.com: Win32Window|http://www.gotdotnet.com/community/usersamples/details.aspx?sampleguid=6315ff6c-1347-4c9e-913b-81f266ce8de2
+EricJSmith.net|http://www.EricJSmith.net
+Ericsson Emulator|http://www.ericsson.com/mobilityworld/
+Erisson DevelopersZone|http://ericsson.com/developerszone
+ESJ.com: Three Enterprise Server Trends|http://www.esj.com/high-end
+ESRB|http://www.esrb.com
+Essential Series|http://www.essentialseries.com
+European Computer Manufacturers Association (ECMA)|http://www.ecma.ch
+European Computer Manufacturers Association (ECMA) International|http://www.ecma-international.org
+European Computer Manufacturers Association (ECMA) International: Publications|http://www.ecma-international.org/publications/publications.htm
+European Computer Manufacturers Association (ECMA) International: Standard ECMA-262 ECMAScript Language Specification|http://www.ecma-international.org/publications/files/ecma-st/Ecma-262.pdf
+European Computer Manufacturers Association (ECMA) International: Standard ECMA-290 ECMAScript Components Specification|http://www.ecma-international.org/publications/files/ecma-st/Ecma-290.pdf
+European Computer Manufacturers Association (ECMA) International: Standard ECMA-334 C# Language Specification|http://www.ecma-international.org/publications/files/ecma-st/Ecma-334.pdf
+European Computer Manufacturers Association (ECMA) International: Standard ECMA-335 Common Language Infrastructure (CLI)|http://www.ecma-international.org/publications/files/ecma-st/Ecma-335.pdf
+European Union (EU): Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data|http://www.cdt.org/privacy/eudirective/EU_Directive_.html
+EuroScience Open Forum 2004|http://www.esof2004.org
+Evangelical Church Alliance|http://www.ecainternational.org
+Exception Management Application Block|http://www.microsoft.com/downloads/release.asp?releaseid=38128
+ExchangeAdmin.com|http://www.ExchangeAdmin.com
+Expand Beyond Corporation with Derek Ferguson|http://www.xb.com
+Expat|http://Expat.SourceForge.net
+Experience Visual Studio .NET Hands-On Lab|http://www.microsoft.com/downloads/release.asp?releaseid=31722
+ExpertChoice.com|http://www.expertchoice.com
+EXSLT.org|http://www.exslt.org
+Extensinet.com with Thomas Erl|http://www.Extensinet.com
+Fachhochschule Solothurn|http://babylon.hst.fhso.ch/~luthiger/etrainsoft
+Falun Gong (Falun Dafa)|http://www.falundafa.org
+Faqs.org|http://www.faqs.org
+Faqs.org: RFC 2822 e-mail Address Format|http://www.faqs.org/rfcs/rfc2822.html
+Fawcette Technical Publications: .NET Magazine|http://www.fawcette.com/dotnetmag/
+Fawcette Technical Publications: Visual Studio Magazine|http://www.fawcette.com/vsm/
+Federal Disputes Resolution|http://www.FDRConferences.org
+Federal Employee Education & Assistance Fund|http://www.Feea.org
+Federally Employed Women|http://www.Few.org
+Fensal, D. & Bussler, C. (2002) The Web Service Modeling Framework (WSMF) accessed on 8 March 2002|http://www.cs.vuonl/~dieter/wsmf/wsmf.paper.pdf
+Fergal Grimes: Programming OLEDB with C# - Downsizing the Poker Database to Jet|http://www.manning.com/dotnetbooks/csharpprimer/sql_to_access.html
+Financial Products Markup Language (FpML)|http://www.fpml.org
+Fit.C2.com|http://Fit.C2.com
+Flounder.com|http://www.Flounder.com
+FormsPlayer.com with X-Port|http://www.FormsPlayer.com
+Foundation Center|http://www.fdncenter.org
+Franklins.net with Carl Franklin|http://www.franklins.net
+Franson.biz with Johan Franson|http://www.Franson.biz
+FreeTranslation|http://www.freetranslation.com
+Fritz Onion: Caching and State Management in ASP.NET|http://www.develop.com/conferences/conferencedotnet/materials/A9.pdf
+Fritz Onion: Essential ASP.NET with Examples in C# (ISBN: 0-201-76040-1) (Download)|http://www.develop.com/books/essentialasp.net/samples/EssentialAspDotNet-Samples-CS.msi
+Fritz Onion: ViewState|http://www.mainebytes.com/download/viewstate.pdf
+Fukuoka, Japan (Oakland's Sister City)|http://www.oakland-fukuoka.org
+FuzzySoftware|http://www.fuzzysoftware.com
+G. Andrew Duthie: Dynamic Style Sheets with Request.Browser and User Controls|http://www.aspalliance.com/graymad/BrowseCapUC.aspx
+G. Arun Ganesh: Creating an Excel Spreadsheet Programmatically|http://www.c-sharpcorner.com/Code/2002/Jan/CreateExcelSheetGAG.asp
+G. Arun Ganesh: Creating an Excel Spreadsheet Programmatically (Code)|http://www.c-sharpcorner.com/Code/2002/Jan/CreateExcelSheetCode.zip
+Gartner|http://www.gartner.com
+Gary Brewe: IP Multicasting in C#|http://www.codeproject.com/csharp/multicast.asp
+GenghisGroup.com|http://www.GenghisGroup.com
+Gennick.com|http://www.Gennick.com
+George V. Reilly: ASP Best Practices|http://support.microsoft.com/support/activeserver/AspBestPractices.ppt
+George Young: Cascading Style Sheets in Internet Explorer 4|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnie40/html/css-ie4.asp
+GermanLife.com|http://www.GermanLife.com
+Germany.info|http://www.Germany.info
+Gert E.R. Drapers: Cookbook for using SQL Server DTS 2000 with .NET|http://sqldev.net/dts/DotNETCookBook.htm
+Gert E.R. Drapers: Cookbook for using SQL Server DTS 2000 with .NET (Download)|http://sqldev.net/download/dts/DotNETCookBookExamples.zip
+Gert E.R. Drapers: Cookbook for using SQL Server DTS 2000 with .NET (PDF)|http://sqldev.net/download/dts/DotNETCookBook.pdf
+Gert E.R. Drapers: SQL-DMO Events using UCOMIConnectionPoint|http://sqldev.net/sqldmo/SQL-DMO.NETEventsCS.htm
+GetOpenOffice.org with Solveig Haugland and Floyd Jones|http://www.getopenoffice.org
+Gilmore, S: Resource-Bounded Functional Programming on the JVM and .NET|http://www.dcs.ed.ac.uk/home/stg/MRG/comparison/slides.pdf
+Glasshaus.com|http://www.glasshaus.com
+Glish.com|http://www.glish.com
+Glish.com: Cascading Style Sheet (CSS)|http://www.glish.com/css
+Global IT Security Information Database|http://www.e-secure-db.us
+Global Relief Foundation|http://www.grf.org
+GlobalIssues.org|http://www.GlobalIssues.org
+Go.Web Simulator for RIM Devices|http://www.goamerica.com/partners/developers/
+GoAhead WebServer|http://www.goahead.com
+Google Directory - Computers &gt; Programming &gt; Component Framework  &gt; NET &gt; Tools &gt; Components|http://www.directory.google.com/Top/Computers/Programming/Component_Frameworks/NET/Tools/Components/
+Google Web APIs (License key: O881yoPQ6AeQtHeX30+jgpD/GS3TdLuB | Email: kenadeniji@hotmail.com | Password: password)|http://www.google.com/apis
+Google.com|http://www.Google.com
+Google: Groups|http://groups.google.com
+Google: News|http://news.google.com
+Google: Services & Tools|http://www.google.com/options/
+Google: Web APIs|http://www.google.com/apis/
+Gordon Brown: Performance Optimization in Visual Basic .NET|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dv_vstechart/html/vbtchperfopt.asp
+GotDotNet.com FxCop|http://www.GotDotNet.com/FxCop
+Gough, K.J. of the Queensland University of Technology, Australia|http://sky.fit.qut.edu.au/~gough
+Grace Cathedral|http://www.gracecathedral.org
+Graduate School USDA Department of Agriculture|http://www.grad.usda.gov
+Graphics Server Technologies|http://www.graphicserver.com
+Graymad with G. Andrew Duthie|http://www.graymad.com
+Gregory Leake: Using .NET Framework Data Provider for Oracle to Improve .NET Application Performance|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dndotnet/html/ManProOracPerf.asp
+Grid Component: Preview Edition of Xceed Grid for .NET|http://www.gridcomponent.com/download/
+Group Espada with John Gomez|http://www.groupespada.com
+GuardianAgent.com with Douglas Toombs|http://www.guardianagent.com
+Hai Wu: How To Generate PDF Files Dynamically Using ASP.NET|http://www.dotnetjunkies.com/howto/default.aspx?id=26
+Hanjin|http://www.hanjin.com
+Hank Marquis:  Seven Steps to Stable Server-Side Components Rules For Robust Performance|http://www.microsoft.com/technet/treeview/default.asp?url=/technet/prodtechnol/iis/maintain/optimize/sevstep.asp
+Hanspeter Mossenbok University of Linz (Austria) moessenboeck@ssw.uni-linz.ac.at: Advanced C#|http://www.ssw.uni-linz.ac.at/Teaching/Lectures/CSharp/Tutorial/Part2.pdf
+Hanspeter Mossenbok University of Linz (Austria) moessenboeck@ssw.uni-linz.ac.at: Advanced C# @softwareresearch.com|http://www.softwareresearch.net/site/teaching/WS0203/PDFdocs.SE1/A1.AdvancedCsharp.pdf
+Hanspeter Mossenbok University of Linz (Austria) moessenboeck@ssw.uni-linz.ac.at: An Overview of Microsoft .NET and C#|http://www.cs.tut.fi/tapahtumat/olio2002/moesse.pdf
+Hanspeter Mossenbok University of Linz (Austria) moessenboeck@ssw.uni-linz.ac.at: C# Tutorial|http://www.ssw.uni-linz.ac.at/Teaching/Lectures/CSharp/Tutorial/
+Hanspeter Mossenbok University of Linz (Austria) moessenboeck@ssw.uni-linz.ac.at: Introduction to C# @softwareresearch.com|http://www.softwareresearch.net/site/teaching/WS0203/PDFdocs.SE1/A0.Csharp.Introduction.pdf
+Hanspeter Mossenbok University of Linz (Austria): Phone: + 43-732-2468-7130 Fax: + 43-732-2468-7138 Email: moessenboeck@ssw.uni-linz.ac.at URI: http://www.ssw.uni-linz.ac.at/General/Staff/HM/|http://www.ssw.uni-linz.ac.at/General/Staff/HM/
+Hanspeter Mossenbok University of Linz (Austria)moessenboeck@ssw.uni-linz.ac.at: Introduction to C#|http://www.ssw.uni-linz.ac.at/Teaching/Lectures/CSharp/Tutorial/Part1.pdf
+Harry Pierson Senior Architect Evangelist with the National Architecture Team at Microsoft|http://www.devhawk.net
+Harvard Business School|http://www.HBS.edu
+Health GAP: Global Access Project|http://www.healthgap.org
+Hentzenwerke.com|http://www.hentzenwerke.com
+Herald Magazine |http://www.heraldmag.com
+Herald Magazine: Harvest Truth Topical Comments|http://www.heraldmag.org/olb/bsl/Library/Referenc/Loomis/Topics.PDF
+Herald Magazine: Hitchcock's Bible Names Dictionary|http://www.heraldmag.org/olb/bsl/Library/Referenc/Hitch/names.PDF
+Herald Magazine: International Bible Standard Encyclopedia|http://www.heraldmag.org/olb/dictionaries/0ISBE.htm
+Herald Magazine: Scripture Names Dictionary|http://www.heraldmag.org/olb/dictionaries/20NAMESD.htm
+Herald Magazine: Tabernacle Glossary|http://www.heraldmag.org/olb/bsl/Library/Referenc/TabGlos/Glossary.PDF
+Herald Magazine: The Bible Student's Library 2 |http://www.heraldmag.org/olb/Dictionaries.htm
+Herb Sutter|http://www.gotw.ca
+Hewlett-Packard; Intel; Microsoft: Common Language Infrastructure (CLI) Introduction and Class Library Factorization|http://www.ecma-international.org/activities/Languages/ECMA%20CLI%20Presentation.pdf
+HispanicOnline.com|http://www.hispaniconline.com
+HowToB2B.com - The B2B Code Library|http://www.howtob2b.com
+HR-Xml Consortium|http://www.hr-xml.org/
+HTMLBible: Free Uncopyrighted Microsoft Access Bibles|http://www.htmlbible.com/#free
+HTMLHelp.com: Document Type|http://www.htmlhelp.com/tools/validator/doctype.html
+http://support.microsoft.com/?kbid=317094|http://support.microsoft.com/?kbid=317094
+http://support.microsoft.com/?kbid=317699|http://support.microsoft.com/?kbid=317699
+http://support.microsoft.com/?kbid=320000|http://support.microsoft.com/?kbid=320000
+http://world.std.com/%7Euieweb/moreart.htm|http://world.std.com/%7Euieweb/moreart.htm
+http://www.nist.gov/director/prog-ofc/report02-3.pdf|http://www.nist.gov/director/prog-ofc/report02-3.pdf
+Hu C.|http://www.nevada.edu/~huc/
+Ian Gorman|http://www.Gorman.ca
+IANA Port Assignments|http://www.iana.org/assignments/port-numbers
+IC#SharpCode: SharpDevelop|http://www.icsharpcode.net/OpenSource/SD/Download
+IC#SharpCode: SharpZipLib|http://www.icsharpcode.net/OpenSource/SD/Download/default.asp
+IdeaJungle.com|http://www.IdeaJungle.com
+IDesign with Juval Lowy|http://www.idesign.net
+IEEE|http://www.ieee.org
+IETF: RFC 1766 Country Code|http://www.ietf.org/rfc/rfc1766.txt
+IISAnswers.com|http://www.iisanswers.com
+IISLists.com|http://www.IISLists.com
+IISTraining.com|http://www.iistraining.com
+Incremental Development: Gallery of Stupid XSL and XSLT Tricks|http://www.incrementaldevelopment.com/xsltrick/
+Independent JPEG Group (IJG)|http://www.ijg.org
+Information Management Group|http://www.imginc.com
+Information Security Magazine: 2002 Survey|http://www.infosecuritymag.com/2002/sep/2002survey.pdf
+InfoTekCG.com with Miguel A. Castro|http://www.InfoTekCG.com
+InstallSite.org|http://www.installsite.org
+Intel: .NET Platform|http://cedar.intel.com/cgi-bin/ids.dll/topic.jsp?catCode=BZK
+Intel: Developer|http://developer.intel.com
+Intentional Software with Charles Simonyi, Hungarian Notation|http://intentsoft.com
+International .NET Association (INETA)|http://www.ineta.org
+International Electrotechnical Commission (IEC)|http://www.IEC.ch
+International Oracle User Group|http://www.ioug.org
+Internet Engineering Task Force (IETF)|http://www.ietf.org
+Internet Engineering Task Force (IETF) RFC 1213 Management Information Base for Network Management of TCP/IP-based internets: MIB-II|http://www.ietf.org/rfc/rfc1213.txt
+Internet Indicators|http://www.internetindicators.com
+Internet Mail Consortium|http://www.IMC.org
+Intertech-Inc.com with Andrew Troelsen|http://www.intertech-inc.com
+Intuitive Surgical Company: Da Vinci|http://www.masc.cc/davinci.htm
+INVENTION: Enhancing inventiveness for quality of life, competitiveness, and sustainability|http://web.mit.edu/invent/report.html
+IPattern.com with Maxim V. Karpov|http://www.ipattern.com
+Irfanview|http://www.irfanview.com
+ISBN.nu with Glenn Fleishman|http://ISBN.nu
+ISO: The ISO-3166 Two Letter Country Codes|http://www.unicode.org/unicode/onlinedat/countries.html
+ISO: The ISO-639 Two Letter Language Codes|http://www.unicode.org/unicode/onlinedat/languages.html
+Issues in Science and Technology|http://www.Issues.org
+Itzik Ben-Gan: Advanced Transact-SQL for SQL Server 2000 Chapter 17 Tips & Tricks|http://www.sql.co.il/books/advtsql/AdvT-SQL4SQL2K%20-%20Sample%20Chapter%20(17%20-%20Tips%20&%20Tricks).pdf
+Ivan Mladenov: Code Optimization (Code)|http://download.microsoft.com/download/VisualStudioNET/Utility/1/WIN98MeXP/EN-US/code_optimization_demos.exe
+J. David Eisenberg: Using XSL Formatting Objects|http://www.xml.com/pub/a/2001/01/17/xsl-fo/index.html
+J. David Eisenberg: Using XSL Formatting Objects, Part 2|http://www.xml.com/pub/a/2001/01/24/xsl-fo/index.html
+Jaggle|http://www.microsoft.com/downloads/release.asp?releaseid=37212
+James Henry of Blue Vision Software: Developing .NET Custom Control & Designers using C#|http://www.bluevisionsoftware.com
+James Strong Concise Dictionary of The Words In The Hebrew Bible With Their Renderings In The Authorized English Version courtesy Herald Magazine |http://www.heraldmag.org/olb/bsl/Library/Referenc/Strongs/SHebrew.pdf
+James Strong's Concise Dictionary of The Words In The Greek Testament With Their Renderings In The Authorized English Version courtesy Herald Magazine|http://www.heraldmag.org/olb/bsl/Library/Referenc/Strongs/SGreek.pdf
+James Tauber|http://www.jtauber.com
+James W. Cooper: Introduction to Design Patterns in C#|http://labsoftware.com/LabSoftware/CSharpPats/design_patterns_in_c.htm
+Jan Gray: Writing Faster Managed Code - Know What Things Cost|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dndotnet/html/highperfmanagedapps.asp
+Japan Airlines (JAL)|http://www.jal.co.jp
+Jason Bock|http://www.jasonbock.net
+Jason Clark: Return of the Rich Client (MSDN Magazine, June 2002)|http://msdn.microsoft.com/msdnmag/issues/02/06/rich/rich.asp
+Jason Diamond: Original XSLT Implementation|http://xsltsl.sourceforge.net/date-time.html
+Java Script City.com|http://www.javascriptcity.com
+Java Script Source.com|http://www.javascriptsource.com
+Java Scripts.com|http://www.javascripts.com
+JavaRanch|http://www.javaranch.com
+Jeff Prosise|http://www.prosise.com
+Jeff Prosise: ASP.NET Security An Introductory Guide to Building and Deploying More Secure Sites with ASP.NET and IIS|http://msdn.microsoft.com/msdnmag/issues/02/04/ASPSec/ASPSec.asp
+Jeff Prosise: ASP.NET Security: An Introductory Guide to Building and Deploying More Secure Sites with ASP.NET and IIS, Part 2|http://msdn.microsoft.com/msdnmag/issues/02/05/ASPSec2/ASPSec2.asp
+Jeff Prosise: ASP.NET Validation Controls|http://www.wintellect.com/resources/downloads/Validation.pdf
+Jeff Prosise: Programming Microsoft .NET code samples Password: @spD0tN3t|http://www.wintellect.com/resources/download.asp
+Jeff Prosise: Programming Microsoft .NET Web Forms|http://www.wintellect.com/about/instructors/prosise/downloads/chapter5.pdf
+Jeffrey Richter: Garbage Collection Automatic Memory Management in the Microsoft.NET Framework Part 1|http://msdn.microsoft.com/msdnmag/issues/1100/GCI/GCI.asp
+Jeffrey Richter: Garbage Collection Automatic Memory Management in the Microsoft.NET Framework Part 2|http://msdn.microsoft.com/msdnmag/issues/1100/GCI/GCI2.asp
+Jeni Tennison|http://www.jenitennison.com
+Jeni Tennison: XSLT|http://www.jenitennison.com/xslt/index.html
+Jerome Saltzer and Michael Schroeder: The Protection of Information in Computer Systems|http://web.mit.edu/saltzer/www/publications/protection
+Jesse Liberty|http://www.libertyassociates.com/
+Jesse Liberty: Learning C# (O'Reilly ISBN 0-596-00376-5)|http://www.oreilly.com/catalog/learncsharp
+Jesse Liberty: Programming C# Chapter 18: Attributes and Reflection ISBN 0-596-00117-7|http://www.oreilly.com/catalog/progcsharp/chapter/ch18.html
+Jim Klopfenstein: ASP.NET hosting|http://radio.weblogs.com/0150476/stories/2002/07/12/executingASPxPagesWithoutAWebServer.html
+John Grisham|http://jgrisham.com
+John Hind: Serial Communication - Use P/Invoke to Develop a .NET Base Class Library for Serial Device Communications|http://msdn.microsoft.com/msdnmag/issues/02/10/NETSerialComm/default.aspx
+John Hunt: Guide to C# And Object Orientation|http://www.guide-to-csharp.net
+John Paul Mueller|http://www.mwt.net/~jmueller/
+John V. Petersen: Working with Extender Classes|http://www.mainlinesoftware.com/files/extenderclasses.zip
+Johnny Papa: Abstracting ADO .NET|http://www.msdn.microsoft.com/msdnmag/issues/01/11/data/print.asp
+JohnSmiley.com|http://www.JohnSmiley.com
+Journal of Object Technology (JOT)|http://www.jot.fm
+Julien Clauzel: Tuning ASP.NET & Web Farms for high performances|http://tailorednews.com/MicrosoftSP/NI/articles/tuningasp.doc
+JUnit.org|http://www.junit.org
+Justin Harrel jharrell@aciss.com: ComPort C# serial port|mailto:jharrell@aciss.com
+JustPC.com with Wayne S. Freeze|http://www.justpc.com
+Kaliber10000|http://www.k10k.net
+KB Alertz - Knowledge Base Alerts|http://www.kbalertz.com
+kbcafe.com with Randy Charles Morin|http://www.kbcafe.com
+kbcafe.com with Randy Charles Morin: How-To NNTP in C#|http://www.kbcafe.com/articles/HowTo.NNTP.CSharp.pdf
+kbcafe.com with Randy Charles Morin: How-To POP3 in C#|http://www.kbcafe.com/articles/HowTo.POP3.CSharp.pdf
+kbcafe.com with Randy Charles Morin: How-To SMTP in C#|http://www.kbcafe.com/articles/HowTo.SMTP.CSharp.pdf
+Keenan Vision|http://www.keenanvision.com
+Keith Ballinger: keithba.com|http://www.keithba.com
+Keith Ballinger: keithba.net|http://www.keithba.net
+Keith Brown: ASP.NET Security|http://www.socalnetug.org/socalnetug/reference/ASPsecurity/ASPNETsecurity.pdf
+Ken Shirriff Ken.Shirriff@sun.com: SNMP and C#|http://www.righto.com/pc/snmp.html
+Ken Shirriff Ken.Shirriff@sun.com: SNMP and C# (Snmp.asmx)|http://www.righto.com/pc/Snmp.asmx
+Kenny Jones, Graeme Malcolm, Alex Mackman, Edward Jezierski:  Application Blocks for .NET Exception Management Application Block Overview (Software)|http://download.microsoft.com/download/visualstudionet/emabref/rtm/nt5/en-us/ExceptionManagementApplicationBlock.msi
+Kenny Jones, Graeme Malcolm, Alex Mackman, Edward Jezierski: Application Blocks for .NET Exception Management Application Bloc|http://msdn.microsoft.com/downloads/default.asp?URL=/downloads/sample.asp?url=/msdn-files/027/001/943/msdncompositedoc.xml
+Kevin Goss: SQL Server Backup/Restore Through SQLDMO and C#|http://www.csharphelp.com/archives2/archive345.html
+Kevin Goss: SQL Server Backup/Restore Through SQLDMO and C# (Code)|http://server-27.mcc-sys.com/csharp/archives2/files/archive345/SQLBackupRestore.zip
+Kevin Goss: SQLDMO for C#|http://www.csharphelp.com/archives2/archive342.html
+Kevin Goss: SQLDMO for C# (Code)|http://server-27.mcc-sys.com/csharp/archives2/files/archive342/SQLDMO.zip
+Kevin Goss: SQLDMO for C# (Source Code)|http://server_27.mcc_sys.com/csharp/archives32/files/archive342/sqldmo.zip
+Kicking ASP.NET|http://www.kickingASP.net
+Kirk Radeck: C# and Java: Comparing Programming Languages|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dncenet/html/C_n_Java.asp
+Kirk Radeck: C# and Java: Comparing Programming Languages (Download)|http://download.microsoft.com/download/7/4/7/7472c2f5-8c1a-4263-a1a3-772bc4d2142d/csharp_java_final.exe
+Kirsanov.com with Dmitry|http://www.kirsanov.com
+Kjetil's Oracle and Database|http://www.geocities.com/SiliconValley/7020/knora.htm
+Knowledge Exchange|http://www.kex.com
+Konrad Bucheli: eTrainSoft .NET|http://www.hst.fhso.ch/stupro/vz99/prj1286/index.html
+KOSOB.com|http://www.kosob.com
+Kumon.com|http://www.kumon.com
+Kurt Cagle: Enhancing XSL|http://msdn.microsoft.com/library/default.asp?url=/nhp/default.asp?contentid=28000438
+Kurt Cagle: Xml & Web Services Magazine: Revolution in Application Architecture|http://www.fawcette.com/xmlmag/2002_08/magazine/focus/kcagle/
+LA Oferta Review: The Most Awarded Bilingual Newspaper in the U.S.|http://www.laoferta.com
+Lab Software Associates|http://labsoftware.com
+Las Positas College 
+    LasPositasCollege.edu 
+    3033 Collier Canyon Road 
+    Livermore California (CA) 94551
+    (925) 373-5800
+    Chabot-Las Positas Community College District
+    Date 3 digits month, 2 digits day of the month, 2 digits year,|http://www.LasPositasCollege.edu
+Learn C# The Easy Way|http://www.learncsharp.cjb.net
+Learn XML WS|http://www.vbws.com.
+LearnASP.com with Charles Carrol|http://www.learnasp.com
+Learnkey.com: Free Developer Training CD|http://www.learnkey.com/msdn
+LearnMobile.net|http://www.learnmobile.net
+LearnXml Web Service Security Tutorial|http://learnxmlws.com/security
+LearnXml Web Services Description Language (WSDL) Tutorial|http://learnxmlws.com/tutors/wsdl/wsdl.aspx
+Left Behind Prophecy Club|http://www.leftbehindprophecy.com
+Len Cardinal Senior Consultant, Microsoft Consulting Services & George V. Reilly Microsoft IIS Performance Lead: 25+ ASP Tips to Improve Performance and Style|http://msdn.microsoft.com/library/en-us/dnasp/html/asptips.asp
+Leonard Chung & Jim Gray: Windows 2000 IO Performance|http://research.microsoft.com/BARC/Sequential_IO/Win2K_IO.pdf
+Liberation Tigers of Tamil Eelam|http://www.eelamweb.com
+Liberty Alliance Project|http://www.projectliberty.org
+Liberty Associates with Jesse Liberty|http://www.libertyassociates.com
+Linkdup|http://www.linkdup.com
+LinuxJournal.com|http://www.LinuxJournal.com
+Living Address|http://www.livingaddress.com
+LogicalDecisions.com|http://www.logicaldecisions.com
+Lordsoft - SettingGrid|http://www.lordsoft.com/SettingGridSetup.msi
+Luther Biography of a Reformer|http://luther.cph.org
+Lutz Roeder|http://www.Aisto.com/Roeder
+Macromedia|http://www.macromedia.com
+Macromedia: JRun|http://www.macromedia.com/software/jrun
+mainfunction.com|http://www.mainfunction.com
+Managed World.COM|http://www.managedworld.com
+Manning.com: Bob DuCharme|http://www.manning.com/ducharme
+Mark Stang: Dereference Variables|http://cwashington.netreach.net/depo/view.asp?Index=498&ScriptType=command
+Mark Townsend: Exploring the Singleton Design Pattern|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnbda/html/singletondespatt.asp
+Martin Rakhmanoff|http://jimmers.narod.ru
+MartinFowler.com|http://martinfowler.com
+Massimo's Corner|http://www.massimocorner.com
+Mathworks|http://www.Mathworks.com/speech
+Matt Prietek: .NET Profiling API and the DNProfiler Tool|http://msdn.microsoft.com/msdnmag/issues/01/12/hood/hood0112.asp
+Matthew MacDonald: ASP.NET The Complete Reference ISBN 0-07-219513-4|http://www.prosetech.com/completereference/
+Matthew MacDonald: Enhancing ASP.NET Pages with JavaScript|http://www.ondotnet.com/pub/a/dotnet/2003/09/15/aspnet.html
+Matthew MacDonald: Microsoft Visual Basic .NET Programmer's Cookbook ISBN: 0-7356-1931-X|http://www.microsoft.com/mspress/books/sampchap/6436.asp
+Mattias Sjogren|http://www.msjogren.net
+Mattias Sjögren: Retrieve all public constant values in a class|http://news.devx.com/cgi-bin/dnewsweb.exe?cmd=article&group=csharp.general&item=4281&utag=
+MayoSoftware.com with Joe Mayo|http://www.MayoSoftware.com
+MCPCentral.com|http://www.mcpcentral.com
+MedSend.org|http://www.MedSend.org
+Meerkat with Rael Dornfest|http://www.Oreillynet.com/meerkat
+Meijer, E.: Technical Overview of the Common Language Infrastructure|http://research.microsoft.com/~emeijer/Papers/CLR.pdf
+Meinrad Weiss: ASP.NET|http://www.trivadis.ch/publikationen/D/aspdotnet_dez01.pdf
+Mercedes-Benz.com|http://www.Mercedes-Benz.com
+Messaging Application Programming Interface (MAPI) MAPI32.dll 315367|http://support.microsoft.com?kbid=315367
+Messaging Application Programming Interface (MAPI) MAPI32.dll 315653|http://support.microsoft.com?kbid=315653
+MetaLanguage.com|http://www.MetaLanguage.com
+Micah Dubinko.info|http://www.Dubinko.info
+Michael Howard and David LeBlanc: Writing Secure Code (IBN: 0-7356-1722-8)|http://www.microsoft.com/mspress/books/5957.asp
+Mickey Williams: Microsoft Visual C# .NET ISBN 0-7356-1290-0|http://www.microsoft.com/mspress/books/5029.asp
+MicroEye.com|http://www.MicroEye.com
+Microsoft 306158 - Info Implementing Impersonation in an ASP.NET Application|http://support.microsoft.com/default.aspx?scid=kb;EN-US;306158
+Microsoft ASP.NET Programming with Microsoft Visual C# .NET Step By Step ISBN 0-7356-1935-2 with G. Andrew Duthie|http://www.microsoft.com/MSPress/Books/6724.asp
+Microsoft Business Solutions Customer Relationship Management|http://www.microsoft.com/crm
+Microsoft Business Solutions Partner mbsprtnr@microsoft.com (701) 281-6500 or toll free (in the United States only): (800) 456-0025|mailto:mbsprtnr@microsoft.com
+Microsoft client script in web forms|http://msdn.microsoft.com/library/default.asp?url=/library/enus/vbcon/html/vbConClientScriptInWebForms.asp
+Microsoft Communities|http://Communities.Microsoft.com
+Microsoft Greater Plains Information mgpinfo@microsoft.com (701) 281-6500 or toll free (in the United States only): (800) 456-0025|mailto:mgpinfo@microsoft.com
+Microsoft How to provide event logging for the disk defragmenter utility with Windows script host|http://support.microsoft.com/?kbid=294743
+Microsoft Office|http://Office.Microsoft.com
+Microsoft Research (MSR) DVD Request for the Training Sessions Cambridge in March 2002 e-mail camadmin@microsoft.com (name and mailing address)|mailto:camadmin@microsoft.com?subject=Rotor%20DVD%20Request%20(Include%20Name%20and%20Mailing%20Address)
+Microsoft Rotor Project|http://research.microsoft.com/collaboration/university/europe/rotor/
+Microsoft SQL Server: Beta Nominations|http://www.microsoft.com/sql/evaluation/betanominations.asp
+Microsoft Windows 2000 Service Pack 3 (Network Installation)|http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
+Microsoft Windows Server 2003 Resource Kit Tools|http://www.microsoft.com/downloads/details.aspx?FamilyID=9d467a69-57ff-4ae7-96ee-b18c4790cffd&DisplayLang=en
+Microsoft Windows Sockets Error Codes|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/winsock/winsock/windows_sockets_error_codes_2.asp
+Microsoft.com: Career|http://www.microsoft.com/careers
+Microsoft.com: Express|http://msdn.microsoft.com/express
+Microsoft.com: Issues|http://www.Microsoft.com/Issues
+Microsoft.com: Job|http://www.microsoft.com/jobs
+Microsoft.com: NET Framework Version 2.0 Redistributable Package Beta 1 (x86)|http://www.microsoft.com/downloads/details.aspx?FamilyId=F1232C37-0FEE-4AA6-AA89-B6DCEFC0873B&displaylang=en
+Microsoft.com: SQL Server 2005 Express Edition Technical Preview|http://lab.msdn.microsoft.com/express/sql/
+Microsoft.com: Visual C# 2005 Express Edition Beta|http://go.microsoft.com/fwlink/?LinkId=31769&clcid=0x409
+Microsoft.com: Visual Web Developer 2005 Express Edition Beta|http://lab.msdn.microsoft.com/express/vwd/
+Microsoft:  Hotfix to Store the user name and password in encrypted form in a secure registry key|http://support.microsoft.com/default.aspx?scid=kb;en-us;Q3292501
+Microsoft:  SQL Server Resource Kits Chapter 7 - Migrating Oracle Databases to SQL Server 2000|http://www.microsoft.com/technet/treeview/default.asp?url=/technet/prodtechnol/sql/reskit/sql2000/part2/c0761.asp
+Microsoft: .NET Architecture Center|http://msdn.microsoft.com/architecture
+Microsoft: .NET C# Team|http://gotdotnet.com/team/csharp
+Microsoft: .NET Client Web: The Official Microsoft Windows Forms Community Site|http://windowsforms.net/
+Microsoft: .NET Data Access Architecture Guide Alex Mackman, Chris Brooks, Steve Busby, and Ed Jezierski Microsoft Corporation |http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnbda/html/daag.asp
+Microsoft: .NET Data Architecture Guide|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dndba/html/daag.asp
+Microsoft: .NET Enterprise Servers Online Books|http://msdn.microsoft.com/library/default.asp?url=/servers/books/default.asp
+Microsoft: .NET Framework|http://msdn.microsoft.com/netframework/
+Microsoft: .NET Framework 1.1 Beta|http://msdn.microsoft.com/netframework/productinfo/next/download.asp
+Microsoft: .NET Framework 1.1 Redistributable Final Beta|http://www.microsoft.com/downloads/details.aspx?FamilyId=4C1B6B0B-439E-4DB4-849A-B72416F40300&displaylang=en
+Microsoft: .NET Framework 1.1 Redistributable Final Beta (Download)|http://download.microsoft.com/download/NETFrameworkRedistributable/Install/1.1/W98NT42KMeXP/EN-US/dotnetfx.exe
+Microsoft: .NET Framework Books and Resources|http://www.microsoft.com/mspress/net/framework/
+Microsoft: .NET Framework Developer's Guide - A Common Type System|http://msdn.microsoft.com/library/en-us/cpguide/html/cpconthecommontypesystem.asp
+Microsoft: .NET Framework Developer's Guide Accessing Data With ADO.NET|http://msdn.microsoft.com/library/en-us/cpguide/html/cpconaccessingdatawithadonet.asp
+Microsoft: .NET Framework Developer's Guide Conversion of XML Data Types|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpguide/html/cpconconversionofxmldatatypes.asp
+Microsoft: .NET Framework Developer's Guide Threading|http://msdn.microsoft.com/library/en-us/cpguide/html/cpconthreading.asp
+Microsoft: .NET Framework Developer's Guide Working with Connection Events|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpguide/html/cpconworkingwithconnectionevents.asp
+Microsoft: .NET Framework Downloads|http://msdn.microsoft.com/library/default.asp?url=/downloads/list/netdevframework.asp
+Microsoft: .NET Framework Software Development Kit (Software) |http://download.microsoft.com/download/.netframesdk/SDK/1.0/W98NT42KMeXP/EN-US/setup.exe
+Microsoft: .NET Framework Software Development Kit 1.1 Beta|http://www.microsoft.com/downloads/details.aspx?FamilyId=6F44635A-5D7D-463C-B236-A0691A2EABC1&displaylang=en
+Microsoft: .NET Framework Software Development Kit 1.1 Beta (Download)|http://download.microsoft.com/download/.netframesdk/Install/1.1/NT45XP/EN-US/setup.exe
+Microsoft: .NET Framework Software Development Kit Service Pack |http://msdn.microsoft.com/netframework/downloads/sp/downloadfile.asp
+Microsoft: .NET Framework Software Development Kit Service Pack (Software)|http://download.microsoft.com/download/NETFrameworkRedistributable/Patch/2/W98NT42KMeXP/EN-US/NDP10_SP_Q321884_En.exe
+Microsoft: .NET Framework Software Development Kit Version 1.1|http://www.microsoft.com/downloads/details.aspx?FamilyId=9B3A2CA6-3647-4070-9F41-A333C6B9181D&displaylang=en
+Microsoft: .NET Framework Software Development Kit Version 1.1 (Download)|http://download.microsoft.com/download/5/2/0/5202f918-306e-426d-9637-d7ee26fbe507/setup.exe
+Microsoft: .NET Framework: Code Samples|http://msdn.microsoft.com/netframework/downloads/samples/default.asp
+Microsoft: .Net Managed Provider for Oracle|http://www.microsoft.com/downloads/details.aspx?FamilyId=4F55D429-17DC-45EA-BFB3-076D1C052524&displaylang=en
+Microsoft: .Net Managed Provider for Oracle (Download)|http://download.microsoft.com/download/dasdk/Install/1.0/W98NT42KMeXP/EN-US/oracle_net.msi
+Microsoft: .NET Microsoft.Xml.XQuery Managed Classes|http://131.107.228.20/Setup/xquery.msi
+Microsoft: .NET Remoting - A Technical Overview|http://msdn.microsoft.com/library/dndotnet/html/hawkremoting.asp
+Microsoft: .NET Remoting Advance|http://msdn.microsoft.com/library/en-us/cpsamples/html/remoting-advanced.asp
+Microsoft: .NET Remoting Basic|http://msdn.microsoft.com/library/en-us/cpsamples/html/remoting-basic.asp
+Microsoft: .NET Remoting Overview|http://msdn.microsoft.com/library/en-us/cpguide/html/cpconnectremotingoverview.asp
+Microsoft: .NET Security Sample for the Terrarium and Peer-to-Peer (Code)|http://download.microsoft.com/download/.netframesdk/Utility/1.0/WIN98MeXP/EN-US/Episode021CodeSamples.exe
+Microsoft: 25+ Tips to Improve Performance and Style|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnasp/html/asptips.asp
+Microsoft: Application Stress Tool (WAST)|http://webtool.rte.microsoft.com
+Microsoft: Architecture Decisions for Dynamic Web Applications: Performance, Scalability, and Reliability|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnnile/html/docu2kbench.asp
+Microsoft: ASP.NET|http://msdn.microsoft.com/net/aspnet/default.asp
+Microsoft: ASP.NET Authentication Schemas|http://msdn.microsoft.com/library/en-us/dndba/html/authaspdotnet.asp
+Microsoft: ASP.NET Code Samples|http://msdn.microsoft.com/library/default.asp?url=/code/list/aspnet.asp
+Microsoft: ASP.NET Control Gallery|http://www.asp.net/controlgallery/
+Microsoft: ASP.NET Development Tools|http://www.asp.net/Default.aspx?tabindex=8&tabid=40
+Microsoft: ASP.NET Forums|http://www.asp.net/forums
+Microsoft: ASP.NET Forums (Download)|http://www.asp.net/forums/download
+Microsoft: ASP.NET Forums Login Failed|http://www.asp.net/Forums/ShowPost.aspx?tabindex=1&PostID=164121
+Microsoft: ASP.NET Mobile Controls|http://msdn.microsoft.com/vstudio/device/mitdefault.asp
+Microsoft: ASP.NET Online Gallery|http://www.asp.net/Default.aspx?tabindex=2&tabid=30
+Microsoft: ASP.NET Starter Kits|http://www.asp.net/starterkits/
+Microsoft: ASP.NET Web - The Official Microsoft ASP.NET Site|http://www.asp.net/
+Microsoft: ASP.NET Web Matrix|http://www.asp.net/webmatrix/
+Microsoft: Background Intelligent Transfer Server (BITS)|http://www.microsoft.com/windows.netserver/techinfo/overview/bits.mspx
+Microsoft: Best Practices for using ADO.NET|http://msdn.microsoft.com/library/en-us/dnadonet/html/adonetbest.asp
+Microsoft: Beta | Information Request | Contact Information | Hardware | Software | Reason for Beta Test Request|mailto:betareq@microsoft.com
+Microsoft: Betamail@microsoft.com|mailto:Betamail@microsoft.com
+Microsoft: Betaplace.com|http://www.betaplace.com
+Microsoft: Building Secure ASP.NET Applications|http://www.microsoft.com/downloads/release.asp?ReleaseID=44047
+Microsoft: Building Secure ASP.NET Applications Authentication, Authorization, and Secure Communication |http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnnetsec/html/secnetlpMSDN.asp?frame=true
+Microsoft: Building Secure ASP.NET Applications Authentication, Authorization, and Secure Communication (pdf)|http://download.microsoft.com/download/VisualStudioNET/Security/RTM/NT5/EN-US/secnet.exe
+Microsoft: Building Secure ASP.NET Applications: Authentication, Authorization, and Secure Communication|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnnetsec/html/secnetlpMSDN.asp
+Microsoft: Building Secure ASP.NET Applications: Authentication, Authorization, and Secure Communication with J.D. Meier, Alex Mackman, Michael Dunner, and Srinath Vasireddy|http://msdn.microsoft.com/library/en-us/dnnetsec/html/secNetch12.asp
+Microsoft: Business Solutions CRM Software Development Kit (SDK)|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/crmsdk/htm/
+Microsoft: Business Solutions PartnerSource|http://www.microsoft.com/BusinessSolutions/PartnerSource/default.mspx
+Microsoft: C#: A SQL Server XML and ASP.NET Runtime Application|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/Dndotnet/html/csharpsqlxmlhttp.asp?frame=true
+Microsoft: C#: A SQL Server XML and ASP.Net Runtime Application  (Software)|http://www.microsoft.com/downloads/release.asp?releaseid=37260
+Microsoft: Caching Architecture Guide for .NET Framework Applications|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnbda/html/cachingarch.asp
+Microsoft: Caching Architecture Guide for .NET Framework Applications (PDF) (Download)|http://download.microsoft.com/download/7/b/0/7b0ca1ba-1a24-4f4e-9dc2-3cce58c5debd/caching.exe
+Microsoft: Capacity Model for Internet Transactions|http://www.microsoft.com/siteserver/ssrk/docs/rk_TCA.doc
+Microsoft: Code Samples for Visual Basic .NET|http://msdn.microsoft.com/vbasic/downloads/samples/default.asp
+Microsoft: Collecting Performance Data|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnduwon/html/d5collection.asp
+Microsoft: Commerce Server|http://www.microsoft.com/commerceserver
+Microsoft: ConferenceXP|http://www.conferencexp.net
+Microsoft: Configure ASP.NET for Persistent SQL Server Session State Management|http://support.microsoft.com/default.aspx?scid=kb;en-us;q311209
+Microsoft: Content Disposition|http://msdn.microsoft.com/library/default.asp?url=/workshop/networking/moniker/overview/appendix_a.asp
+Microsoft: CRC ColdStorage  (Software)|http://www.microsoft.com/downloads/release.asp?releaseid=36864
+Microsoft: Creating an Online RSS News Aggregator with ASP.NET with Scott Mitchell|http://msdn.microsoft.com/asp.net/using/understanding/XML/default.aspx?pull=/library/en-us/dnaspp/html/aspnet-createrssw-aspnet.asp
+Microsoft: CSS Overviews and Tutorials|http://msdn.microsoft.com/library/default.asp?url=/workshop/author/css/css_node_entry.asp
+Microsoft: Data Analyzer|http://www.microsoft.com/office/dataanalyzer/default.htm
+Microsoft: Database Design|http://support.microsoft.com/support/kb/articles/Q234/2/08.asp
+Microsoft: DDK Debugging|http://www.microsoft.com/ddk/debugging/default.asp
+Microsoft: Debugging Microsoft .NET Applications|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnbda/html/DBGrm.asp
+Microsoft: Debugging Microsoft .NET Applications PDF|http://www.microsoft.com/downloads/release.asp?ReleaseID=45155
+Microsoft: Debugging Microsoft .NET Applications PDF (Download)|http://download.microsoft.com/download/VisualStudioNET/debugpdf/RTM/NT5/EN-US/debugging_pdf.exe
+Microsoft: Debugging Microsoft .NET Applications Toolset|http://www.microsoft.com/downloads/release.asp?ReleaseID=44274
+Microsoft: Debugging Microsoft .NET Applications Walkthrough MSI|http://www.microsoft.com/downloads/release.asp?ReleaseID=44273
+Microsoft: Debugging Microsoft .NET Applications Walkthrough MSI (Download)|http://download.microsoft.com/download/VisualStudioNET/debugwlk/RTM/NT5/EN-US/debuggingwalkthroughs.msi
+Microsoft: Debugging Tools for Windows Installation|http://www.microsoft.com/ddk/debugging/installx86.asp
+Microsoft: Design Time ActiveX Control Pad|http://msdn.microsoft.com/downloads/sample.asp?url=/MSDN-FILES/027/001/228/msdncompositedoc.xml
+Microsoft: Designing Application-Managed Authorization|http://msdn.microsoft.com/library/?url=/library/en-us/dnbda/html/damaz.asp
+Microsoft: Designing Data Tier Components and Passing Data Through Tiers|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnbda/html/BOAGag.asp?frame=true
+Microsoft: Designing Data Tier Components and Passing Data Through Tiers (pdf)|http://download.microsoft.com/download/VisualStudioNET/pdf/RTM/NT5/EN-US/boag.exe
+Microsoft: Detecting Browser Types in Web Forms|http://msdn.microsoft.com/library/en-us/cpguide/html/cptskdetectingbrowsertypesinwebforms.asp
+Microsoft: Determine Proper SQL Server Configuration Settings|http://support.microsoft.com/default.aspx?scid=kb;EN-US;319942
+Microsoft: Developers Newsgroups|http://msdn.microsoft.com/newsgroups/default.asp
+Microsoft: Developing High-Performance ASP.NET Applications|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpguide/html/cpcondevelopinghigh-performanceaspnetapplications.asp
+Microsoft: Developing Software in Visual Studio.NET with Non-Administrative Privileges|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dv-vstechart/html/tchDevelopingSoftwareInVisualStudioNETWithNon-AdministrativePrivileges.asp
+Microsoft: Dictionary|http://www.microsoft.com/reader/downloads/dictionaries.asp
+Microsoft: Differences between ADO and ADO.NET|http://msdn.microsoft.com/library/en-us/vbcon/html/vbconADOPreviousVersionsOfADO.asp
+Microsoft: Duwamish 7 (Software) |http://www.microsoft.com/downloads/release.asp?releaseid=35372
+Microsoft: Enabling HTTP Compression|http://www.microsoft.com/windows2000/en/server/iis/htm/core/iihttpc.htm
+Microsoft: Error Management Accelerator Block -- C# (Software)|http://www.microsoft.com/downloads/release.asp?releaseid=35169
+Microsoft: ExpertZone|http://www.microsoft.com/WindowsXP/ExpertZone
+Microsoft: FIPS 140 Evaluation|http://www.microsoft.com/technet/security/fipsfaq.asp
+Microsoft: Fitch and Mather 7.0 (Software)|http://www.microsoft.com/downloads/release.asp?releaseid=35371
+Microsoft: Forms Authentication Provider|http://msdn.microsoft.com/library/en-us/cpguide/html/cpconthecookieauthenticationprovider.asp
+Microsoft: FxCop is a code analysis tool that checks your .NET assemblies for conformance to the .NET Framework Design Guidelines (Software)|http://www.gotdotnet.com/team/libraries/FxCopInstall.EXE
+Microsoft: Global.Asax|http://msdn.microsoft.com/library/en-us/cpguide/html/cpcontheglobalasaxfile.asp
+Microsoft: Got Dot Net how-to Read and Write XML Schema|http://samples.gotdotnet.com/quickstart/howto/doc/xml/xmlreadwriteschema.aspx
+Microsoft: GotDotNet Samples XML|http://samples.gotdotnet.com/quickstart/howto/doc/Xml/OverviewofXML.aspx
+Microsoft: GotDotNet User Samples|http://www.gotdotnet.com/userarea/default.aspx
+Microsoft: GotDotNet Workspaces|http://www.gotdotnet.com/community/workspaces
+Microsoft: GotDotNet.com Student|http://www.gotdotnet.com/student
+Microsoft: Graphics Device Interface GDI+ gdiplus.dll|http://www.microsoft.com/msdownload/platformsdk/sdkupdate/psdkredist.htm
+Microsoft: Help and Support|http://support.microsoft.com/
+Microsoft: High Availability System Architecture|http://www.microsoft.com/technet/treeview/default.asp?url=/technet/itsolutions/ecommerce/deploy/rollout/duwwsr.asp
+Microsoft: Hosting|http://www.microsoft.com/hosting/
+Microsoft: House of COM|http://msdn.microsoft.com/msdnmag/issues/01/05/com0105.asp
+Microsoft: How to become a Microsoft Certified Business Partner|http://www.greatplains.com/partners/pbanalysis.asp
+Microsoft: How To Determine the Executing Application's Path|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dncfhowto/html/howtoexecutingapppath.asp
+Microsoft: How-to Configure Memory for more than 2GB in SQL Server|http://support.microsoft.com/?kbid=274750
+Microsoft: How-to Troubleshoot the Performance of Ad-Hoc Queries|http://support.microsoft.com/?kbid=243588
+Microsoft: HTML Help Workshop|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/htmlhelp/html/hwMicrosoftHTMLHelpDownloads.asp
+Microsoft: HTTP Handlers|http://msdn.microsoft.com/library/en-us/cpguide/html/cpconhttphandlers.asp
+Microsoft: HTTP Security and ASP.NET Web Services by Scott Seely of the MSDN Architectural Samples Team|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnwebsrv/html/httpsecurity.asp
+Microsoft: Hungarian Notation with Charles Simonyi|http://support.microsoft.com/default.aspx?scid=kb;en-us;173738
+Microsoft: IBuySpy|http://www.ibuyspy.com
+Microsoft: IIS 6.0 Configuration|http://msdn.microsoft.com/library/en-us/iisref60/htm/cl_as_manageconfig.asp
+Microsoft: Improving .NET Application Performance and Scalability with J.D. Meier, Srinath Vasireddy, Ashish Babbar, and Alex Mackman|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnpag/html/scalenethowto09.asp
+Microsoft: Installer Windows 9x|http://msdn.microsoft.com/msdownload/platformsdk/instmsi.htm?gssnb=1
+Microsoft: Installer Windows NT & Windows 2000|http://msdn.microsoft.com/downloads/release.asp?releaseid=32832&area=top&ordinal=8
+Microsoft: Instrumentation Techniques for Debugging ASP.NET|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/vbcon/html/vboriInstrumentationTechniquesDebugTraceForNetFramework.asp
+Microsoft: Integrating an External Database into Microsoft Business Solutions CRM|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnmbscrm/html/mbs_crmapp_database.asp
+Microsoft: Internet Data Center - Reference Architecture Guide - Chapter 5 - SQL Server Database Design|http://www.microsoft.com/technet/treeview/default.asp?url=/technet/itsolutions/idc/rag/ragc05.asp
+Microsoft: Internet Data Center 1.5 Solution Documentation |http://www.microsoft.com/downloads/release.asp?releaseID=35479
+Microsoft: Internet Developers Group|http://www.midg.com
+Microsoft: Internet Explorer 3.02 Cascading Style Sheet|http://msdn.microsoft.com/library/en-us/htmlhelp/html/vsconhtcss9.asp
+Microsoft: Internet Explorer 4.0 Cascading Style Sheet|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/htmlhelp/html/vsconhtcss10.asp
+Microsoft: Internet Explorer Web Controls|http://msdn.microsoft.com/downloads/samples/Internet/ASP-DOT-NET-ServerControls/WebControls/default.asp
+Microsoft: Internet Explorer Web Services Behavior (webservice.htc)|http://msdn.microsoft.com/Downloads/samples/Internet/behaviors/library/webservice/webservice.htc
+Microsoft: Internet Explorer WebControls Documentation|http://msdn.microsoft.com/workshop/WebControls/webcontrols_entry.asp
+Microsoft: Internet Explorer WebControls Download|http://msdn.microsoft.com/downloads/samples/internet/ASP_DOT_NET_ServerControls/WebControls/default.asp
+Microsoft: Internet Information Services Community Center|http://www.microsoft.com/windows2000/community/centers/iis/default.asp
+Microsoft: Jet 4.0 Service Pack 6 (Windows 2000) (Software) |http://download.microsoft.com/download/Jet40/SP/4.0.6226/NT5/EN-US/Jet40SP6_W2K.exe
+Microsoft: Knowledge Base|http://support.microsoft.com
+Microsoft: Knowledge Base Article - 135919 DNS Server Search Order Functionality in Windows|http://support.microsoft.com/default.aspx?scid=kb;EN-US;135919
+Microsoft: Knowledge Base Article - 169790 How to Troubleshoot Basic TCP/IP Problems|http://support.microsoft.com/default.aspx?scid=kb;EN-US;169790
+Microsoft: Knowledge Base Article - 195759 INF Frequently Asked Questions - SQL Server 7.0 - SQL Setup|http://support.microsoft.com/default.aspx?scid=kb;EN-US;195759
+Microsoft: Knowledge Base Article - 229564 PRB SQL Application Role Errors with OLE DB Resource Pooling|http://support.microsoft.com/default.aspx?scid=http://support.microsoft.com:80/support/kb/articles/Q229/5/64.asp&NoWebContent=1
+Microsoft: Knowledge Base Article - 265808 INF How to Connect to an SQL Server 2000 Named Instance with the Previous Version's Client Tools|http://support.microsoft.com/default.aspx?scid=kb;EN-US;265808
+Microsoft: Knowledge Base Article - 286303 INF Behavior of SQL Server 2000 Network Library During Dynamic Port Detection|http://support.microsoft.com/default.aspx?scid=kb;en-us;286303&Product=sql2k
+Microsoft: Knowledge Base Article - 289573 PRB Configuring DSNs with SQL Server Net-Libraries|http://support.microsoft.com/default.aspx?scid=kb;EN-US;289573
+Microsoft: Knowledge Base Article - 293107 PRB TCP\IP Port in Use by Another Application|http://support.microsoft.com/default.aspx?scid=kb;EN-US;293107
+Microsoft: Knowledge Base Article - 300420 FIX Connection to SQL Server Database Using IP Address Is Unusually Slow|http://support.microsoft.com/default.aspx?scid=kb;en-us;Q300420&gssnb=1
+Microsoft: Knowledge Base Article - 303774 BUG Renaming A Server Topic in SQL Server Books Online is Incomplete|http://support.microsoft.com/default.aspx?scid=kb;EN-US;303774
+Microsoft: Knowledge Base Article - 306590 INFO: ASP.NET Security Overview|http://support.microsoft.com/default.aspx?scid=kb;EN-US;306590
+Microsoft: Knowledge Base Article - 313295 HOW TO Use the Server Name Parameter in a Connection String to Specify the Client Network Library|http://support.microsoft.com/default.aspx?scid=kb;en-us;313295
+Microsoft: Knowledge Base Article - 315158 BUG ASP.NET Does Not Work with the Default ASPNET Account on a Domain Controller|http://support.microsoft.com/default.aspx?scid=kb;en-us;Q315158
+Microsoft: Knowledge Base Article - 315159 BUG Named pipes do not work when worker process runs under ASPNET account|http://support.microsoft.com/default.aspx?kbid=315159
+Microsoft: Knowledge Base Article - 317012 INFO: Process and Request Identity in ASP.NET|http://support.microsoft.com/default.aspx?scid=kb;EN-US;317012
+Microsoft: Knowledge Base Article - 321247 HOW TO Configure Security for Log Shipping|http://support.microsoft.com/default.aspx?scid=kb;EN-US;321247
+Microsoft: Knowledge Base Article - 322144 FIX SECDoClientHandShake Cannot Connect to SQL Server|http://support.microsoft.com/default.aspx?scid=kb;EN-US;322144
+Microsoft: Knowledge Base Article - 328306 Potential causes of the "SQL Server Does Not Exist or Access Denied" error message|http://support.microsoft.com/?kbid=328306
+Microsoft: Knowledge Base Article - 328383 INF: SQL Server Clients May Change Protocols When They Try to Connect|http://support.microsoft.com/default.aspx?scid=kb;EN-US;328383
+Microsoft: Knowledge Base Article - 815431 PRB Installation of a Named Instance of SQL Server 2000 Virtual Server on a Windows 2003-Based Cluster Fails|http://support.microsoft.com/?kbid=815431
+Microsoft: location element methods and properties|http://msdn.microsoft.com/library/en-us/cpgenref/html/gnconlocationmembers.asp
+Microsoft: Locking Configuration Settings|http://msdn.microsoft.com/library/en-us/cpguide/html/cpconlockingconfigurationsettings.asp
+Microsoft: Log Parser 2.0|http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=8CDE4028-E247-45BE-BAB9-AC851FC166A4
+Microsoft: Log Parser 2.0 (Software)|http://download.microsoft.com/download/iis50/Utility/2.0/NT5XP/EN-US/setup.exe
+Microsoft: Mapsids.exe Helps Map SIDs Between User and Master Databases When Database Is Moved|http://support.microsoft.com/default.aspx?scid=kb;EN-US;q298897
+Microsoft: Maximizing IIS Performance|http://www.microsoft.com/technet/treeview/default.asp?url=/TechNet/prodtechnol/iis/maintain/optimize/perflink.asp
+Microsoft: Meta Data Services|http://msdn.microsoft.com/library/en-us/reposad
+Microsoft: Microsoft Operations Manager (MOM)|http://www.microsoft.com/SMSServer
+Microsoft: Mobile|http://www.microsoft.com/mobile/
+Microsoft: Mobile Device Developer|http://www.microsoft.com/mobile/developer/default.asp
+Microsoft: Mobile Explorer Emulator|http://www.microsoft.com/downloads/release.asp?ReleaseID=30578
+Microsoft: Mobile Internet Toolkit (MMIT)|http://msdn.microsoft.com/downloads/sample.asp?url=/MSDN-FILES/027/001/817/msdncompositedoc.xml
+Microsoft: Mobile Internet Toolkit (MMIT) Hot Fixed|http://msdn.microsoft.com/vstudio/downloads/updates/mobileinternet.asp
+Microsoft: Mobile Internet Toolkit (MMIT) Update Devices|http://msdn.microsoft.com/downloads/sample.asp?url=/MSDN-FILES/027/001/955/msdncompositedoc.xml
+Microsoft: MovieMaker|http://www.microsoft.com/Windowsxp/MovieMaker/
+Microsoft: MSDE|http://www.asp.net/msde/default.aspx
+Microsoft: MSDN Communities|http://communities2.microsoft.com/home/console.aspx
+Microsoft: MSDN How-To Articles|http://msdn.microsoft.com/howto/
+Microsoft: MSDN Index of How-To Articles|http://msdn.microsoft.com/howto/howto_index.asp
+Microsoft: MSDN Library|http://msdn.microsoft.com/library
+Microsoft: MSDN Magazine|http://msdn.microsoft.com/msdnmag/
+Microsoft: MSDN Magazine Source Code 2001|http://msdn.microsoft.com/msdnmag/code01.aspx
+Microsoft: MSDN Magazine Source Code 2002|http://msdn.microsoft.com/msdnmag/code02.aspx
+Microsoft: MSDN Online Support|http://www.microsoft.com/support
+Microsoft: MSDN XSL|http://msdn.microsoft.com/msdnmag/issues/01/01/xml/Xml.asp
+Microsoft: MSDN XSLT|http://msdn.microsoft.com/msdnmag/issues/0800/XSLT/XSLT.asp
+Microsoft: MSDNAA Visual C# .NET |http://www.msdnaa.net/technologies/csharp.asp
+Microsoft: msdnaa.net|http://www.msdnaa.net
+Microsoft: Navigating the Maze of Settings for Web Server Performance Optimization|http://www.microsoft.com/backstage/whitepaper.htm
+Microsoft: Net-Library API Reference Appendix A: Registry Entries Connection-specific information can be obtained from the values documented in this appendix|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dbnetlib/htm/dbnetlib_22.asp
+Microsoft: Network Load Balancing Technical Overview|http://www.microsoft.com/technet/treeview/default.asp?url=/TechNet/prodtechnol/windows2000serv/deploy/confeat/nlbovw.asp
+Microsoft: Nile .NET 3.0 for SQL Server and Oracle Databases |http://msdn.microsoft.com/code/default.asp?url=/code/sample.asp?url=/MSDN-FILES/026/002/846/msdncompositedoc.xml
+Microsoft: Northwind Database Access 2000 Format|http://office.microsoft.com/downloads/2000/Nwind2k.aspx
+Microsoft: ODBC .NET Data Provider|http://www.microsoft.com/downloads/details.aspx?FamilyId=6CCD8427-1017-4F33-A062-D165078E32B1&displaylang=en
+Microsoft: ODBC .NET Data Provider (Download)|http://download.microsoft.com/download/dasdk/Install/1.0.4030.0/W98NT42KMeXP/EN-US/odbc_net.msi
+Microsoft: Office 2003 XML Reference Schemas|http://www.microsoft.com/Office/XML
+Microsoft: Office Clip Art and Media|http://dgl.microsoft.com
+Microsoft: OLE DB for Data Mining Consumer Controls|http://download.microsoft.com/download/dasdk/licensed/1.0/WIN98Me/EN-US/oledbdmsdk.exe
+Microsoft: OLE DB for Data Mining Resource Kit|http://www.microsoft.com/data/oledb/dmreskit.htm
+Microsoft: OLE DB for Data Mining Sample Provider|http://download.microsoft.com/download/MDAC26/Update/1.1/W982KMeXP/EN-US/SampleProvider.zip
+Microsoft: Operating .NET-based Applications|http://www.microsoft.com/technet/treeview/default.asp?url=/technet/itsolutions/net/maintain/opnetapp/default.asp
+Microsoft: Passing Server Control Values Between Pages|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpguide/html/cpconpassingservercontrolvaluesbetweenpages.asp
+Microsoft: Passport|http://www.passport.net
+Microsoft: Passport Implementation|http://msdn.microsoft.com/library/en-us/ppsdk14/implementation/passport_implementation_top.asp
+Microsoft: Passport SDK|http://msdn.microsoft.com/downloads/sample.asp?url=/MSDN-FILES/027/001/885/msdncompositedoc.xml
+Microsoft: Password Formats|http://msdn.microsoft.com/library/en-us/cpguide/html/cpconformsauthenticationcredentials.asp
+Microsoft: Patterns & Practices|http://msdn.microsoft.com/practices
+Microsoft: Performance Considerations for Run-Time Technologies in the .NET Framework|http://msdn.microsoft.com/library/en-us/dndotnet/html/dotnetperftechs.asp
+Microsoft: PortQry Command Line Port Scanner Version 2.0|http://www.microsoft.com/downloads/details.aspx?familyid=89811747-C74B-4638-A2D5-AC828BDC6983&displaylang=en
+Microsoft: PowerPoint - Building ASP.NET Web Custom Controls.ppt|http://www.vbug.co.uk/vbug2002/slides/BuildingASP_NETControls.pdf
+Microsoft: PowerPoint - Mastering ASP.NET Security Steve Harris|http://www.vbug.co.uk/vbug2002/slides/ASP_NETSecurity.pdf
+Microsoft: PowerToys for Windows XP |http://www.microsoft.com/windowsxp/pro/downloads/powertoys.asp
+Microsoft: Preparing and Mining Data with Microsoft SQL Server 2000 and Analysis Services|http://msdn.microsoft.com/library/default.asp?url=/servers/books/sqlserver/mining.asp
+Microsoft: Preparing and Mining Data with Microsoft SQL Server 2000 and Analysis Services (HTML Version)|http://download.microsoft.com/download/SQLSVR2000/Book/1.00/NT5XP/EN-US/sqldataminingchm.exe
+Microsoft: Preparing and Mining Data with Microsoft SQL Server 2000 and Analysis Services (PDF Version)|http://download.microsoft.com/download/SQLSVR2000/Book/1.0/NT5XP/EN-US/sqldataminingpdf.exe
+Microsoft: Preparing and Mining Data with Microsoft SQL Server 2000 and Analysis Services (Sample Code)|http://download.microsoft.com/download/biztalkserver/Book/1.0/NT5XP/EN-US/sql2kdatamining.msi
+Microsoft: Process and Request Identity in ASP.NET|http://www.gotdotnet.com/team/upgrade/v1/aspnet_account_readme.doc
+Microsoft: Provider's Database Connection String|http://msdn.microsoft.com/library/en-us/ado270/htm/mdrefadoprovinfo.asp
+Microsoft: Q227888 - Importing a Key Backup File to Use in Internet Information Services 5.0|http://support.microsoft.com/default.aspx?scid=kb;[LN];Q227888
+Microsoft: Q232136 How To Back Up a Server Certificate in Internet Information Services 5.0|http://support.microsoft.com/default.aspx?scid=kb;[LN];Q232136
+Microsoft: Q232137 How To Import a Server Certificate for Use in Internet Information Services 5.0|http://support.microsoft.com/default.aspx?scid=kb;[LN];Q232137
+Microsoft: Q234497 Specify Additional Document Types for HTTP Compression|http://support.microsoft.com/default.aspx?scid=kb;EN-US;Q234497
+Microsoft: Q243589 Troubleshoot Slow-Running Queries on SQL Server 7.0 or Later|http://support.microsoft.com/default.aspx?scid=KB;en-us;243589&sd=tech
+Microsoft: Q248107 - Creating Server Certificates Using Certificate Services Web|http://support.microsoft.com/default.aspx?scid=kb;[LN];Q248107
+Microsoft: Q258294 How To Offload XSL Transformations to Clients' Browsers|http://support.microsoft.com/default.aspx?scid=kb;en-us;Q258294
+Microsoft: Q282010 Microsoft Jet 4.0 Service Pack 6 (Windows 2000) |http://www.microsoft.com/windows2000/downloads/recommended/q282010/default.asp?FinishURL=%2Fdownloads%2Frelease%2Easp%3FReleaseID%3D38002%26area%3Dsearch%26ordinal%3D2%26redirect%3Dno
+Microsoft: Q290625 How To Configure SSL in a Windows 2000 IIS 5.0 Test Environment Using Certificate Server 2.0|http://support.microsoft.com/default.aspx?scid=kb;EN-US;q290625
+Microsoft: Q301044 How to Create an Office Document in an ASP Application|http://support.microsoft.com/default.aspx?scid=kb%3Ben-us%3B301044
+Microsoft: Q301058 How To Debug an ASP.NET Application with the Microsoft CLR Debugger|http://support.microsoft.com/default.aspx?ID=kb;en-us;Q301058&SD=MSDN
+Microsoft: Q301240 How To Implement Forms-Based Authentication in Your ASP.NET Application by Using C# .NET|http://support.microsoft.com/default.aspx?scid=kb;EN-US;Q301240
+Microsoft: Q301394 How To Create an Generic ASP Page to Test XSL Transformations|http://support.microsoft.com/default.aspx?scid=kb;en-us;Q301394
+Microsoft: Q302521 How To  Manage Performance Monitor Counters in Windows 2000|http://support.microsoft.com/?kbid=302521
+Microsoft: Q303902 How To Obtain the NetBIOS and DNS Computer Names by Using Visual C# |http://support.microsoft.com/default.aspx?ID=kb;en-us;Q303902&SD=MSDN
+Microsoft: Q303902 Obtain the NetBIOS and DNS Computer Names in Visual C# .NET|http://support.microsoft.com/default.aspx?scid=kb;en-us;303902
+Microsoft: Q303974 How To Recursively Search Directories by Using C# .NET |http://support.microsoft.com/default.aspx?ID=kb;en-us;Q303974&SD=MSDN
+Microsoft: Q304032 Determine When a Shelled Process Ends in Visual C# .NET|http://support.microsoft.com/default.aspx?scid=kb;en-us;304032
+Microsoft: Q304283 Determine Windows Version by Using C# .NET|http://support.microsoft.com/default.aspx?scid=kb;en-us;304283
+Microsoft: Q304430 How To Do Basic File I/O in Visual C# .NET |http://support.microsoft.com/default.aspx?ID=kb;en-us;Q304430&SD=MSDN
+Microsoft: Q304721 Determine the Operating System Service Pack Level in Visual C# .NET|http://support.microsoft.com/default.aspx?scid=kb;en-us;304721
+Microsoft: Q304991 How To Detect if an Application Has Stopped Responding by Using C# |http://support.microsoft.com/default.aspx?ID=kb;en-us;Q304991&SD=MSDN
+Microsoft: Q305369 How To Wait for a Shelled Application to Finish Using C# |http://support.microsoft.com/directory/article.asp?ID=kb;en-us;Q305369&SD=MSDN
+Microsoft: Q305369 Wait for a Shelled Application to Finish by Using C# .NET|http://support.microsoft.com/default.aspx?scid=kb;en-us;305369
+Microsoft: Q305703 Programmatically Start the Default Internet Browser in Visual C# .NET|http://support.microsoft.com/default.aspx?scid=kb;en-us;305703
+Microsoft: Q306154 Display Hierarchical Data by Using Nested Repeater Controls by Using C# .NET|http://support.microsoft.com/default.aspx?scid=kb;en-us;306154
+Microsoft: Q306355 How To Create Custom Error Reporting Pages in ASP.NET by Using Visual C# .NET |http://support.microsoft.com/default.aspx?ID=kb;en-us;Q306355&SD=MSDN
+Microsoft: Q306654 How To Write Binary Files to the Browser Using ASP.NET and Visual C# .NET |http://support.microsoft.com/default.aspx?ID=kb;en-us;Q306654&SD=MSDN
+Microsoft: Q307023 How To Make a GET Request by Using C# .NET |http://support.microsoft.com/default.aspx?ID=kb;en-us;Q307023&SD=MSDN
+Microsoft: Q307023 Make a GET Request by Using C# .NET|http://support.microsoft.com/default.aspx?scid=kb;en-us;307023
+Microsoft: Q307024 How To Write to an Event Log by Using Visual C# .NET |http://support.microsoft.com/default.aspx?ID=kb;en-us;Q307024&SD=MSDN
+Microsoft: Q307445 How To Create a Remote Server by Using Microsoft Visual C# .NET|http://support.microsoft.com/default.aspx?scid=kb;[LN];Q307445
+Microsoft: Q307739 How To Create Client Access to Remote Server by Using Visual C# .NET |http://support.microsoft.com/default.aspx?scid=kb;[LN];Q307739
+Microsoft: Q308061 How To Use the Encoding Property with System.Xml Classes in Visual C# .NET |http://support.microsoft.com/default.aspx?scid=kb;en-us;Q308061
+Microsoft: Q308100 How To Retrieve and Display Records from an Access Database Using ASP.NET, ADO.NET, and Visual C# .NET |http://support.microsoft.com/default.aspx?scid=kb;en-us;q308100
+Microsoft: Q311021 Manage Quotation Marks in Concatenated SQL Literals in Visual C# .NET|http://support.microsoft.com/default.aspx?scid=kb;en-us;311021
+Microsoft: Q311194 How To Use ASP.NET to Query and Display Database Data in Excel by Using Visual C# .NET |http://support.microsoft.com/default.aspx?scid=kb;en-us;q311194
+Microsoft: Q311461 How To Use ASP.NET or Visual Basic.NET to Transform XML To Rich Text Format (RTF) For Microsoft Word 2002|http://support.microsoft.com/default.aspx?scid=kb;en-us;Q311461
+Microsoft: Q317662 How To Load and Save XML by Using DOM in .NET Framework with Visual C# .NET |http://support.microsoft.com/default.aspx?scid=kb;[LN];Q317662
+Microsoft: Q317664 How To Access XML Data Using DOM in .NET Framework with Visual C# .NET |http://support.microsoft.com/default.aspx?scid=kb;[LN];Q317664
+Microsoft: Q317666 How To Modify XML Data by Using DOM in .NET Framework with Visual C# .NET |http://support.microsoft.com/default.aspx?scid=kb;en-us;q317666
+Microsoft: Q317719 How To Export Data in a DataGrid on an ASP .NET WebForm to Microsoft Excel|http://support.microsoft.com/default.aspx?scid=kb%3Ben-us%3B317719
+Microsoft: Q318425 How To Send and Receive Binary Documents by Using an ASP.NET Web Service and Visual C# .NET |http://support.microsoft.com/default.aspx?scid=kb;en-us;q318425
+Microsoft: Q318499 How To Use the System.Xml.XmlDocument Class to Execute XPath Queries in Visual C# .NET|http://support.microsoft.com/default.aspx?scid=kb;EN-US;318499
+Microsoft: Q318502 How To Modify an XML Schema by Using System.Xml.Schema Classes in Visual C# .NET |http://support.microsoft.com/default.aspx?scid=kb;en-us;q318502
+Microsoft: Q318786 How To Create An IAuthenticationModule by Using Visual C# .NET|http://support.microsoft.com/default.aspx?scid=kb;en-us;318786
+Microsoft: Q320916 How To Call SQL Server Stored Procedures in ASP.NET by Using Visual C# .NET |http://support.microsoft.com/default.aspx?scid=kb;en-us;q320916
+Microsoft: Q321704 How To Execute Parameterized XSL Transformations in .NET Applications |http://support.microsoft.com/default.aspx?scid=kb;en-us;q321704
+Microsoft: Q322603 Enable ASPX Compression in IIS|http://support.microsoft.com/default.aspx?scid=kb;EN-US;Q322603
+Microsoft: Q323370 How To Use Extension Objects When You Execute XSL Transformations in Visual C# .NET Applications |http://support.microsoft.com/default.aspx?scid=kb;en-us;q323370
+Microsoft: Q324462 How To Implement and Use Custom Extension Functions When You Execute XPath Queries in Visual C# .NET |http://support.microsoft.com/default.aspx?scid=kb;en-us;q324462
+Microsoft: Q326069 - Online Seminars on Programming XML in the .NET Framework|http://support.microsoft.com/default.aspx?scid=kb;en-us;q326069
+Microsoft: Q815167 How To Monitor Errors in .NET-Connected Applications|http://support.microsoft.com/default.aspx?scid=kb;EN-US;Q815167
+Microsoft: Q815169 How To Monitor ASP.NET Server Applications|http://support.microsoft.com/default.aspx?scid=kb;EN-US;Q815169
+Microsoft: Reader|http://www.microsoft.com/reader
+Microsoft: Relational Database Design Center|http://support.microsoft.com/support/access/content/reldesign.asp
+Microsoft: SAPI 5.1 SDK with Language Pack (Japanese and Chinese)|http://www.microsoft.com/speech/download/sdk51
+Microsoft: Scripting|http://www.microsoft.com/scripting
+Microsoft: Scriptomatic|http://download.microsoft.com/download/.NetStandardServer/Utility/1.0/NT5XP/EN-US/scriptomatic.exe
+Microsoft: Security in a Web Services World - A Proposed Architecture and Roadmap|http://msdn.microsoft.com/ws-security
+Microsoft: Security in Internet Information Server (IIS)|http://msdn.microsoft.com/msdnmag/issues/02/09/securityinIIS60
+Microsoft: Serial Communications|http://msdn.microsoft.com/library/en-us/wceoak40/html/cooriserialcommuncationoverview.asp
+Microsoft: Server Control Samples|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpguide/html/cpconservercontrolssamples.asp
+Microsoft: Server Control Samples - Composite Server Control Sample|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpguide/html/cpconcompositecontrolsample.asp
+Microsoft: Server Control Samples - Composition vs. Rendering|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpguide/html/cpconcompositionvsrendering.asp
+Microsoft: Server Control Samples - Custom Control Builder Sample|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpguide/html/cpconcreatingcustomcontrolbuilder.asp
+Microsoft: Server Control Samples - Defining an Event|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpguide/html/cpcondefiningcustomevent.asp
+Microsoft: Server Control Samples - Developing a Simple ASP.NET Server Control|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpguide/html/cpconwalkthroughdevelopingsimplewebformscontrol.asp
+Microsoft: Server Control Samples - Event Bubbling Control Sample|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpguide/html/cpconeventbubblingcontrolsample.asp
+Microsoft: Server Control Samples - ParseChildrenAttribute Sample|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpguide/html/cpconparsechildrenattributesample.asp
+Microsoft: Server Control Samples - Persisting Client-Side Changes in a non-Form Control|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpguide/html/cpconpersistingclient-sidechangesinnon-formcontrol.asp
+Microsoft: Server Control Samples - Postback Data Processing Sample|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpguide/html/cpconpostbackdataprocessingsample.asp
+Microsoft: Server Control Samples - Postback Event Sample|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpguide/html/cpconpostbackeventsample.asp
+Microsoft: Server Control Samples - Postback Using Client-Side Script Sample|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpguide/html/cpconpostbackusingjavascriptsample.asp
+Microsoft: Server Control Samples - Rendering a Server Control Sample|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpguide/html/cpconrenderingservercontrolssamples.asp
+Microsoft: Server Control Samples - Templated Control Sample|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpguide/html/cpcontemplatedcontrolsample.asp
+Microsoft: Server Control Samples - Templated Data-Bound Control Sample|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpguide/html/cpcontemplateddataboundcontrolsample.asp
+Microsoft: Service Providers|http://www.microsoft.com/serviceproviders/
+Microsoft: SMTP Mail Configuration|http://msdn.microsoft.com/library/en-us/dnduwon/html/d5smtp.asp
+Microsoft: Soap|http://msdn.microsoft.com/soap
+Microsoft: SOAP Toolkit Validator|http://www.soaptoolkit.com/soapvalidator/
+Microsoft: SOAP Toolkit Validator Message Validation|http://www.soaptoolkit.com/soapvalidator/listener.asp
+Microsoft: Speech|http://www.microsoft.com/speech
+Microsoft: Speech 5.1 Documentation|http://download.microsoft.com/download/speechSDK/SDK/5.1/WXP/EN-US/sapi.chm
+Microsoft: Speech 5.1 Language Pack|http://download.microsoft.com/download/speechSDK/SDK/5.1/WXP/EN-US/speechsdk51LangPack.exe
+Microsoft: Speech 5.1 Redist.: All|http://download.microsoft.com/download/speechSDK/SDK/5.1/WXP/EN-US/speechsdk51MSM.exe
+Microsoft: Speech 5.1 Redist.: Mike and Mary|http://download.microsoft.com/download/speechSDK/SDK/5.1/WXP/EN-US/Sp5TTIntXP.exe
+Microsoft: SQL|http://www.microsoft.com/sql
+Microsoft: SQL Debugging Tools|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/vsdebug/html/core-debugging-sql.asp
+Microsoft: SQL Server 2000 Books Online Downloads (Documentation)|http://download.microsoft.com/download/SQLSVR2000/BOLCAB/2000/WIN98MeXP/EN-US/sqlbolsetup.cab
+Microsoft: SQL Server 2000 Documentation|http://www.microsoft.com/sql/techinfo/productdoc/2000/books.asp
+Microsoft: SQL Server 2000 Feature Packs|http://msdn.microsoft.com/downloads/sample.asp?url=/MSDN-FILES/027/001/824/msdncompositedoc.xml
+Microsoft: SQL Server 2000 Resource Kit|http://www.microsoft.com/sql/techinfo/reskit/default.asp
+Microsoft: SQL Server 2000 Web Services Toolkit|http://msdn.microsoft.com/downloads/default.asp?url=/downloads/sample.asp?url=/MSDN-FILES/027/001/872/msdncompositedoc.xml&frame=true
+Microsoft: SQL Server 7.0 Performance Tuning Guide by Henry Lau|http://msdn.microsoft.com/library/en-us/dnsql7/html/msdn_sql7perftune.asp
+Microsoft: SQL Server and DMO Distributed Managements Enable Easy Task Automation|http://msdn.microsoft.com/msdnmag/issues/01/05/code/SQLDMO.exe
+Microsoft: SQL Server Downloads|http://www.microsoft.com/sql/downloads/default.asp
+Microsoft: SQL Server Notification Services|http://www.microsoft.com/sql/ns
+Microsoft: SQL Server Reporting Services|http://www.microsoft.com/sql/evaluation/bi/reportingservices.asp
+Microsoft: SQL Server Reporting Services (Rosetta) rosetta@microsoft.com|mailto:rosetta@microsoft.com
+Microsoft: SQL Server Security Patch|http://www.microsoft.com/technet/treeview/default.asp?url=/technet/security/prodtech/dbsql/default.asp
+Microsoft: SQL Server Security White Paper|http://www.microsoft.com/sql/techinfo/administration/2000/securitywp.asp
+Microsoft: SQL Server Tips and Tricks Center|http://www.microsoft.com/sql/techinfo/tips/default.asp
+Microsoft: SQL Server XML Web Resource|http://www.microsoft.com/sql/techinfo/xml/default.asp
+Microsoft: SQLServer Service Pack 2|http://msdn.microsoft.com/sql/downloads/2000/sp2.asp
+Microsoft: SQLXML|http://msdn.microsoft.com/sqlxml
+Microsoft: Support ASP.NET|http://support.microsoft.com/default.aspx?scid=fh;en-us;aspnet
+Microsoft: System Administration Scripting Guide Scripts (Download)|http://download.microsoft.com/download/.NetEnterpriseServer/Utility/1.0/NT5XP/EN-US/netscrpt.exe
+Microsoft: System.Xml Namespace|http://msdn.microsoft.com/library/en-us/cpref/html/frlrfsystemxml.asp
+Microsoft: Systems Journal|http://www.microsoft.com/msj
+Microsoft: Taming the Stateless Beast Managing Session State Across Servers on a Web Farm|http://msdn.microsoft.com/msdnmag/issues/1000/stateless
+Microsoft: TCP/IPv4 Configurable Registry Settings|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/wcetcpip/htm/cmconparametersconfigurableusingregistryeditor.asp
+Microsoft: Teach .NET|http://www.teachdotnet.com
+Microsoft: Teach .NET mailto:contactus@teachdotnet.com|mailto:contactus@teachdotnet.com
+Microsoft: TechNet Scripting Center|http://www.microsoft.com/technet/scriptcenter
+Microsoft: Technical Resources for Visual Basic .NET|http://msdn.microsoft.com/vbasic/techinfo/default.asp
+Microsoft: The Art and Science of Web Server Tuning with Internet Information Server 5.0|http://www.microsoft.com/technet/treeview/default.asp?url=/TechNet/prodtechnol/iis/maintain/optimize/iis5tune.asp
+Microsoft: The Art and Science of Web Server Tuning with Internet Information Services 5.0|http://www.microsoft.com/windows2000/techinfo/administration/web/tuning.asp
+Microsoft: The Operating System Language|http://www.microsoft.com/globaldev
+Microsoft: Tools for Capacity Planning|http://msdn.microsoft.com/library/en-us/dnbda/html/bdadotnetarch081.asp
+Microsoft: Troubleshoot Application Performance Issues|http://support.microsoft.com/?kbid=298475
+Microsoft: Troubleshoot Application Performance within SQL Server|http://support.microsoft.com/?kbid=224587
+Microsoft: Tuning Internet Information Server Performance|http://www.microsoft.com/serviceproviders/whitepapers/tuningiis.asp
+Microsoft: UDDI Directory|http://uddi.microsoft.com
+Microsoft: Understanding Performance Testing|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnduwon/html/d5dplyover.asp
+Microsoft: Universal Time|http://msdn/microsoft.com/downloads/default.asp?url=/downloads/sample.asp?url=/msdn-files/027/001/566/msdncompositedoc.xml
+Microsoft: Using ASP.NET to Create Multi-Page Custom Reports|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnaspp/html/aspnetcustrep.asp
+Microsoft: Using ASP.NET to Create Multi-Page Custom Reports (sample code)|http://download.microsoft.com/download/asp.net/Sample/1.0/NT45XP/EN-US/reporttool.exe
+Microsoft: Visual Basic .NET Code Samples|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnvssamp/html/vb_VBSamplesTop.asp
+Microsoft: Visual Basic .NET Code Samples 101VBNETSamples.exe (Code Samples)|http://download.microsoft.com/download/visualbasic.net/sampl103/1.0/NT45XP/EN-US/101VBNETSamples.exe
+Microsoft: Visual Basic .NET on Windows Server 2003 A New Benchmark|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnbda/html/ws03perfbench.asp?frame=true
+Microsoft: Visual C# .NET Support Center|http://support.microsoft.com/default.aspx?scid=fh;EN-US;vcSnet
+Microsoft: Visual C# OLE DB|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/csref/html/vcwlkADOTutorial.asp
+Microsoft: Visual C# Security|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/csref/html/vcwlkSecurityTutorial.asp
+Microsoft: Visual C# Threading|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/csref/html/vcwlkThreadingTutorial.asp
+Microsoft: Visual C# Unsafe Code|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/csref/html/vcwlkUnsafeCodeTutorial.asp
+Microsoft: Visual C# Xml Documentation|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/csref/html/vcwlkXMLDocumentationTutorial.asp
+Microsoft: Visual Studio .NET Lab Series|http://members.microsoft.com/partner/products/NET/VisualStudioNET/IntroNetLabSeries.doc
+Microsoft: Visual Studio Tools for the Microsoft Office System Word Document with XML Schema Sample|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dv_wrcore/html/wrSamSampleDocumentThatPushesDataToServerUsingXml.asp
+Microsoft: Web Application Stress Tool (WAS)|http://www.microsoft.com/technet/treeview/default.asp?url=/TechNet/itsolutions/intranet/downloads/webstres.asp
+Microsoft: Web Application Stress Tool (WAS) (Software) |http://webtool.rte.microsoft.com/download/x86/setup.exe
+Microsoft: Web Matrix|http://www.asp.net/webmatrix
+Microsoft: Web Team Talking|http://msdn.microsoft.com/columns/webmen.asp
+Microsoft: WebService Behavior|http://msdn.microsoft.com/downloads/samples/internet/behaviors/library/webservice/default.asp
+Microsoft: Windows 2000 Service Pack 3|http://www.microsoft.com/Windows2000/downloads/servicepacks/sp3/download.asp
+Microsoft: Windows Authentication Module Provider|http://msdn.microsoft.com/library/en-us/cpguide/html/cpconthewindowsauthenticationprovider.asp
+Microsoft: Windows Forms Internet Explorer (IE) Sourcing|http://www.gotdotnet.com/team/windowsforms/iesourcing.aspx
+Microsoft: Windows Management|http://www.microsoft.com/management
+Microsoft: Windows Management Instrumentation (WMI) Administration Tools|http://www.microsoft.com/downloads/release.asp?ReleaseID=40804&area=Search&ordinal=6
+Microsoft: Windows Management Instrumentation (WMI) Reference|http://msdn.microsoft.com/library/en-us/wmisdk/wmi/wmi-reference.asp
+Microsoft: Windows Management Instrumention (WMI) Tools|http://msdn.microsoft.com/code/sample.asp?url=/msdn-files/027/001/566/msdncompositedoc.xml&frame=true
+Microsoft: Windows Script|http://msdn.microsoft.com/scripting/default.htm
+Microsoft: Windows Script 5.6 Documentation|http://msdn.microsoft.com/downloads/default.asp?url=/downloads/topic.asp?url=/msdn-files/028/001/175/topic.xml
+Microsoft: Windows Script 5.6 Documentation (Download)|http://download.microsoft.com/download/winscript56/Install/5.6/W982KMeXP/EN-US/scrdoc56en.exe
+Microsoft: Windows Server 2003 Downloads|http://www.microsoft.com/windowsserver2003/downloads/default.mspx
+Microsoft: Windows Server 2003, Enterprise Edition (32-bit)|http://download.microsoft.com/download/5/2/b/52beb621-1a93-41bb-a57d-ea5c7aef7f76/x09-22207.iso
+Microsoft: Windows System Resource Manager (WSRM)|http://download.microsoft.com/download/8/6/2/86288a4d-0dcc-4d1b-9748-c11a16c3580a/server2003_usa_3790_wsrm.iso
+Microsoft: WMI and .NET System.Management Lets You Take Advantage of WMI APIs within Managed Code with Zina Pozen|http://msdn.microsoft.com/msdnmag/issues/02/05/WMIMan/default.aspx
+Microsoft: WMI Scripting Primer Part 1|http://msdn.microsoft.com/library/en-us/dnclinic/html/scripting06112002.asp
+Microsoft: WS-Security Specification|http://msdn.microsoft.com/library/en-us/dnglobspec/html/ws-security.asp
+Microsoft: XML Core Services (MSXML) 4.0 - XSLT Developer's Guide Incorporating Style Elements into an XSLT File|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/xmlsdk/htm/xsl_browsing1_8lis.asp
+Microsoft: XML Core Services (MSXML) 4.0 - XSLT Developer's Guide Using an External Cascading Style Sheet|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/xmlsdk/htm/xsl_browsing1_5et0.asp
+Microsoft: XML Core Services (MSXML) 4.0 - XSLT Developer's Guide Using CSS as a Stand-alone Style Sheet|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/xmlsdk/htm/xslt_processornew_7p45.asp
+Microsoft: XML Core Services (MSXML) 4.0 - XSLT Developer's Guide Using CSS within an XSLT Style Sheet|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/xmlsdk/htm/xslt_processornew_7pf8.asp
+Microsoft: XML Core Services (MSXML) 4.0 - XSLT Developer's Guide Using XSLT with Cascading Style Sheets|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/xmlsdk/htm/xslt_processornew_946r.asp
+Microsoft: XML Developer's Center|http://msdn.microsoft.com/xml
+Microsoft: Xml Notepad|http://msdn.microsoft.com/library/en-us/dnxml/html/xmlpaddownload.asp
+Microsoft: XML Parser 4.0.|http://download.microsoft.com/download/9/6/5/9657c01e-107f-409c-baac-7d249561629c/msxml.msi
+Microsoft: XML Query Language Demo|http://xqueryservices.com
+Microsoft: XML Query Language Demo (Download)|http://xqueryservices.com/setup/xquery.msi
+Microsoft: XML Query Language Demo Feedback|mailto:xquery@microsoft.com?subject=XQuery&nbsp;Prototype&nbsp;Feedback
+Microsoft: XML Query Language Demo with .NET Microsoft.Xml.XQuery Managed Classes|http://131.107.228.20
+Microsoft: XML Stylesheet Language Transformations|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/wcexmlxs/htm/ceorixmlstylesheetlanguagetransformations.asp
+Microsoft: XML Web Services|http://msdn.microsoft.com/webservices
+Microsoft: XML Web Services Developer Center|http://msdn.microsoft.com/webservices/
+Microsoft: XQueryServices.com|http://www.xqueryservices.com
+Microsoft: XSL ISAPI Filter 2.2|http://msdn.microsoft.com/downloads/default.asp?url=/downloads/sample.asp?url=/msdn-files/027/001/540/msdncompositedoc.xml/
+Microsoft: XSLT Samples Viewer|http://msdn.microsoft.com/downloads/default.asp?URL=/downloads/sample.asp?url=/MSDN-FILES/027/001/484/msdncompositedoc.xml
+Microsoft: XSLT Samples Viewer 1.0|http://www.microsoft.com/downloads/details.aspx?FamilyId=F4DDEB6E-E7A9-4B8C-BFA6-B5BD99F336A5&displaylang=en
+Microsoft: XSLT Samples Viewer 1.0 (Download)|http://download.microsoft.com/download/b/e/1/be1f845c-7379-4950-99f1-51578c0fe7ab/Viewer.exe
+Micrsoft: Best Practices for Using ADO.NET|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnadotnet/html/adonetbest.asp
+Mike Barnett, Wolfram Schulte: Contracts, Components, and their Runtime Verification on the .NET Platform|ftp://ftp.research.microsoft.com/pub/tr/tr-2002-38.pdf
+Mike Ruthruff: Microsoft SQL Server 2000 Index Defragmentation Best Practices|http://www.microsoft.com/technet/treeview/default.asp?url=/technet/prodtechnol/sql/maintain/optimize/ss2kidbp.asp
+Mike Woodring: .NET Sample Page|http://staff.develop.com/woodring/dotnet/
+Miloslav Nic: Introduction to XSL|http://www.zvon.org/xxl/XSLTutorial/Books/Book1/index.html
+Minnesota WebWorks|http://www.mnwww.com
+ModernCppDesign.com with Andrei Alexandrescu|http://www.ModernCppDesign.com
+Mono|http://www.go-mono.com
+MSD2D|http://www.msd2d.com
+MSDE.biz|http://www.msde.biz
+MSDE.biz: MSDE Query|http://www.msde.biz/msdequery/free/MSDEquery.zip
+MSDN Magazine: .NET|http://msdn.microsoft.com/msdnmag/find/tech.aspx?phrase=.net
+Mulberrytech.com: XSLT and XPath Quick Reference|http://www.mulberrytech.com/quickref/XSLTquickref.pdf
+MVPS.org|http://www.mvps.org
+MySQL.com|http://www.MySQL.com
+n8Systems.com|http://www.n8Systems.com
+Nachum Dershowitz and Edward M. Reingold: Calendrical Calculations II Mayan and French Revolution|http://emr.cs.iit.edu/~reingold/calendar2.ps
+Nakhodka, Russia (Oakland's Sister City)|http://www.oakland-nakhodka.org
+Nancy Winnick Cluts: Maximizing the Performance of Your Active Server Pages|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnasp/html/maxperf.asp
+NAnt|http://NAnt.SourceForge.net
+NASA Goddard Space Flight Center - Software Assurance Technology Center (SATC)|http://satc.gsfc.nasa.gov
+NASA Goddard Space Flight Center - Software Assurance Technology Center (SATC): Reusable Software Management Plan|http://satc.gsfc.nasa.gov/tools/smp/smp.zip
+National Association of Evangelicals|http://www.nae.net
+National Science Foundation|http://www.NSF.gov
+Nature.com|http://www.Nature.com
+NDoc|http://NDoc.SourceForge.net
+ndoc.sourceforge.net.com|http://ndoc.sourceforge.net.com
+NestMagazine.com|http://www.NestMagazine.com
+NetAdminTools.com|http://www.NetAdminTools.com
+NetCraft.com|http://www.NetCraft.com
+NetIQ: Free Software|http://www.netiq.com/free/default.asp
+NetLib|http://www.netlib.com
+NetMation.com|http://www.NetMation.com
+NetObjectives.com|http://www.netobjectives.com
+NetObjectives.com: The Bridge Pattern|http://www.netobjectives.com/download/bridge.pdf
+Netscape: DevEdge|http://devedge.netscape.com
+Netscape: Form validation|http://developer.netscape.com/docs/examples/javascript/formval/FormChek.js
+Netscape: International address entry form which demonstrates looser form validation|http://developer.netscape.com/docs/examples/javascript/formval/Intlform.html
+Netscape: JavaScript Client Sniffer|http://developer.netscape.com/docs/examples/javascript/browser_type.html
+Netscape: JavaScript Color Changer Sample Code Intro To ECMAScript Example #2 
+     From European DevCon 1997|http://developer.netscape.com/docs/examples/javascript/colrflip/colrflip.htm
+Netscape: JavaScript Properties of Objects|http://developer.netscape.com/docs/examples/javascript/object_prop/properties.html
+Netscape: JavaScript Sample Code|http://developer.netscape.com/docs/examples/javascript.html
+Netscape: U.S.-specific address entry form which demonstrates rigid form validation|http://developer.netscape.com/docs/examples/javascript/formval/USform.html
+Netscape:Core JavaScript Guide|http://developer.netscape.com/docs/manuals/js/core/jsguide/index.htm
+NetSite.com|http://www.NetSite.com
+New Tang Dynasty Television|http://www.ntdtv.com
+NewScientist.com|http://www.NewScientist.com
+newtelligence.com|http://www.newtelligence.com
+newtelligence.net|http://www.newtelligence.net
+Nicolai Josuttis|http://www.Josuttis.de
+nikhilk.net with Nikhil Kothari|http://www.nikhilk.net
+nmapwin.org|http://www.nmapwin.org
+No Starch Press|http://www.nostarch.com
+Nokia Emulator|http://www.forum.nokia.com/main.html
+Nolo|http://www.nolo.com
+Nomura.com: Kokuho Rice U.S. #1 Extra Fancy New Crop Net Wt. 20LBS 9.07kg. 40 Broderick Road, Burlingame 94010 CA USA.|http://Nomura.com
+Norman Walsh|http://nwalsh.com
+Northwoods Software Corporation|http://www.nwoods.com
+Novell: XForms|http://www.novell.com/xforms
+NUnit.org|http://www.NUnit.org
+O'Reilly SQL Pocket Guide ISBN 0-596-00512-1 with Jonathan Gennick|http://www.oreilly.com/catalog/SQLPR
+O'Reilly: .NET DevCenter|http://www.oreillynet.com/dotnet
+O'Reilly: .NET Programming|http://dotnet.oreilly.com
+O'Reilly: ADO.NET In a Nutshell A Desktop Quick Reference with Matthew MacDonald & Bill Hamilton Chapter 12 DataViews and Data Binding|http://www.oreilly.de/catalog/adonetian/chapter/ch12.pdf
+O'Reilly: Java Chapters|http://javachapters.oreilly.com
+O. Univ.-Prof Dipl.-Ing Dr.techn. Wolfgang Pree: Frameworks & Design Patterns|http://www.softwareresearch.net/site/teaching/WS0203/PDFdocs.SE1/01.DesignPatterns.SE1.pdf
+O. Univ.-Prof Dipl.-Ing Dr.techn. Wolfgang Pree: Modularization & Software Architecture|http://www.softwareresearch.net/site/teaching/WS0203/PDFdocs.SE1/02.Modularization.SE1.pdf
+Oak Leaf Enterprises|http://www.oakleafsd.com
+Oakland Library 125 14th Street Oakland CA 94612 (510) 238-3134|http://www.oaklandlibrary.org
+OaklandFilmSociety.org|http://www.OaklandFilmSociety.org
+OakLeaf Systems|http://www.oakleaf.ws
+ObjectInnovations.com|http://www.ObjectInnovations.com
+ObjectWare.com|http://www.objectware.com
+ObjectWrite.com with Stanley Lippman|http://www.ObjectWrite.com
+OdeToCode.com|http://www.OdeToCode.com
+Office of Environmental Health Hazard Assessment: Proposition 65 Health and Safety Code 25249.5. Prohibition On Contaminating Drinking Water With Chemicals Known to Cause Cancer or Reproductive Toxicity|http://www.oehha.org/prop65.html
+Ohlone College|http://www.Ohlone.edu
+OLAPWebHouse.com|http://www.OLAPWebHouse.com
+Omri Gazitt: Introducing ADO+ Data Access Services for the Microsoft .NET Framework|http://msdn.microsoft.com/msdnmag/issues/1100/adoplus/default.aspx
+ONDotnet.com|http://www.ondotnet.com
+Ontology.org|http://www.ontology.org
+OnWordPress.com|http://www.onwordpress.com
+ooextras.org|http://www.ooextras.org
+Oozinoz.com with Steven John Metsker|http://www.Oozinoz.com
+Open Source Development Labs|http://www.OSDL.org
+Open Watcom|http://www.openwatcom.org
+OpenOffice.org|http://www.openoffice.org
+OpenWave Emulator Developer Download|http://developer.openwave.com/download/index.html
+OpenWave: Emulator Developer|http://developer.openwave.com
+Oracle-Base.com|http://www.oracle-base.com
+Oracle-Home.com|http://www.oracle-home.com
+Oracle-Internals.cc|http://www.oracle-internals.cc
+oracle.computerwork.com|http://oracle.computerwork.com
+Oracle: Certified Professional Program|http://www.oracle.com/education/certification
+Oracle: Data Provider for .NET (ODP.NET)|http://otn.oracle.com/tech/windows/odpnet
+Oracle: Data Provider for .NET (ODP.NET) Sample Code|http://otn.oracle.com/sample_code/tech/windows/odpnet
+Orafans.com|http://www.orafans.com
+Organization for Economic Co-operation and Development (OECD)|http://www.oecd.org
+OSM|http://www.osm.net
+OTP|http://www.otp.org
+OutLookCode.com|http://www.OutLookCode.com
+PageResource.com|http://www.pageresource.com
+Panos Kougiouris: ASP.NET Intercept, Monitor, and Modify Web Requests with HTTP Filters in ISAPI and ASP.NET|http://msdn.microsoft.com/msdnmag/issues/02/08/HTTPFilters/default.asp
+Panos Kougiouris: ASP.NET Intercept, Monitor, and Modify Web Requests with HTTP Filters in ISAPI and ASP.NET (Software)|http://download.microsoft.com/download/msdnmagazine/code/Aug02/WXP/EN-US/HTTPFilters.exe
+PapaJohn.org with John Buechler|http://www.PapaJohn.org
+Parasoft: Design by Contract (Dbc)|http://www.parasoft.com/jsp/products/article.jsp?articleId=579&product=Jtest
+Parisian.com|http://www.Parisian.com
+PastorPort.com|http://www.pastorport.com
+patrick.net|http://www.patrick.net
+Patrik Lowendahl: SQL Server Enumerator class|http://www.csharpsweden.com/content.aspx?showID=900
+Patrik Lowendahl: SQL Server Enumerator class (Code)|http://www.csharpsweden.com/content/code/EnumerateSQL.zip
+PatternLanguage with Christopher Alexander|http://www.PatternLanguage.com
+Paul Buis: Socket-Level Server Programming & .NET tcpecho.txt|http://www.ddj.com/ftp/2002/2002_09/tcpecho.txt
+Paul Buis: Socket-Level Server Programming & .NET tcpecho.zip|http://www.ddj.com/ftp/2002/2002_09/tcpecho.zip
+Paul Delcogliano: Add Client-Side Script Code|http://www.123aspx.com/redir.aspx?res=29803
+Paul DiLascia|http://www.dilascia.com
+Paul DiLascia: C++ Q&A Desktop Location, sscanf Equivalents in C#|http://msdn.microsoft.com/msdnmag/issues/03/04/CQA/
+Paul Grosso and Norman Walsh: XSL Concepts and Practical Use|http://nwalsh.com/docs/tutorials/xsl/xsl/slides.html
+Paul Kimmel: Advanced C# Programming - Chapter 1|http://www.osborne.com/products/0072224177/0072224177_ch01.pdf
+Paul Kimmel: Advanced C# Programming ISBN: 0-07-222417-7|http://www.osborne.com
+Paul Yao|http://www.paulyao.com
+PDAConsulting.com with Peter T. Davis|http://www.PDAConsulting.com
+PDFlib|http://www.pdflib.com
+PDFlib: .NET installer|http://www.pdflib.com/pdflib/download/PDFlib.NET-4.0.3.msi.zip
+PeerDirect.com|http://www.PeerDirect.com
+Pegasus Mail|http://www.pmail.com
+Pegasus Mail Server|ftp://risc.ua.edu/pegasus/winpmail/w32-402.exe
+PerfectXML.com|http://www.perfectxml.com
+PerfTuning.com|http://www.PerfTuning.com
+Perl Month|http://www.perlmonth.com
+Perl.com|http://www.perl.com
+PersonaLogic.com|http://www.personalogic.com
+Peter Hallam peterhal@microsoft.com: Command Line Parser Library|http://www.gotdotnet.com/community/usersamples/details.aspx?sampleguid=62a0f27e-274e-4228-ba7f-bc0118ecc41e
+Piet Obermeyer and Jonathan Hawkins: .NET Remoting - A Technical Overview|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dndotnet/html/hawkremoting.asp
+Pipelines|http://www.revealnet.com
+PixelSurgeon|http://www.pixelsurgeon.com
+PluralSight.com|http://www.PluralSight.com
+Pocket PC 2002 Emulator Images|http://msdn.microsoft.com/downloads/sample.asp?url=/MSDN-FILES/027/001/912/msdncompositedoc.xml&frame=true
+PortalB|http://www.portalb.com
+Prathit Bondre: XSLT Efficient Programming Techniques|http://www.xml.org/xml/xslt_efficient_programming_techniques.pdf
+PreEmptive Solutions|http://www.premptive.com
+PrimerusConsulting.com with Paul R. Niven|http://www.PrimerusConsulting.com
+Priya Dhawan: Performance Comparison Data Access Techniques Building Distributed Applications with Microsoft.NET|http://msdn.microsoft.com/library/en-us/dndba/html/bdadotnetarch031.asp
+Priya Dhawan: Performance Comparison Transaction Control Building Distributed Applications with Microsoft.NET|http://msdn.microsoft.com/library/en-us/dndba/html/bdadotnetarch13.asp
+Priya Dhawan: Performance Comparison: Data Access Techniques Building Distributed Applications with Microsoft .NET|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/Dnbda/html/Bdadotnetarch031.asp
+ProcessImpact.com with Karl E. Wiegers|http://www.ProcessImpact.com
+Professional C# - Second Edition: Chapter 9 - Data Access with .NET|http://www.dotnetexperts.com/resources/chapters/ProC09.pdf
+Programming ASP.NET: Chapter 14: Custom and User Controls|http://www.oreilly.com/catalog/progaspdotnet/chapter/ch14.html
+Project Management Institute (PMI)|http://www.pmi.org
+Project Seven|http://www.projectseven.com
+Project Technology with Stephen J. Mellor|http://www.projtech.com
+ProjectCool.com: XML Tools and Resources|http://www.projectcool.com/developer/xmlz/xmlref/examples.html
+ProseTech.com with Matthew MacDonald|http://www.proseTech.com
+QBrundage.com with Michael Brundage|http://www.QBrundage.com
+QBrundage.com: XQuery with Michael Brundage|http://www.QBrundage.com/XQuery
+QBrundage.com: XQuery with Michael Brundage XQuery@ComCast.net|mailto:XQuery@ComCast.net
+Quality Web Systems|http://www.qualitywebsys.com
+Quintuslink.com: Implementations of all GoF Patterns in C#|http://www.quintuslink.com/GofPatterns.zip
+Radek Pospisil: .NET II|http://nenya.ms.mff.cuni.cz/teaching/seminars/2002-04-03-Pospisil-dotNet2.pdf
+Rainbow Technologies: Authentication eBook|http://www.rainbow.com/ebook/RainbowAuthenticationEBookWeb.pdf
+Rainbow Technologies: Authentication eBook with Flash Demos|http://www.rainbow.com/ebook/RainbowAuthenticationeBook.zip
+Randy Charles Morin: How-to NNTP|http://www.kbcafe.com/articles/HowTo.NNTP.pdf
+Randy Holloway: Host ASP.NET Applications|http://www.fawcette.com/vsm/2002_10/magazine/columns/aspnet/
+Randy Holloway: Host ASP.NET Applications (Code)|http://www.fawcette.com/vsm/code/2002_10/vs0210an.zip
+Real: RealOnePlayerV2Beta.exe|http://www.real.com/R/RDX.fail-click.R/207.188.7.150/135aff5bbcf00c0ab419/windows/RealOnePlayerV2Beta.exe
+Recursion Software|http://www.recursionsw.com
+Recursion Software: C# Rapid DevKit|http://www.recursionsw.com/C#RapidDevKit
+Refactoring with Martin Fowler|http://www.refactoring.com
+Regular Expression Library|http://regexlib.com
+Regulator with Roy Osherove|http://royo.is-a-geek.com/regulator
+RenderX: Using XSL FO with XEP 3.0 (html)|http://renderx.com/Tests/doc/html/tutorial.html
+RenderX: Using XSL FO with XEP 3.0 (PDF)|http://renderx.com/Tests/doc/fo/tutorial.pdf
+Research Buzz|http://www.researchbuzz.com
+Resolution Enterprises|http://www.reso-net.com
+RFID Journal|http://www.RFIDJournalLive.com
+Richard Blum: C# Network Programming ISBN: 0-7821-4176-5 Courtesy Sybex|http://sybex.com/sybexbooks.nsf/Booklist/4176
+Richard Paul Evans|http://www.RichardPaulEvans.com
+RichardGrimes.com|http://www.RichardGrimes.com
+Rico Mariani: Garbage Collector Basics and Performance Hints|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dndotnet/html/dotnetgcbasics.asp
+Right TRAK: Performance Tuning in Java - Benchmark by Jov Kruger|http://www.righttrack.com/javaperformance/benchmarks
+Right TRAK: Performance Tuning in Java by Dov Kruger|http://www.righttrak.com/javaperformance
+RightStuffDating.com|http://www.RightStuffDating.com
+Rob Howard|http://www.robhoward.net
+Rob Vanderwoude: Batch files - The SET command|http://www.robvanderwoude.com/ntset.html
+RobbeMorris: SQL Server DMO Backup Files with VBScript|http://www.eggheadcafe.com/printsearchcontent.asp/linkid=259
+Robert DuCharme: Transforming XML|http://www.xml.com/pub/at/16
+Roger Jennings: Get Ready for XQuery|http://www.fawcette.com/xmlmag/2002_08/online/xml_rjennings_08_12_02/
+RollingThunder|http://www.rollthunder.com
+Roman Rehak: Build a Scripting Utility - Use the SQL-DMO library to generate SQL Server object scripts as Web services quickly and simplify database administration|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dndotnet/html/hawkremoting1.asp
+Safe Harbor Principles|http://www.export.gov/safeharbor/
+Sal Mangano: XSLT Cookbook (O'Reilly ISBN 0-596-00372-2)|http://oreilly.com/catalog/xsltckbk
+Sal Mangano: XSLT Cookbook (O'Reilly ISBN 0-596-00372-2) Chapter 7 Querying XML|http://www.oreilly.com/catalog/xsltckbk/chapter/ch07.pdf
+SaltForum.org: Speech Application Technology Tags|http://www.SaltForum.org
+Sam Gentile|http://www.samgentile.com
+Samir Bajaj: Design Patterns - Solidify Your C# Application Architecture with Design Patterns|http://msdn.microsoft.com/msdnmag/issues/01/07/patterns/patterns.asp
+SandStone|http://www.sand-stone.com
+Santiago De Cuba, Cuba (Oakland's Sister City)|mailto:sbryce@oaklandnet.com
+Savi.com|http://www.Savi.com
+Scheduled Email Reports by Steven Smith|http://www.aspalliance.com/stevesmith/articles/ScheduledEmailReports.asp
+Schomburg.org|http://www.Schomburg.org
+Science Connection|http://www.SciConnection.com
+Scientific American|http://www.sciam.com
+Scott Howlett and Darryl Jennings: SQL Server 2000 and XML - Developing XML Enabled Data Solutions for the Web|http://msdn.microsoft.com/msdnmag/issues/02/01/SQLXML/SQLXML.asp
+Scott Machado: Export Data with XML and XSLT|http://advisor.com/doc/11785
+Scott Machado: Export Data with XML and XSLT (Download)|http://advisor.com/wFiles.nsf/vFileID/11785.zip/$file/11785.zip
+Scott Mitchell, Bill Anders, Rob Howard, Doug Seven, Stephen Walther, Christop Wille, and Don Wolthuis: ASP.NET Tips, Tutorials, and Code|http://www.yaxoo.com/books/Scripting/Common%20ASP_NET%20Code%20Techniques.pdf
+Scott Mitchell, Bill Anders, Rob Howard, Doug Seven, Stephen Walther, Christop Willie, and Don Wolthuis: ASP.NET Tips, Tutorials, and Code|http://67.80.253.132:8887/Common%20ASP_NET%20Code%20Techniques.pdf
+Scott Mitchell: An Extensive Examination of Data Structures|http://msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dv_vstechart/html/datastructures_guide5.asp
+Scott Mitchell: Creating a Pageable, Sortable DataGrid|http://msdn.microsoft.com/asp.net/?pull=/library/en-us/dnaspp/html/aspnet-pageablesortable.asp
+Scott Mitchell: Creating a Pageable, Sortable DataGrid (Download)|http://download.microsoft.com/download/d/6/e/d6e04a4c-c097-48d8-a195-030fa0e7170e/PageableSortableDataGridDemo.msi
+SecurityFocus.com|http://www.SecurityFocus.com
+SecurityFocus.com: Forensic Log Parsing with Microsoft's Log Parser|http://www.SecurityFocus.com/infocus/1712
+Sekondi-Takoradi, Ghana (Oakland's Sister City)|mailto:gcberkley@aol.com
+SellBrothers.com|http://www.sellbrothers.com
+Semantic Web|http://www.semanticweb.org
+Server Blade Trade Association|http://www.serverbladeta.org
+ServiceOriented.ws with Thomas Erl|http://www.ServiceOriented.ws
+Shantanu Bhattacharya: Creating a SQL Server Database Programmatically using SQLDMO|http://www.c-sharpcorner.com/Code/2002/Mar/CreateSQLDBusingSQLDMOSB.asp
+Shantanu Bhattacharya: Creating a SQL Server Database Programmatically using SQLDMO (Code)|http://www.c-sharpcorner.com/Code/2002/Mar/CreateSQLDBUsingSQLDMOCode.zip
+Shared Source Common Language Infrastructure (ROTOR)|http://www.sscli.net
+Shavlik Technologies|http://www.shavlik.com
+Shawn Burke: Using the Microsoft .NET Framework to Create Windows-based Applications|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dndotnet/html/netwinforms.asp?frame=true
+Simon Robinson|http://www.simonrobinson.com
+Simon St. Laurent|http://www.simonstl.com
+SimpleWeb.org|http://www.simpleweb.org
+Singapore: Trade Net System|http://www.tradenet.gov.sg
+SiteBuilder|http://www.sitebuilder.com
+SlipStick.com with Sue Mosher|http://www.SlipStick.com
+SmartSolutions|http://www.MSsmartsolutions.com
+Snee.com with Bob DuCharme|http://www.snee.com
+Snippet Compiler with Jeff Key|http://www.Sliver.com/dotnet/SnippetCompiler
+SNMP.com|http://www.snmp.com
+SOAP Web Services|http://www.soapwebservices.net
+SoftConcepts.com|http://www.SoftConcepts.com
+SoftSource with Kristy K. Saunders|http://www.sftsrc.com
+Software Engineering Institute: Volume II Technical Concepts of Component-Based Software Engineering, CMU/SEI-2000-TR-008, 2000|http://www.sei.cmu.edu/publications/documents/00.reports/00tr008.html
+Software Insight with Brian Noyes|http://www.softinsight.com
+SoftwareArtisans|http://support.softartisans.com/evalindex.asp
+SoftwareFX: Chart FX Lite (Free .NET Charting)|http://www.softwarefx.com
+SoftwareFX: Chart FX Lite | Serial Number: CLN60070942138131 (Please Use Uppercase Letters) | Email: kenadeniji@hotmail.com | Password: password|http://www.softwarefx.com/GetChartFXLite/GetCfxLiteSubmitData.asp
+SoftwareResearch.net: Index of /site/teaching/WS0203/PDFdocs.SE1|http://www.softwareresearch.net/site/teaching/WS0203/PDFdocs.SE1/
+Solid Quality Learning|http://www.solidqualitylearning.com
+SoundOfHope.net|http://www.soundofhope.net
+SourceGear|http://www.sourcegear.com
+Springer|http://springer.de
+SQL Server Developers Network (SQLDev.Net) with Gert E.R. Drapers|http://sqldev.net
+SQL Server Magazine|http://www.sqlmag.com
+SQL Server Users Group (Israel) with Itzik Ben-Gan|http://www.sql.co.il
+SQL-Ledger.com with Dieter Simader|http://www.SQL-Ledger.com
+SQL-Server-Performance.com|http://www.SQL-Server-Performance.com
+SQL-Server-Performance.Com: Miscellaneous SQL Server Performance Tuning Tips|http://www.sql-server-performance.com/misc_tips.asp
+SQLCourse|http://www.Sqlcourse.com
+SQLServerCentral.com|http://www.sqlservercentral.com
+sqlx.org|http://www.sqlx.org
+srtsolutions.com|http://www.srtsolutions.com
+St Louis .NET User Group|http://www.stlnet.org
+Stanford University: TAP Project|http://tap.stanford.edu
+Steema|http://www.steema.com
+Steema: Tee Chart Office|http://www.teechart.net/files/teechartoffice/TeeChartOffice.zip
+Stephen J. Mellor: Executable and Translatable UML (XTUML)|http://www.embedded.com
+Sterling Solutions with Dan Hurwitz|http://www.stersol.com
+Steve Bell: Standard XSLT Library|http://xsltsl.sourceforge.com
+Steve C. Orr|http://steve.orr.net
+Steve Kirk: Design Strategies for Scalable Active Server Applications|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnasp/html/msdn_aspscale.asp
+Steve Muench: Building Oracle XML Applications (ISBN 1-56592-691-9) Chapter 7 Transforming XML with XSLT|http://www.oreilly.com/catalog/orxmlapp/chapter/ch07.html
+Steve Saxon: XPath Querying Over Objects with ObjectXPathNavigator|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnexxml/html/xml03172003.asp
+Steve Saxon: XPath Querying Over Objects with ObjectXPathNavigator (Download)|http://download.microsoft.com/download/a/1/7/a17e6646-d411-40b4-a0e4-a50d4c946698/xml03172003_sample.exe
+Steven Feuerstein|http://www.stevenfeuerstein.com
+Steven Smith: Component Architecture Best Practices|http://www.aspalliance.com/stevensmith/articles/components.asp
+Stewart McGlaughlin: Stewartmc.com/Oracle|http://www.stewartmc.com/oracle
+Stewart McGlaughlin: Stewartmc.com: OraSnap|http://www.stewartmc.com/oracle/orasnap
+StudyTheWorld.com|http://www.StudyTheWorld.com
+Subaru|http://www.subaru.com
+Sudhakar Sadasivuni: PDF Converter|http://www.c-sharpcorner.com/Code/2002/Aug/PdfConverter.asp
+sufisattari.com: Muslim Calendar|http://www.sufisattari.com/calendar.html
+Sun Microsystem: StarOffice XML File Format|http://xml.openoffice.org
+Sun.com: Exceptions|http://java.sun.com/docs/books/tutorial/essential/exceptions
+Sun.com: Handling Errors with Exceptions|http://java.sun.com/docs/books/tutorial/essential/exceptions/
+Sun: Java(TM) 2 Platform, Enterprise Edition 1.4 j2sdkee-1_4-beta-windows.exe Filesize = 31,091,569 bytes.|http://java.sun.com/webapps/download/Redirect/31448312/58474793772828590235020633930286600705350560724608606933322859023502063393028628020586061210696902727228071972598202022841085902786058473206-6771/j2sdkee-1_4-beta-windows.exe
+Sun: Java(TM) 2 SDK, Standard Edition 1.4.1_02 j2sdk-1_4_1_02-windows-i586.exe Filesize = 37,994,678 bytes.|http://java.sun.com/webapps/download/Redirect/31448869/5847479377282807053505607246086069333228071972022813600060132859339008063305596058473206-3865/j2sdk-1_4_1_02-windows-i586.exe
+Sundblad & Sundblad|http://www.2xsundblad.com
+Surf Station|http://www.surfstation.lu
+Survey.com Hard Drive Issues|http://www.execsoft.com/diskalert/reviews/hard-drive-survey.asp
+Susan Warren: A Matter of Context|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnaspnet/html/asp01242002.asp
+Susan Warren: Creating Custom ASP.NET Controls in VS.NET|http://www.swarren.net/CustomControls.doc
+Susan Warren: Susan Warren Program Manager, Microsoft ASP.NET Team swarren@microsoft.com|http://www.swarren.net
+Susan Warren: XmlEditGrid|http://www.asp.net/ControlGallery/ControlDetail.aspx?Control=12&tabindex=0
+Sygate Technologies|http://www.sygate.com
+SyGate: Personal Firewall|http://soho.sygate.com
+SyncFusion|http://www.syncfusion.com
+Syndic8.com|http://www.Syndic8.com
+Syngress: Building an ASP.NET/ADO.NET Shopping Cart with Web Services|http://www.harcourt-international.com/e-books/pdf/382.pdf
+Synthigence Corp|http://www.synthigence.com
+Syscon: .NET Developer's Journal|http://www.sys-con.com/dotnet/
+Syscon: Developer|http://developer.sys-con.com
+SysInternals.com with Mark Russinovich|http://www.SysInternals.com
+System Administration, Networking, Security (SANS) Institute|http://www.sans.org
+T-SQL Solutions|http://www.tsqlsolutions.com
+t.zhwin.ch: Overview of SNMP|http://www-t.zhwin.ch/it/ksy/Block07/SNMP_Overview.pdf
+TakeNote Technologies with Jim Duffy|http://www.takenote.com
+Tanguay.info|http://www.tanguay.info
+Tanguay.info: XSLT|http://www.tanguay.info/category.aspx?s=WEB&c=xslt
+Tara Software|http://www.tarasoftware.com
+TDK|http://www.tdk.com
+Teachdotnet@wellsRegister.com|mailto:Teachdotnet@wellsregister.com
+TeachYourselfCSharp.com|http://www.TeachYourselfCSharp.com
+Team Database|http://www.teamdatabase.com
+Team Database: Exam objectives, study guide, practice exam|http://www.teamdatabase.com/certifications/IndustryExam.db
+Tech Training Workshop|http://www.techtrainingworkshop.com
+Tech Training Workshop: Course Builder|http://www.techtrainingworkshop.com/coursebuilder
+Technology at Harvard Law Internet technology hosted by Berkman Center: RSS 2.0 Specification|http://blogs.law.harvard.edu/tech/rss
+Technology Review|http://www.TechnologyReview.com
+TechnologyReview.com|http://TechnologyReview.com
+TechSmith.com|http://www.TechSmith.com
+Ted Neward: Hosting ASP.NET - Running an All-Managed HTTP Server|http://www.clrgeeks.com/Papers/HostingASPNET/
+Telecommunication Standardization Sector (ITU-T) formerly Comite Consultatif International Telephonique et Telegraphique (CCITT)|http://www.ITU.int
+Testing.com with Brian Marrick|http://www.Testing.com
+The Dream Giver with Bruce Wilkinson|http://www.thedreamgiver.com
+The Imaging Source: TX Text Control|http://www.textcontrol.com
+The Internet Dictionary Project|http://www.june29.com/IDP/IDPfiles.html
+The Memorability and Security of Passwords - Some Emperical Results|http://www.ftp.cl.cam.ac.uk/ftp/users/rja14/tr500.pdf
+The New Republic|http://www.TheNewRepublic.com
+The Open Group|http://www.opengroup.org
+The Second International Semantic Web|http://iswc2003.semanticweb.org
+The Stencil Group|http://www.stencilgroup.com
+The Stencil Group: Understanding Web Services Management|http://www.stencilgroup.com/ideas_scope_200206wsmgt.html
+The XML Files: XML in Microsoft Office Word 2003 -- MSDN Magazine, November 2003 Aaron Skonnard|http://msdn.microsoft.com/msdnmag/issues/03/11/XMLFiles
+theserverside.com|http://www.theserverside.com
+Thesis.de|http://www.thesis.de
+Things to Know and Avoid When Querying XML Documents with XPath by Dare Obasanjo Microsoft Corporation |http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnexxml/html/xml06172002.asp
+ThinkDotNet|http://www.thinkdotnet.com
+Thinking in C# by Bruce Eckel of MindView|http://www.mindview.net/Books/TICSharp
+Thinkingin.net|http://www.thinkingin.net
+Thomas Dohmke: .NET und XML|http://thomas.dohmke.de/dokumente/dotnetxml_folien.pdf
+Thomas Marquardt: ASP.NET Performance Monitoring, and When to Alert Administrators|http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnaspp/html/monitor_perf.asp
+Thomas Scheidegger: Messaging Application Programming Interface (MAPI) SimpleMAPIDotNet.asp|http://www.CodeProject.com/CSharp/SimpleMAPIDotNet.asp
+ThomasErl.com with Thomas Erl|http://www.ThomasErl.com
+Thompson Learning|http://www.thompsonlearning.com
+Thornton Avenue Baptist Church|http://www.tabcfremont.org
+ThoughtWorks with Martin Fowler|http://www.thoughtworks.com
+Tibetan Qigong: 5 directions, elements, colors, visualizations, organ systems.|http://www.tibetanqigong.org
+Tim Bray: Annotated XML Specification|http://www.xml.com/axml/testaxml.htm
+Tim Ewald: .NET Remoting and Web Services|http://msdn.microsoft.com/webservices/building/frameworkandstudio/default.aspx?pull=/library/en-us/dnbda/html/bdadotnetarch16.asp
+Tim Lahaye and David Noebel: Mind Siege ISBN: 0-8499-1672-0 |http://www.ministries.org
+TMIResearch.com|http://tmiresearch.com
+Todai|http://www.todai.com
+Tom Barnaby: The Evolution of Distributed Programming|http://www.intertech-inc.com/DOWNLOADS/Chapters/DNetPC.pdf
+TopXML.com: XSLT and ASP.NET|http://www.topxml.com/dotnet/articles/xslt/default.asp
+Toyota|http://www.toyota.com
+TrainingMag.com|http://www.trainingmag.com
+TrainingTools|http://www.trainingtools.com
+TransactSQL.com|http://www.transactsql.com
+TravelGuidetoHeaven.com with Anthony Destefano|http://www.TravelGuidetoHeaven.com
+Travlang.com: Ergane|http://download.travlang.com/Ergane/frames-en.html
+Travlang.com: Vocabulary Files|http://download.travlang.com/Ergane/vocab.html?EN
+Treat-Your-Workers.org|http://www.treat-your-workers.org
+Trend Micro|http://www.antivirus.com
+Tri-Valley Herald Tri-ValleyHerald.com Livermore, Pleasanton, Dublin|http://www.Tri-ValleyHerald.com
+Tridia: VNC|http://www.tridiavnc.com/vnc
+TripleASP.NET|http://www.tripleasp.net
+TxSqlUsers.com|http://www.TxSqlUsers.com
+Tzu Chi|http://www.tzuchi.org
+UberASP.net|http://www.uberasp.net
+UDDICentral.com|http://www.uddicentral.com
+uiowa.edu: Resources for Creating Accessible Web Sites|http://www.medicine.uiowa.edu/uhs/access/tipresource.cfm#usability
+Unicode.org|http://www.unicode.org
+United Nations High Commissioner for Refugees|http://www.unhcr.org
+United States Government: Section 508|http://www.section508.gov
+United States Securities and Exchange Commission|http://www.Sec.gov
+Universal Thread|http://www.universalthread.com
+University of Augsburg Institute of Computer Science|http://www.informatik.uni-augsburg.de/indexEng.html
+University of Augsburg Institute of Computer Science: ASP.NET|http://www.informatik.uni-augsburg.de/lehrstuehle/info1/lehre/ws0203/swt/intern/dotnet/ASP.NET.pdf
+University of California (UC) Berkeley: Workstation Support Services (WSS) XML/XSL Project|http://wssg.berkeley.edu/public/presentations/2001-07-24-webnet/xslt-resources.html
+unixodbc.org|http://www.unixodbc.org
+USDOJ: Community Relations Service|http://www.usdoj.gov/crs
+Useit.com with Jakob Nielson|http://www.useit.com
+Userland.com with Dave Winer|http://www.Userland.com
+Userland.com with Dave Winer: RSS 2.0|http://backend.Userland.com/rss
+VB-Joker|http://www.vb-joker.com
+VB.Doc|http://vb-doc.sourceforge.net
+VBXml|http://www.vbxml.com
+Vienna Choir Boys|http://www.wsk.at
+Vijay Gummandi and Shantanu Dhar: Xml & Web Services Magazine: Write Better Modules With Quality DTDs. Consider four simple, powerful techniques for modeling flexible and extensible XML Document Type Definitions|http://www.fawcette.com/xmlmag/2002_08/magazine/columns/practice/vgummandi/
+Visual .NET Advisor|http://www.visualnetadvisor.com
+Visual Data Solutions|http://www.visualmaxframe.com
+VisualBuilder.com|http://www.visualbuilder.com
+Volt.com|http://www.Volt.com
+VSJ|http://www.net.vsj.co.uk
+vslive.com: ASP.NET Server Controls|http://www.vslive.com/2003/sf/chapters/ASPNutshell.pdf
+w3Schools.com|http://www.w3schools.com
+w3schools:XSL School|http://www.w3schools.com/xsl/
+Wadsworth.com|http://www.Wadsworth.com
+WaitersOnWheels.com|http://waitersonwheels.com
+wccnet.org: C# for C++ Developers|http://orchard.wccnet.org/~chasselb/win293/ClassNotes/dot_net/CsForCpp.pdf
+wccnet.org: C# for Java Developers|http://orchard.wccnet.org/~chasselb/win293/ClassNotes/dot_net/CsForJava.pdf
+WCETV: The Internet Broadcast Channel|http://www.wcetv.com
+Web Development Group (WDG): Cascading Style Sheet (CSS) Check|http://www.htmlhelp.com/tools/csscheck/
+Web Services Interoperability Organization|http://www.ws-i.org
+Web Services Security Technical Committee|http://www.oasis-open.org/committees/wss
+WebDAV web-based Distributed Authoring and Versioning Protocol from the Internet Engineering Task Force (IETF)|http://www.webdav.org
+WebMonkey|http://hotwired.lycos.com/webmonkey
+WebProfession|http://webprofession.com
+WebReference.com|http://www.webreference.com
+WebReference.com: View State|http://www.webreference.com/programming/asp/viewstate
+WebReview.com: Style Sheet Reference Guide Master Grid|http://www.webreview.com/style/css1/charts/mastergrid.shtml
+WebServices Journal|http://www.wsj2.com
+Well.com: Software Quality Assurance|http://www.well.com/~vision/sqa.html
+WellsRegister.com|http://www.Wellsregister.com
+Werner Roth|http://www.wernerroth.de/en
+West-Wind.com|http://www.west-wind.com
+westciv.com: Cascading Style Sheet (CSS) Tutorial|http://www.westciv.com/style_master/academy/css_tutorial
+Whatis.com|http://www.whatis.com
+William Pearson: Introduction to SQL Server 2000 Analysis Services: Creating Our First Cube|http://www.databasejournal.com/features/mssql/article.php/1429671
+William R. Vaughn with Peter Blackburn: ADO.NET Examples and Best Practices for C# Programmers, Second Edition ISBN # 1-59059-012-0 Introducing ADO.NET|http://www.vslive.com/2002/sf/Chapter_1-2.pdf
+Windows .NET Server|http://msdn.microsoft.com/windowsnetserver/
+Windows Developer Magazine|http://www.wd-mag.com
+Windows Management Instrumentation (WMI) Administrative Tools (Download)|http://download.microsoft.com/download/.NetStandardServer/Install/V1.1/NT5XP/EN-US/WM
+ITools.exe
+Windows Network Magazine|http://www.winnetmag.com
+Windows Scripting Solutions|http://www.winscriptingsolutions.com
+Windows2000Advantage.com|http://www.Windows2000Advantage.com
+Winformation Systems|http://winformationsystems.com
+WinPortal.com|http://www.WinPortal.com
+Wintellect.com: Archives|http://www.wintellect.com/resources/articles.aspx
+Wintellect.com: FAQs|http://www.wintellect.com/resources/faqs/default.aspx
+Wintellect.com: Tip Archives|http://www.wintellect.com/resources/tip/tip_archive.aspx
+WMI and .NET System.Management Lets You Take Advantage of WMI APIs within Managed Code |http://msdn.microsoft.com/msdnmag/issues/02/05/WMIMan/WMIMan.asp
+WolframScience.com with Stephen Wolfram|http://www.WolframScience.com
+World Journalism Institute|http://www.worldji.com
+World Wide Web Consortium (W3C): Cascading Style Sheet (CSS) Validation Service|http://jigsaw.w3.org/css-validator/
+World Wide Web Consortium (W3C): Cascading Style Sheets, level 1 CSS1|http://www.w3.org/TR/REC-CSS1
+World Wide Web Consortium (W3C): Cascading Style Sheets, level 1 CSS1 (PDF)|http://www.w3.org/Style/css1-updates/REC-CSS1-19990111.pdf
+World Wide Web Consortium (W3C): DOM|http://www.w3.org/dom
+World Wide Web Consortium (W3C): HTML Validation Service|http://validator.w3.org
+World Wide Web Consortium (W3C): Namespaces in XML|http://www.w3.org/TR/REC-xml-names/
+World Wide Web Consortium (W3C): Request Headers|http://www.w3.org/pub/www/protocols/http/1.0/spec.txt
+World Wide Web Consortium (W3C): Web Accessibility Initiative (WAI)|http://www.w3.org/wai
+World Wide Web Consortium (W3C): Web Services|http://www.w3.org/2002/ws
+World Wide Web Consortium (W3C): Web Services Architecture Usage Scenarios|http://www.w3.org/tr/2002/wd-ws-arch-scenarios-20020730/
+World Wide Web Consortium (W3C): Web Style Sheets|http://www.w3.org/Style/
+World Wide Web Consortium (W3C): XForms 1.0|http://www.w3.org/TR/xforms
+World Wide Web Consortium (W3C): XForms 1.0 single HTML File|http://www.w3.org/TR/xforms/index-all.html
+World Wide Web Consortium (W3C): XForms Specification Examples|http://www.w3.org/MarkUp/Forms/2002/Examples/spec-examples/
+World Wide Web Consortium (W3C): XHTML|http://www.w3.org/xhtml
+World Wide Web Consortium (W3C): XKMS|http://www.w3.org/2001/xkms
+World Wide Web Consortium (W3C): XML Characters|http://www.w3.org/TR/2000/REC-XML-20001006.html
+World Wide Web Consortium (W3C): XML Path Language (XPath)|http://www.w3.org/TR/xpath
+World Wide Web Consortium (W3C): XML Query Requirements|http://www.w3.org/TR/xmlquery-req
+World Wide Web Consortium (W3C): XML Query Use Cases|http://www.w3.org/TR/xmlquery-use-cases
+World Wide Web Consortium (W3C): XML Query Use Cases Working Draft 20011220|http://www.w3.org/TR/2001/WD-xmlquery-use-cases-20011220
+World Wide Web Consortium (W3C): XML Query Use Cases XQuery Sample Queries|http://www.w3.org/TR/2002/WD-xmlquery-use-cases-20021115/xquery-wd-queries.txt
+World Wide Web Consortium (W3C): XML Schema Part 1: Structures|http://www.w3.org/TR/xmlschema-1
+World Wide Web Consortium (W3C): XML Signature|http://www.w3.org/signature
+World Wide Web Consortium (W3C): XQuery 1.0 and XPath 2.0 Functions and Operators|http://www.w3.org/TR/xquery-operators/
+World Wide Web Consortium (W3C): XQuery 1.0: An XML Query Language|http://www.w3.org/TR/xquery/
+World Wide Web Consortium (W3C): XQuery and XPath Full-Text Use Cases|http://www.w3.org/TR/xmlquery-full-text-use-cases/
+World Wide Web Consortium (W3C): XQuery Use Cases Queries|http://www.w3.org/TR/2002/WD-xmlquery-use-cases-20021115/xquery-use-case-queries.txt
+World Wide Web Consortium (W3C): XQuery XML Syntax|http://www.w3.org/TR/xqueryx
+World Wide Web Consortium (W3C): XSL|http://www.w3.org/TR/xsl/
+World Wide Web Consortium (W3C): XSL Transformations (XSLT)|http://www.w3.org/TR/xslt
+World Wide Web Consortium (W3C): XSL Transformations (XSLT) Version 2.0|http://www.w3.org/TR/xslt20/
+World Wide Web Consortium (W3C): XSL-FO 1.0 Recommendation|http://www.w3.org/TR/XSL
+WorldJournal.com|http://www.WorldJournal.com
+WorldStudy.com.Br|http://www.WorldStudy.com.Br
+Worldwide Institute of Software Architects|http://www.wwisa.org
+Wrox.com|http://www.wrox.com
+Wrox: Beginning C# XML Essential XML Skills for C# Programmers ISBN: 1861006284 (Code FTP)|ftp://ftp.wrox.com/download/code/Beginning/6284.zip
+Wrox: Beginning C# XML Essential XML Skills for C# Programmers ISBN: 1861006284 (Code HTTP)|http://web.wrox.com/download/code/beginning/6284.zip
+Wrox: P2P|http://p2p.wrox.com
+Wrox: Professional .NET Network Programming (ISBN 1-861007-35-3)|http://www.wrox.com/books/1861007353.htm
+Wrox: Professional .NET Network Programming (ISBN 1-861007-35-3) FTP (Code Sample)|ftp://ftp.wrox.com/download/code/7353_DotNetNetworking.zip
+Wrox: Professional .NET Network Programming (ISBN 1-861007-35-3) HTTP (Code Sample)|http://web.wrox.com/download/code/7353_dotnetnetworking.zip
+Wrox: Professional ASP.NET 1.0 XML with C# ISBN: 1861007248 (Code FTP)|ftp://ftp.wrox.com/download/code/Professional/7248Code.zip
+Wrox: Professional ASP.NET 1.0 XML with C# ISBN: 1861007248 (Code HTTP)|http://web.wrox.com/download/code/professional/7248code.zip
+Wrox: XSLT Programmer's Reference 2nd Edition ISBN: 1861005067 (Code FTP)|ftp://ftp.wrox.com/download/code/instant/xsltprogref.zip
+Wrox: XSLT Programmer's Reference 2nd Edition ISBN: 1861005067 (Code HTTP)|http://web.wrox.com/download/code/instant/xsltprogref.zip
+WroxBase.com|http://www.wroxbase.com
+x-port.net: Forms Player 0.9.1.4 (Software)|http://www.formsplayer.com/download/formsplayer%2009.msi
+x-port.net: Forms Player Download|http://www.formsplayer.com/download/
+X-Smiles.org with Helsinki University of Technology|http://www.X-Smiles.org
+XForms Institute with Micah Dubinko|http://www.xformsinstitute.com
+xfront|http://www.xfront.com
+xfront.com: Country List|http://www.xfront.com/Countries.xsd
+xfront.com: World Factbook|http://www.xfront.org/factbook.xml
+xfront: XML Schemas: Best Practices|http://www.xfront.com/BestPracticesHomepage.html
+Xml for ASP.NET with Dan Wahlin|http://www.xmlforasp.net
+Xml for ASP.NET with Dan Wahlin: .NET for Scalable Vector Graphics (SVG)
+|http://www.xmlforasp.net/codeSection.aspx?csID=39
+Xml for ASP.NET with Dan Wahlin: .NET for Scalable Vector Graphics (SVG)|http://www.fawcette.com/xmlmag/code/2002_08/xm0208nd.zip
+Xml for ASP.NET with Dan Wahlin: Transforming XML with XSLT and ASP.NET|http://www.aspalliance.com/chapters/xmlforaspnet/chapter7.pdf
+XML Software|http://www.xmlsoftware.com
+XML Web Services|http://www.xmlwebservices.cc
+XML Web Services for ASP.NET|http://www.xmlws101.com
+XML, HTML, XHTML Magic (New Riders)|http://www.xhtml-resources.com
+XML-BenchMark.org|http://www.XML-BenchMark.org
+XML-Journal|http://www.xml-journal.com
+Xml.Amazon.com|http://Xml.Amazon.com
+Xml.com|http://www.xml.com
+Xml.com: XPath and XQuery|http://www.xml.com/pub/a/2002/03/20/xpath2.html
+XMLBooks.com with Charles F. Goldfarb|http://www.XMLBooks.com
+XMLFiles.com|http://www.xmlfiles.com
+XProgramming.com with Ron Jeffries|http://www.XProgramming.com
+xs4all.nl with Simon North|http://www.xs4all.nl
+xsldoc.org|http://www.xsldoc.org/
+XSLT Library|http://xsltsl.sourceforge.net
+xslt.com|http://www.xslt.com
+Xtras.Net|http://www.xtras.net
+Xtras.Net: Visual Studio .NET Resources|http://www.xtras.net/VisualStudio.Net.asp
+XtremeWork.com with Xin Chen|http://www.XtremeWork.com
+Yasser Shohoud: LearnXmlws.com Newsletter|http://www.learnxmlws.com/newsletter
+Zero-Knowledge|http://www.freedom.net
+ZoneLabs|http://www.zonelabs.com
+Zoran Popovic: Neural limits of visual resolution|http://www.oftalmologi.gu.se/hp/research/thesis/Doctorate%20theses/Z%20Popovic.pdf
+Zvon.org: XSLT Reference|http://www.zvon.org/xxl/xsltreference/output/index.html
