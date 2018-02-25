@@ -1,0 +1,107 @@
+Gutenberg
+Predecessor
+SELECT * FROMqwe 
+	Yield
+The boys from Brazil	
+	   |       |
+At every parameter	H
+	                O
+<address>           W
+  <uri>GutenbergRogetThesaurusOfEnglishWordsAndPhrasesWebForm.aspx</uri>
+  <title>Gutenberg Roget's Thesaurus of English Words and Phrases</title>
+  <dated>2004-02-25T00:00:00.0000000-08:00</dated>
+ </address> 
+ <address>
+  <uri>GutenbergWebsterUnabridgedDictionaryWebForm.aspx</uri>
+  <title>Gutenberg Webster's Unabridged Dictionary</title>
+  <dated>2004-02-23T00:00:00.0000000-08:00</dated>
+ </address> 	      D
+	                  O
+	                  Y
+	                  O
+	                  U
+	                  W
+	                  A
+	                  L
+	                  K
+	                  A
+	                  R
+	                  O
+	                  U
+	                  N
+	                  D
+	                  T
+	                  H
+	                  E
+	                  M
+	                  O
+	                  o
+	                  N
+	                  A
+	                  N
+	                  D
+	                  D
+	                  O
+	                  N
+	                  T
+	                  T
+	                  O
+	                  U
+	                  C
+	                  H
+	                  T
+	                  H
+	                  E
+	                  S
+	                  T
+	                  A
+	                  R
+	SELECT DictionaryWord, Commentary FROM WebsterUnabridgedDictionary ( NOLOCK ) WHERE DictionaryWord LIKE '{0}'
+	SELECT DictionaryWord, Commentary FROM WebsterUnabridgedDictionary ( NOLOCK ) WHERE DictionaryWord LIKE '%Predecessor%'; In all the world.
+	SELECT DictionaryWord, Commentary FROM WebsterUnabridgedDictionary ( NOLOCK ) WHERE DictionaryWord LIKE '%Predecess%'; In all the world.	
+	SELECT DictionaryWord, Commentary FROM WebsterUnabridgedDictionary ( NOLOCK ) WHERE DictionaryWord LIKE '%Pred%'; In all the world.		
+SELECT * FROM WebsterUnabridgedDictionary ( NOLOCK ) WHERE DictionaryWord LIKE '%Pred%'; In all the world.			
+The man you call on both sides.
+ <address>
+  <dated>2003-11-29T00:00:00.0000000-08:00</dated>
+  <keyword/>
+  <title>Both Sides</title>
+  <uri>Comforter_-_20031129ViewTheManYouCallOnBothSides.xml</uri>
+ </address>
+	SELECT DATEDIFF('20051016', '20031129');
+	                Edo Sushi Helen Kim Joe
+	                	Sierra
+	                	Schecow Distributed Database Osborne
+	SELECT DATEDIFF(day, '20051016', '20031129');	                	
+	SIWOCyprus
+		We chance we don't survive.
+		28     34 28 53    116
+		          90
+		In a nuclear bomb. (stay in the middle).                  94569 
+		Ohun omo pa kiniyi. (Dave A woman rides the beast Hunt). KHOUSE
+SELECT * FROM AlphabetSequence WHERE Word LIKE '%Count Paul%'; SELECT DATEDIFF(day, '20051016', '20031129'); /* 2005-11-16T23:11:00.0000000-08:00 Mark Wattles */ /* For you and me. In all the world. */ /* Ohun ni pe Canada lohun ti wa. */ /* You said this man is */ /*Cyanna Salvador*/ /*If He will use me, I will value Him.*/ /* 2005-10-17T01:41:00.0000000-08:00 Roger Durn PowerSoft Soak it in */ /* 2005-10-17T01:41:00.0000000-08:00 Farah */ /* How do the administrate the cost in marginalizing? */ /*If the size is lower than all the other sizes, get out.*/ /* 2005-10-17T01:41:00.0000000-08:00 heart attack ko ma drop the ball Wehbe*/ /* 2005-11-17T05:02:00.0000000-08:00 If you purchased it, yes. */ /* Comforter_-_20040711BiblePercent.xml */ /*Rainbow clockwise */ /* Suzerainty Treaty Michael Aune */
+/* 491 6472 2004-05-09 00:00:00.000 Left behind, Count Paul, You have left behind the longest serving loving sentimental. */
+//SELECT DATEDIFF( day, '2004-05-09', '2005-10-16' ) 525
+INSERT Remember
+(
+	[TheWordId],
+	[DatedFrom],
+	[DatedUntil],
+	[Filename],
+	[Commentary],
+	[ScriptureReference],
+	[ContactId]
+)
+VALUES
+(
+ 491, --TheWordId
+ '20040509', --DatedFrom
+ '20051016', --DatedUntil
+ 'Comforter_-_20040509WeAreConfusedIThoughtYouSaidYouHaveToBeMyCo-sister.xml', --Filename
+ 'Left behind, Count Paul, You have left behind the longest serving loving sentimental.', --Commentary
+ NULL, --scripture reference
+ 113 --ContactId
+)
+SELECT TOP 1 FromUntil FROM Remember ORDER BY DatedUntil DESC
+
+--BACKUP DATABASE WordEngineering TO DISK = 'D:\SQLServerBackup\WordEngineering\WordEngineering_db_20051016.BAK'
