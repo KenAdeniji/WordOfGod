@@ -106,6 +106,9 @@ namespace WordEngineering
   /// <summary>TextBoxURI</summary>
   protected System.Web.UI.WebControls.TextBox                TextBoxURI;
 
+  /// <summary>TextBoxInternetCountryCodeTopLevelDomain_ccTLD</summary>
+  protected System.Web.UI.WebControls.TextBox                TextBoxInternetCountryCodeTopLevelDomain_ccTLD;
+
   /// <summary>Page Load.</summary>
   public void Page_Load
   (
@@ -238,6 +241,19 @@ namespace WordEngineering
     TextBoxDatedTo.Text = value;
    }
   }//public String DatedTo
+
+  /// <summary>InternetCountryCodeTopLevelDomain_ccTLD</summary>
+  public String InternetCountryCodeTopLevelDomain_ccTLD
+  {
+   get
+   {
+    return ( TextBoxInternetCountryCodeTopLevelDomain_ccTLD.Text );
+   } 
+   set
+   {
+    TextBoxInternetCountryCodeTopLevelDomain_ccTLD.Text = value;
+   }
+  }
 
   /// <summary>Keyword</summary>
   public String Keyword
